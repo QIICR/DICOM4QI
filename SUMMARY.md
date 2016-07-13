@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Scope](intro/scope)
+   * [Scope](intro/scope.md)
    * [Participants](intro/participants)
    * [Contributing to this document](intro/contributing)
 * [Instructions for participants](instructions)
