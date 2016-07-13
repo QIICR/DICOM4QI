@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Scope](intro/scope.md)
-   * [Participants](intro/participants)
+   * [Participants](intro/participants.md)
    * [Contributing to this document](intro/contributing)
 * [Instructions for participants](instructions)
    * [Segmentations (DICOM SEG)](instructions/seg)
