@@ -12,6 +12,6 @@
    * [Segmentations (DICOM SEG)](results/seg)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500)
    * [Parametric maps](results/pm)
-* [Acknowledgments](acks)
+* [Acknowledgments](acks.md)
 * [References](refs.md)
 
