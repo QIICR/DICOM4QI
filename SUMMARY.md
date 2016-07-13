@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Goals](intro/scope)
-   * [Participating platforms](intro/participants)
-   * [Contributing](intro/contributing)
+   * [Scope](intro/scope)
+   * [Participants](intro/participants)
+   * [Contributing to this document](intro/contributing)
 * [Instructions for participants](instructions)
    * [Segmentations (DICOM SEG)](instructions/seg)
    * [Measurements (DICOM SR TID1500)](instructions/sr-tid1500)
