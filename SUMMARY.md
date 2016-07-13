@@ -2,6 +2,7 @@
  * [Goals](intro/scope)
  * [Scope](intro/scope)
  * [Participating platforms](intro/participants)
+ * [Contributing](intro/contributing)
 * [Instructions for participants](instructions)
  * [Segmentations (DICOM SEG)](instructions/seg)
  * [Measurements (DICOM SR TID1500)](instructions/sr-tid1500)
