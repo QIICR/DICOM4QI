@@ -5,7 +5,7 @@
    * [Participants](intro/participants.md)
    * [Contributing to this document](intro/contributing.md)
 * [Instructions for participants](instructions.md)
-   * [Segmentations (DICOM SEG)](instructions/seg)
+   * [Segmentations (DICOM SEG)](instructions/seg.md)
    * [Measurements (DICOM SR TID1500)](instructions/sr-tid1500)
    * [Parametric maps](instructions/pm)
 * [Results](results)
