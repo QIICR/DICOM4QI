@@ -1,10 +1,8 @@
 # Segmentations (DICOM SEG)
 
-### Test dataset #1
 
-The imaging dataset is a chest CT with a lung lesion located in the right lung lobe. This dataset is subject LIDC-IDRI-0314 from The Cancer Imaging Archive ([TCIA](http://www.cancerimagingarchive.net/)) [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) collection.
 
-**Tasks for participants**
+Tasks for participants:
 
 1. **Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform. Submit the screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata), to Andrey Fedorov.
 
@@ -12,15 +10,31 @@ The imaging dataset is a chest CT with a lung lesion located in the right lung l
  
 Note: (1) we are not assessing the accuracy of lesion segmentation, any method is as good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this report.
 
-**Test data**
+### Test dataset #1
+
+The imaging dataset is a chest CT with a lung lesion located in the right lung lobe. This dataset is subject LIDC-IDRI-0314 from The Cancer Imaging Archive ([TCIA](http://www.cancerimagingarchive.net/)) [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) collection.
+
+**Image dataset**
 
 Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below.
 
 <img src="../images/LIDC-IDRI-0314_screenshot.png" width="250">
 
+**Segmentation datasets**
+
 Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3774) (data is organized in subfolders corresponding to the individual platforms).
+
 
 ### Test dataset #2
 
-The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0024 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection.
+The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0024 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection. 
 
+**Image dataset**
+
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245508/QIN-HEADNECK-01-0024-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/245509/QIN-HEADNECK-01-0024-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below.
+
+<img src="../images/QIN-HEADNECK-01-0024_screenshot.png" width="250">
+
+**Segmentation datasets**
+
+Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3786) (data is organized in subfolders corresponding to the individual platforms).
