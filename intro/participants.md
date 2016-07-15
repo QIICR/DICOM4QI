@@ -18,7 +18,7 @@ Participants that joined the 2016 submission:
 * [Koelis](http://koelis.com) (details of the actual platform TBD) (contact: Michael Baumann)
 
 The following tools are participating in the connectathon wihtout a representative from the organization supporting the tool:
-* [Siemens syngo.via] (testing performed by Andrey Fedorov using the off-the-shelf instance installed at the Brigham and Women's Hospital)
+* Siemens syngo.via (testing performed by Andrey Fedorov using the off-the-shelf instance installed at the Brigham and Women's Hospital)
 
 **There is an open invitation for participation to any group interested in exploring the use of DICOM for quantitative imaging applications, and developing QI platforms!**
 
