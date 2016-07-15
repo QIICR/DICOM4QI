@@ -9,6 +9,6 @@ For each type of DICOM object, we provide sample datasets that include imaging s
 
 2. **Write task**: Generate a dataset of the type in question. The dataset will be used to test interoperability of your platform with the other platforms participating in the connectathon.
 
-Your submission **must** include the details about the platform you used to generate the results (name, version). If your platform is available publicly, please include access instructions.
+Your submission **must** include the details about the platform you used to generate the results (name of the product/platform, version). If your platform is available publicly, please include access instructions.
 
 The details for the individual object types follow in the subsequent sections.
