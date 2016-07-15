@@ -11,6 +11,6 @@ For each type of DICOM object, we provide sample datasets that include imaging s
 
 Your submission **must** include the details about the platform you used to generate the results (name of the product/platform, version). If your platform is available publicly, please include access instructions.
 
-If your platform and usage instructions are publcly available, please provide just those to Andrey Fedorov, and he can do the testing and populate the document content with the results.
+If your platform and usage instructions are publicly available, please provide just those to Andrey Fedorov, and he can do the testing and populate the document content with the results.
 
 The details for the individual object types follow in the subsequent sections.
