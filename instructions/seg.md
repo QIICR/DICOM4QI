@@ -6,8 +6,6 @@ The imaging dataset is a chest CT with a lung lesion located in the right lung l
 
 **Tasks for participants**
 
-Your submission **must** include the details about the version of the platform you used to generate the results (name, version). If your platform is available publicly, please include access instructions.
-
 1. **Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform. Submit the screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata), to Andrey Fedorov.
 
 2. **Write task**: segment the lung lesion using any method available in your platform. Save the result as DICOM SEG. Send the result to Andrey Fedorov. 
@@ -23,4 +21,6 @@ Download the zip archive of the CT series [here](http://slicer.kitware.com/midas
 Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3774) (data is organized in subfolders corresponding to the individual platforms).
 
 ### Test dataset #2
+
+The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0024 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection.
 
