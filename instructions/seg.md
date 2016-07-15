@@ -6,8 +6,21 @@ The imaging dataset is a chest CT with a lung lesion located in the right lung l
 
 **Tasks for participants**
 
-1. Each participant is asked to segment the lesion region using any segmentation tool, and 
+Your submission **must** include the details about the version of the platform you used to generate the results (name, version). If your platform is available publicly, please include access instructions.
 
-Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip).
+1. **Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform. Submit the screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata), to Andrey Fedorov.
 
-Screenshot
+2. **Write task**: segment the lung lesion using any method available in your platform. Save the result as DICOM SEG. Send the result to Andrey Fedorov. 
+ 
+Note: (1) we are not assessing the accuracy of lesion segmentation, any method is as good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this report.
+
+**Test data**
+
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below.
+
+
+
+Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3774) (data is organized in subfolders corresponding to the individual platforms).
+
+### Test dataset #2
+
