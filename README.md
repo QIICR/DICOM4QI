@@ -4,6 +4,6 @@ In 2015, [Andrey Fedorov](http://fedorov.github.io) and [Daniel Rubin](https://m
 
 In 2016, a larger group assembled aiming to continue and expand the scope of the original 2015 RSNA/QIRR DICOM-QI connectathon. Following successful application for participation, RSNA 2016 QIRR will feature the new iteration of the connectathon.
 
-The present document was created to help with the organization of the connectathon activity, and as such serves two purposes:
+The present document was created to help with the organization of the exhibit activity, and as such serves two purposes:
 * First, this is the place to develop and document operating procedures, expectations and organize test datasets.
 * Second, this document will be used to report the connectathon results.
