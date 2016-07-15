@@ -4,7 +4,7 @@
 
 Tasks for participants:
 
-1. **Description of the relevant features**: 
+1. **Description of the relevant features of the platform**: 
  * are both single and multiple segments supported? how are the overlapping segments handled? 
  * do you support both BINARY and FRACTIONAL segmentation types? 
  * do you render the segment using the color specified in the DICOM object? 
