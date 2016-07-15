@@ -12,4 +12,4 @@ Note that you will need to sign in before you can participate in a discussion (g
 
 ### Direct editing of the content
 
-If you are planning to contribute content to the gitbook yourself, please contact Andrey Fedorov to be added to the list of contributors. You will then be able to edit the book content directly.
+If you are planning to contribute content to the gitbook yourself, please create an account on gitbook.com, and contact Andrey Fedorov with your login ID to be added to the list of contributors. You will then be able to edit the book content directly.
