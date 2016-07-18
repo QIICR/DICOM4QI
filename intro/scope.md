@@ -5,6 +5,6 @@ The declared scope of the exhibit covered exchange of the following types of dat
 * **DICOM Parametric Map object (PM)** can be used to encode floating-point pixel maps of derived parameters, such as results of pharmacokinetic analysis of Dynamic Contrast-Enhanced MRI.
 * **DICOM Structured reporting of measurements** using SR template 1500 (**SR-TID1500**) can be used to communicate measurements over the image region defined by, for example, a SEG object.
 
-For the details about the individual types of object see [Instructions](instructions.md).
+For the details about the individual types of object see [Instructions](../instructions.md).
 
 
