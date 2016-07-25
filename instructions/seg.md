@@ -19,7 +19,7 @@ Note: (1) we are not assessing the accuracy of lesion segmentation, any method i
 
 ### Test dataset #1
 
-The imaging dataset is a chest CT with a lung lesion located in the right lung lobe. This dataset is subject LIDC-IDRI-0314 from The Cancer Imaging Archive ([TCIA](http://www.cancerimagingarchive.net/)) [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) collection.
+The imaging dataset is a chest CT with a single lung lesion located in the right lung lobe. This dataset is subject LIDC-IDRI-0314 from The Cancer Imaging Archive ([TCIA](http://www.cancerimagingarchive.net/)) [LIDC-IDRI](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI) collection.
 
 **Image dataset**
 
@@ -34,7 +34,7 @@ Download the DICOM SEG datasets produced by the platforms that already submitted
 
 ### Test dataset #2
 
-The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0024 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection. 
+The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0024 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection. This data set contains two lesions. This allows to test that the platform can handle more than one segment.
 
 **Image dataset**
 
