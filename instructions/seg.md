@@ -18,7 +18,7 @@ Tasks for participants:
 3. **Write task**
  * segment the lung lesion using any method available in your platform
  * save the result as DICOM SEG
- * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html) 
+ * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
  * send the resulting object and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
  
 Note: (1) we are not assessing the accuracy of lesion segmentation, any method is  good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this document in the Results section.
