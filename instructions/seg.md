@@ -11,11 +11,17 @@ Tasks for participants:
  * how do you communicate segment semantics to the user? 
  * how do you support the user in defining the semantics of the object at the time segmentation is created?
 
-2. **Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform. Submit a screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata), to Andrey Fedorov.
+2. **Read task** 
+ * load each of the DICOM SEG datasets that accompany the imaging series into your platform
+ * submit a screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata) by email to Andrey Fedorov
 
-3. **Write task**: segment the lung lesion using any method available in your platform. Save the result as DICOM SEG. Send the result to Andrey Fedorov. 
+3. **Write task**
+ * segment the lung lesion using any method available in your platform
+ * save the result as DICOM SEG
+ * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html) 
+ * send the resulting object and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
  
-Note: (1) we are not assessing the accuracy of lesion segmentation, any method is as good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this report.
+Note: (1) we are not assessing the accuracy of lesion segmentation, any method is  good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this document in the Results section.
 
 ### Test dataset #1
 
