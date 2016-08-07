@@ -10,7 +10,7 @@
    * [Parametric maps](instructions/pm)
 * [Results](results.md)
    * [Segmentations (DICOM SEG)](results/seg.md)
-       * [3D Slicer](results/seg/slicer)
+       * [3D Slicer](results/seg/slicer.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500)
    * [Parametric maps](results/pm)
 * [Acknowledgments](acks.md)
