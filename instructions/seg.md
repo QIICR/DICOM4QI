@@ -4,18 +4,24 @@
 
 Tasks for participants:
 
-1. **Description of the relevant features of the platform**: 
+1. **Description of the platform/product**:
+ * name and version used for testing
+ * **free?** if yes - include the download link
+ * **commercial?** if yes - include the home page for the product
+ * **open source?** if yes - provide a link to source code
+
+2. **Description of the relevant features of the platform**: 
  * are both single and multiple segments supported? how are the overlapping segments handled? 
  * do you support both BINARY and FRACTIONAL segmentation types? 
  * do you render the segment using the color specified in the DICOM object? 
  * how do you communicate segment semantics to the user? 
  * how do you support the user in defining the semantics of the object at the time segmentation is created?
 
-2. **Read task** 
+3. **Read task** 
  * load each of the DICOM SEG datasets that accompany the imaging series into your platform
  * submit a screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata) by email to Andrey Fedorov
 
-3. **Write task**
+4. **Write task**
  * segment the lung lesion using any method available in your platform
  * save the result as DICOM SEG
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
