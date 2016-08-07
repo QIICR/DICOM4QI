@@ -5,7 +5,7 @@
 Tasks for participants:
 
 1. **Description of the platform/product**:
- * name and version used for testing
+ * **name and version of the software** used for testing
  * **free?** if yes - include the download link
  * **commercial?** if yes - include the home page for the product
  * **open source?** if yes - provide a link to source code
