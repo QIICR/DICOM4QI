@@ -6,3 +6,5 @@ As the results come in, in the beginning of each section, there will be a table 
 
 Following the summary, there will be one section per each tool with the details of the evaluation.
 
+**NOTE**: at this time, only some of the sections are populated, as we are in the process of collecting responses from the participants.
+
