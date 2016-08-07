@@ -2,7 +2,14 @@
 
 | Tool name | Description | Read task | Write task |
 | -- | -- | -- | -- |
-| 3D Slicer | 1:2 | 2:2 | 3:2 |
-| Brainlab | 1:3 | 2:3 | 3:3 |
-| MeVisLab | 1:4 | 2:4 | 3:4 |
-| ePAD | 1:4 | 2:4 | 3:4 |
+| 3D Slicer | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| Brainlab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| MeVisLab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| ePAD | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| **TBD** | -- | -- | -- |
+
+Legend:
+
+* <img src="../images/waiting.png" width=25> waiting for response
+* <img src="../images/done.png" width=25> task completed
+* <img src="../images/failed.png" width=25> no response received, or for some reason task could not be completed
