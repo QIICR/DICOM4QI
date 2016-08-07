@@ -1,6 +1,8 @@
 # Segmentations (DICOM SEG)
 
-| Tool name | Description | Read task | Write task |
+## Summary
+
+| Tool name | Description of the platform| Read task | Write task |
 | -- | -- | -- | -- |
 | 3D Slicer | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Brainlab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
@@ -8,7 +10,7 @@
 | ePAD | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | **TBD** | -- | -- | -- |
 
-Legend:
+## Legend
 
 * <img src="../images/waiting.png" width=25> waiting for response
 * <img src="../images/done.png" width=25> task completed
