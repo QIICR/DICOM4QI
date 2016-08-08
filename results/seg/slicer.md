@@ -5,6 +5,7 @@
  * **free?** yes http://download.slicer.org
  * **commercial?** no
  * **open source?** yes http://github.com/slicer/slicer
+ * **what DICOM library do you use?** DCMTK
 
 2. **Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** yes **how are the overlapping segments handled?** solid color of the outline is shown for all segments; inners area is shown semi-transparent (see screenshot below showing both AIMonClearCanvas and Brainlab datasets from the Read task)
