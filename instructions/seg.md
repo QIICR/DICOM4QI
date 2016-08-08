@@ -21,11 +21,12 @@ Tasks for participants:
  * load each of the DICOM SEG datasets that accompany the imaging series into your platform
  * submit a screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata) by email to Andrey Fedorov
 
-4. **Write task**
- * segment the lung lesion using any method available in your platform
- * save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
+4. **Write tasks**
+ * **Single segment**: segment the lung lesion in the Test dataset #1 using any method available in your platform
+ *  **Multiple segments**: segment two "hot" areas (use screenshot below as a reference) in the Test dataset #2 using any method available in your platform. Make sure to create separate segment for each of the hot areas!
+ * save the result as DICOM SEG; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
- * send the resulting object and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
+ * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
  
 Note: (1) we are not assessing the accuracy of lesion segmentation, any method is  good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this document in the Results section.
 
