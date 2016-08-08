@@ -7,6 +7,7 @@ Tasks for participants:
  * **free?** if yes - include the download link
  * **commercial?** if yes - include the home page for the product
  * **open source?** if yes - provide a link to source code
+ * **what DICOM library do you use?** - if you use certain DICOM toolkit to support this functionality, please list it, if possible
 
  * **Description of the relevant features of the platform**: 
     * are both single and multiple segments supported? how are the overlapping segments handled? 
