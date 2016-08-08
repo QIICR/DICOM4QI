@@ -1,7 +1,5 @@
 # Segmentations (DICOM SEG)
 
-
-
 Tasks for participants:
 
 1. **Description of the platform/product**:
