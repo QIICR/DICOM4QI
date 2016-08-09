@@ -16,13 +16,13 @@ Tasks for participants:
     * how do you communicate segment semantics to the user? 
     * how do you support the user in defining the semantics of the object at the time segmentation is created?
 
-3. **Read task** 
+3. **Read task** (for each dataset!)
  * load each of the DICOM SEG datasets that accompany the imaging series into your platform
  * submit a screenshot demonstrating the overlay of the segmentation on the CT series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata) by email to Andrey Fedorov
 
 4. **Write tasks**
- * **Single segment**: segment the lung lesion in the Test dataset #1 using any method available in your platform
- *  **Multiple segments**: segment two "hot" areas (use screenshot below as a reference) in the Test dataset #2 using any method available in your platform. Make sure to create separate segment for each of the hot areas!
+ * **Single segment**: segment any area (ideally, the lung lesion in the Test dataset #1) using any method available in your platform
+ *  **Multiple segments**: segment any two areas in any of the datasets using any method available in your platform. Make sure to create separate segment for each of the segmented areas!
  * save the result as DICOM SEG; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
  * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
