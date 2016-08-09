@@ -22,7 +22,7 @@ Tasks for participants:
 
 4. **Write tasks**
  * **Single segment**: segment any area (ideally, the lung lesion in the Test dataset #1) using any method available in your platform
- *  **Multiple segments**: segment any two areas in any of the datasets using any method available in your platform. Make sure to create separate segment for each of the segmented areas!
+ *  **Multiple segments**: segment any two areas in any of the datasets using any method available in your platform (ideally, such that ther is a single slice where both segments are visible). Make sure to create separate segment for each of the segmented areas!
  * save the result as DICOM SEG; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
  * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
