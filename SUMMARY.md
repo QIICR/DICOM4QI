@@ -7,7 +7,7 @@
 * [Instructions for participants](instructions.md)
    * [Segmentations (DICOM SEG)](instructions/seg.md)
    * [Measurements (DICOM SR TID1500)](instructions/sr-tid1500.md)
-   * [Parametric maps](instructions/pm)
+   * [Parametric maps](instructions/pm.md)
 * [Results](results.md)
    * [Segmentations (DICOM SEG)](results/seg.md)
        * [3D Slicer](results/seg/slicer.md)
