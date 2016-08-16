@@ -11,7 +11,7 @@
 * [Results](results.md)
    * [Segmentations (DICOM SEG)](results/seg.md)
        * [3D Slicer](results/seg/slicer.md)
-   * [Measurements (DICOM SR TID1500)](results/sr-tid1500)
+   * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
