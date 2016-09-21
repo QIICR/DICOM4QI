@@ -16,8 +16,9 @@ Participants that joined the 2016 submission:
 * [XNAT](https://www.xnat.org/) (contact: Dan Marcus)
 * [MeVisLab](http://www.mevislab.de/) (contact: Hans Meine)
 * [Koelis](http://koelis.com) (details of the actual platform TBD) (contact: Michael Baumann)
+* [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) (David Clunie)
 
-The following tools are participating in the connectathon wihtout a representative from the organization supporting the tool:
+The following tools are participating in the connectathon without a representative from the organization supporting the tool:
 * Siemens syngo.via (testing performed by Andrey Fedorov using the off-the-shelf instance installed at the Brigham and Women's Hospital)
 * [OsiriX Lite](http://www.osirix-viewer.com/ContributionOsiriX.html) (testing performed by Andrey Fedorov using the publicly available version)
 
