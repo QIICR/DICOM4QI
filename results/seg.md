@@ -16,6 +16,7 @@
 | Mint Medical | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | XNAT | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Koelis | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| Pixelmed DicomImageViewer | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 
 ## Legend
 
