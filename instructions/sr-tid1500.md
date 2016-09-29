@@ -23,3 +23,18 @@ Tasks for participants:
  * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
  
 Note: the screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
+
+
+### Test dataset #1
+
+This is a dataset consisting of 3 slices of a [liver CT series](http://slicer.kitware.com/midas3/download/item/257238/liver-3slices-CT.zip), and rough [segmentation of the liver defining ROI](http://slicer.kitware.com/midas3/download/item/257239/liver.dcm) for calculating the measurements. 
+
+The [SR dataset](http://slicer.kitware.com/midas3/download/item/257240/sr-tid1500-ct-liver-example.dcm) contains measurements calculated over the segmentation from the CT slices. 
+
+The measurements stored in the SR dataset are the following:
+* Mean Attenuation Coefficient = 37.3289 Hounsfeld Units
+* Minimum Attenuation Coefficient = -778 Hounsfeld Units
+* Maximum Attenuation Coefficient = 221 Hounsfeld Units
+* Standard Deviation of Attenuation Coefficient = 59.1691 Hounsfeld Units
+* Volume = 70361.9 cubic millimeter
+* Volume = 70.3619 cubic centimeter
