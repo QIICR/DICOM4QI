@@ -18,9 +18,9 @@ Tasks for participants:
  * submit a screenshot demonstrating the presentation of the loaded measurements to the user by email to Andrey Fedorov
 
 4. **Write tasks**
- * 
+ * given the image series and the segmentation defining the ROI, calculate any measurements over the ROI and save as DICOM SR following TID1500 reporting template
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html) and [Pixelmed DicomSRValidator](http://www.pixelmed.com/dicomtoolkit.html); iterate on resolving the identified issues as necessary
- * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
+ * send the resulting objects and the results of **dciodvfy** and **DicomSRValidator**, explaining any discrepancies found, to Andrey Fedorov by email
  
 Note: the screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
 
