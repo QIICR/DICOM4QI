@@ -35,7 +35,7 @@ The imaging dataset is a chest CT with a single lung lesion located in the right
 
 **Image dataset**
 
-Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below.
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below (visualized in 3D Slicer software).
 
 <img src="../images/LIDC-IDRI-0314_screenshot.png" width="250">
 
@@ -50,7 +50,7 @@ The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-
 
 **Image dataset**
 
-Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245508/QIN-HEADNECK-01-0024-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/245509/QIN-HEADNECK-01-0024-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below.
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245508/QIN-HEADNECK-01-0024-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/245509/QIN-HEADNECK-01-0024-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below (visualized in 3D Slicer software).
 
 <img src="../images/QIN-HEADNECK-01-0024_screenshot.png" width="250">
 
@@ -64,7 +64,7 @@ The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-
 
 **Image dataset**
 
-Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/257233/QIN-HEADNECK-01-0139-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/257234/QIN-HEADNECK-01-0139-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below.
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/257233/QIN-HEADNECK-01-0139-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/257234/QIN-HEADNECK-01-0139-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below (visualized in 3D Slicer software).
 
 <img src="../images/QIN-HEADNECK-01-0139_screenshot2.png" width="450">
 <img src="../images/QIN-HEADNECK-01-0139_screenshot1.png" width="450">
