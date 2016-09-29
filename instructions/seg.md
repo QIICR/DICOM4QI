@@ -57,3 +57,18 @@ Download the zip archive of the CT series [here](http://slicer.kitware.com/midas
 **Segmentation datasets**
 
 Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3786) (data is organized in subfolders corresponding to the individual platforms).
+
+### Test dataset #3
+
+The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0139 from the TCIA [QIN-HEADNECK](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK) collection. This data set contains 11 lesions. This allows to test that the platform can handle relatively large number of segments.
+
+**Image dataset**
+
+Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/257233/QIN-HEADNECK-01-0139-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/257234/QIN-HEADNECK-01-0139-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below.
+
+<img src="../images/QIN-HEADNECK-01-0139_screenshot2.png" width="450">
+<img src="../images/QIN-HEADNECK-01-0139_screenshot1.png" width="450">
+
+**Segmentation datasets**
+
+Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3858) (data is organized in subfolders corresponding to the individual platforms).
