@@ -24,7 +24,6 @@ Tasks for participants:
  
 Note: the screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
 
-
 ### Test dataset #1
 
 This is a dataset consisting of 3 slices of a [liver CT series](http://slicer.kitware.com/midas3/download/item/257238/liver-3slices-CT.zip), and rough [segmentation of the liver defining ROI](http://slicer.kitware.com/midas3/download/item/257239/liver.dcm) for calculating the measurements. 
