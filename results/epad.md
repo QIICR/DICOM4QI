@@ -1,5 +1,4 @@
 # ePAD
-# 3D Slicer
 
 1.**Description of the platform/product**:
  * **name and version of the software**: ePAD, version 2.2
@@ -24,10 +23,11 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-lidc.png" width=250> |
+| 3D Slicer | <img src="./images/slicer_qin.png" width=250> |
 | ePAD | <img src="./slicer/epad-read-lidc.png" width=250> |
-| syngo.via | <img src="./slicer/syngo-read-lidc.png" width=250> |
-| AIMonClearCanvas| <img src="./slicer/aimclearcanvas-read-lidc.png" width=250> |
+| syngo.via | <img src="./images/syngo-segmentations.png" width=250> |
+| AIMonClearCanvas| <img src="./images/clearcanvas_segmentation.png" width=250> |
+| Brainlab| <img src="./images/brainlab_fract_objects.png" width=250> |
 
 **Test dataset #2**
 
