@@ -8,7 +8,7 @@
  * **what DICOM library do you use?** [PixelMed](http://www.pixelmed.com/), [DCM4CHE](http://www.dcm4che.org/)
 
 2.**Description of the relevant features of the platform**: 
- * **are both single and multiple segments supported?** yes for reading, writing is only supported for single segment  **how are the overlapping segments handled?**TODO solid color of the outline is shown for all segments; inners area is shown semi-transparent (see screenshot below showing both AIMonClearCanvas and Brainlab datasets from the Read task)
+ * **are both single and multiple segments supported?** yes for reading, writing is only supported for single segment  **how are the overlapping segments handled?**user can select either to view the outline or as filled (see screenshot below showing both AIMonClearCanvas and Slicer datasets from the Read task)
 
 <img src="slicer/seg-overlap.png" width=250>
 
