@@ -12,6 +12,7 @@ Tasks for participants:
  * **Description of the relevant features of the platform**: 
     * are both single and multiple segments supported? how are the overlapping segments handled? 
     * do you support both BINARY and FRACTIONAL segmentation types? 
+    * do you support compressed objects?
     * do you render the segment using the color specified in the DICOM object? 
     * how do you communicate segment semantics to the user? 
     * how do you support the user in defining the semantics of the object at the time segmentation is created?
