@@ -26,6 +26,7 @@ Tasks for participants:
  *  **Multiple segments**: segment any two areas in any of the datasets using any method available in your platform (ideally, such that ther is a single slice where both segments are visible). Make sure to create separate segment for each of the segmented areas!
  * save the result as DICOM SEG; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
+ * as part of quick checks, confirm that the resulting SEG object has the same FrameOfReferenceUID as the source image
  * send the resulting objects and the result of **dciodvfy**, explaining any discrepancies found, to Andrey Fedorov by email
  
 Note: (1) we are not assessing the accuracy of lesion segmentation, any method is  good; (2) the screenshots and the DICOM SEG objects you submit will be distributed publicly and included in this document in the Results section.
