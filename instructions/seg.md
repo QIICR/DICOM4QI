@@ -83,7 +83,7 @@ The imaging dataset consists of an MR series for subject QIN-PROSTATE-001 from t
 
 Download the zip archive of the MR series [here](http://slicer.kitware.com/midas3/download/item/257242/701-ADCb500.zip). Lesion is shown in the screenshot below (visualized in 3D Slicer software).
 
-<img src="../images/QIN-PROSTATE-001_screenshot.png" width="450">
+<img src="../images/QIN-PROSTATE-001_SEG_screenshot.png" width="450">
 
 **Segmentation datasets**
 
