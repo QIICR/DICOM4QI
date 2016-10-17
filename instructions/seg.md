@@ -73,7 +73,7 @@ Download the zip archive of the CT series [here](http://slicer.kitware.com/midas
 
 **Segmentation datasets**
 
-Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3858) (data is organized in subfolders corresponding to the individual platforms).
+Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3858) (data is organized in sub-folders corresponding to the individual platforms).
 
 ### Test dataset #4
 
