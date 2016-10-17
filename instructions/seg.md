@@ -74,3 +74,17 @@ Download the zip archive of the CT series [here](http://slicer.kitware.com/midas
 **Segmentation datasets**
 
 Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3858) (data is organized in subfolders corresponding to the individual platforms).
+
+### Test dataset #4
+
+The imaging dataset consists of an MR series for subject QIN-PROSTATE-001 from the TCIA [QIN-PROSTATE](https://wiki.cancerimagingarchive.net/display/Public/QIN+PROSTATE) collection. This data set contains 1 lesion segmentation, and has non-identity orientation.
+
+**Image dataset**
+
+Download the zip archive of the MR series [here](http://slicer.kitware.com/midas3/download/item/257242/701-ADCb500.zip). Lesion is shown in the screenshot below (visualized in 3D Slicer software).
+
+<img src="../images/QIN-PROSTATE-001_screenshot.png" width="450">
+
+**Segmentation datasets**
+
+Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3888) (data is organized in subfolders corresponding to the individual platforms).
