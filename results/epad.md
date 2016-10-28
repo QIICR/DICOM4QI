@@ -13,6 +13,9 @@
 <img src="./images/overlap_sc_stroke.png" width=250> | <img src="./images/overlap_sc_fill.png" width=250>
 
  * **do you support both BINARY and FRACTIONAL segmentation types?** yes, segmentations that are saved as FRACTIONAL are mapped to gray scale.
+
+<img src="./images/fractionalseg.png" width=250>
+
  * **do you render the segment using the color specified in the DICOM object?** no
  * **how do you communicate segment semantics to the user?** user has no meaning to get information about the semantics of the object as defined in the segmentation
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** currently user cannot define the semantics of the object, all segmentations are saved with category "(T-D0050;SRT;Tissue)" and type "(T-D0050;SRT;Tissue)".
