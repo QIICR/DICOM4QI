@@ -12,7 +12,7 @@
 
 <img src="./images/overlap_sc_stroke.png" width=250> | <img src="./images/overlap_sc_fill.png" width=250>
 
- * **do you support both BINARY and FRACTIONAL segmentation types?** yes, segmentations that are saved as FRACTIONAL are mapped to gray scale.
+ * **do you support both BINARY and FRACTIONAL segmentation types?** yes, segmentations that are saved as FRACTIONAL are mapped to gray scale (see screenshot below showing a FRACTIONAL segmentation)
 
 <img src="./images/fractionalseg.png" width=250>
 
