@@ -37,3 +37,9 @@ The measurements stored in the SR dataset are the following:
 * Standard Deviation of Attenuation Coefficient = 59.1691 Hounsfeld Units
 * Volume = 70361.9 cubic millimeter
 * Volume = 70.3619 cubic centimeter
+
+### Test dataset #2
+
+[This SR dataset](http://slicer.kitware.com/midas3/download/item/262094/Measurements_User2_SemiAuto_Trial2.dcm) contains measurements over the segmentations of tumor and "hot" lymph nodes in [SEG Test dataset #3)[https://fedorov.gitbooks.io/rsna2016-qirr-dicom4qi/content/instructions/seg.html#test-dataset-3].
+
+The types of measurements stored in this object are described in detail in [this article](https://peerj.com/articles/2057/). There is a separate group of measurements for each of the segments in the referenced segmentation object.
