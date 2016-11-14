@@ -34,10 +34,7 @@
 
 **Test dataset #2**
 
-| Test dataset | Result of rendering |
-| -- | -- |
-| 3D Slicer | <img src="./epad/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./epad/brainlab-read-hnc.png" width=250> |
+At this time, ePAD does not support multi-segment segmentations.
 
 
 4.**Write task**
