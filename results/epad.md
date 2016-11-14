@@ -10,11 +10,11 @@
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** only single segment is fully supported, we have back-end support for reading multiple segments but the viewer cannot view them yet  **how are the overlapping segments handled?** user can select either to view the outline or as filled (see screenshot below showing both AIMonClearCanvas and Slicer datasets from the Read task)
 
-<img src="./images/overlap_sc_stroke.png" width=250> | <img src="./images/overlap_sc_fill.png" width=250>
+<img src="./epad/overlap_sc_stroke.png" width=250> | <img src="./epad/overlap_sc_fill.png" width=250>
 
  * **do you support both BINARY and FRACTIONAL segmentation types?** yes, segmentations that are saved as FRACTIONAL are mapped to gray scale (see screenshot below showing a FRACTIONAL segmentation)
 
-<img src="./images/fractionalseg.png" width=250>
+<img src="./epad/fractionalseg.png" width=250>
 
  * **do you render the segment using the color specified in the DICOM object?** no
  * **how do you communicate segment semantics to the user?** currently user has no meaning to get information about the semantics of the object as defined in the segmentation
@@ -26,18 +26,18 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./images/slicer_qin2.png" width=250> |
-| ePAD | <img src="./slicer/epad-read-lidc.png" width=250> |
-| syngo.via | <img src="./images/syngo-segmentations.png" width=250> |
-| AIMonClearCanvas| <img src="./images/clearcanvas_segmentation.png" width=250> |
-| Brainlab| <img src="./images/brainlab_fract_objects.png" width=250> |
+| 3D Slicer | <img src="./epad/slicer_qin2.png" width=250> |
+| ePAD | <img src="./epad/epad-read-lidc.png" width=250> |
+| syngo.via | <img src="./epad/syngo-segmentations.png" width=250> |
+| AIMonClearCanvas| <img src="./epad/clearcanvas_segmentation.png" width=250> |
+| Brainlab| <img src="./epad/brainlab_fract_objects.png" width=250> |
 
 **Test dataset #2**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./slicer/brainlab-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./epad/slicer-read-hnc.png" width=250> |
+| Brainlab | <img src="./epad/brainlab-read-hnc.png" width=250> |
 
 
 4.**Write task**
