@@ -28,7 +28,7 @@
 | -- | -- |
 | 3D Slicer | <img src="./epad/slicer_qin2.png" width=250> |
 | ePAD | <img src="./epad/epad-read-lidc.png" width=250> |
-| syngo.via | <img src="./epad/syngo-segmentations.png" width=250> |
+| syngo.via | <img src="./epad/syngo_segmentations.png" width=250> |
 | AIMonClearCanvas| <img src="./epad/clearcanvas_segmentation.png" width=250> |
 | Brainlab| <img src="./epad/brainlab_fract_objects.png" width=250> |
 
