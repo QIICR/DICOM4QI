@@ -8,7 +8,8 @@
  * **what DICOM library do you use?** [PixelMed](http://www.pixelmed.com/), [DCM4CHE](http://www.dcm4che.org/)
 
 2.**Description of the relevant features of the platform**: 
- * **are both single and multiple segments supported?** only single segment is fully supported, we have back-end support for reading multiple segments but the viewer cannot view them yet  **how are the overlapping segments handled?** user can select either to view the outline or as filled (see screenshot below showing both AIMonClearCanvas and Slicer datasets from the Read task)
+ * **are both single and multiple segments supported?** only single segment is fully supported, we have back-end support for reading multiple segments but the viewer cannot view them yet  
+ * **how are the overlapping segments handled?** user can select either to view the outline or as filled (see screenshot below showing both AIMonClearCanvas and Slicer datasets from the Read task)
 
 <img src="./epad/overlap_sc_stroke.png" width=250> | <img src="./epad/overlap_sc_fill.png" width=250>
 
