@@ -18,7 +18,7 @@
 <img src="./epad/fractionalseg.png" width=250>
 
  * **do you render the segment using the color specified in the DICOM object?** no
- * **how do you communicate segment semantics to the user?** currently user has no meaning to get information about the semantics of the object as defined in the segmentation
+ * **how do you communicate segment semantics to the user?** currently user has no means to get information about the semantics of the object as defined in the segmentation
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user is presented with a predefined list (same list with Slicer) to identify the semantics of the segmentation. the default values for category and type are both "(T-D0050;SRT;Tissue)".
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
