@@ -6,7 +6,7 @@
 | -- | -- | -- | -- |
 | 3D Slicer | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | Brainlab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
-| ePAD | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| ePAD | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | AIM on ClearCanvas | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | MeVisLab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | OHIF/Cornerstone | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
