@@ -32,8 +32,7 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./brainlab/brainlab-read-hnc.jpg" width=250> |
-| Brainlab | <img src="./brainlab/brainlab-read-hnc.jpg" width=250> |
+| Brainlab | <img src="./brainlab/brainlab-read-seg2.png" width=250> |
 
 **Test dataset #3**
 
