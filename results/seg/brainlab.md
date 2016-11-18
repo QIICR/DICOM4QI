@@ -32,20 +32,20 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./slicer/brainlab-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./brainlab/brainlab-read-hnc.jpg" width=250> |
+| Brainlab | <img src="./brainlab/brainlab-read-hnc.jpg" width=250> |
 
 **Test dataset #3**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./brainlab/brainlab-read-hnc.png" width=250> <img src="./brainlab/brainlab-read-hnc-measurements.png" width=250>|
+| 3D Slicer | <img src="./brainlab/brainlab-read-hnc.jpg" width=250> <img src="./brainlab/brainlab-read-hnc-measurements.jpg" width=250>|
 
 **Test dataset #4**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/brainlab-read-prostate.png" width=250> |
+| 3D Slicer | <img src="./brainlab/brainlab-read-prostate.jpg" width=250> |
 
 
 4.**Write task**
