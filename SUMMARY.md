@@ -12,7 +12,7 @@
    * [Segmentations (DICOM SEG)](results/seg.md)
        * [3D Slicer](results/seg/slicer.md)
        * [ePAD](results/seg/epad.md)
-       * [Brainlab](results//seg/brainlab.md)
+       * [Brainlab](results/seg/brainlab.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm.md)
 * [Acknowledgments](acks.md)
