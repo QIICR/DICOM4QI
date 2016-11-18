@@ -1,4 +1,3 @@
-# Brainlab
 # 3D Slicer
 
 1.**Description of the platform/product**:
