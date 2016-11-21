@@ -34,13 +34,13 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./slicer/slicer-read-hnc24.png" width=250> |
 
 **Test dataset #3**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./slicer/slicer-read-hnc139.png" width=250> |
 
 
 
