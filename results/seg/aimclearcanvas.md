@@ -1,5 +1,7 @@
 # AIM on ClearCanvas
 
+**DISCLAIMER: These tests were performed by Andrey Fedorov using publicly available version of the software, since no response was obtained from the AIM on ClearCanvas group.**
+
 1.**Description of the platform/product**:
  * **name and version of the software**: AIM ClearCanvas DICOM Viewer v4.6.0.4
  * **free?** yes http://www.ict.mahidol.ac.th/research/Imaging-Informatics/index
@@ -27,26 +29,28 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-lidc.png" width=250> |
+| 3D Slicer | <img src="./clearcanvas/slicer-read-lidc.png" width=250> |
 
 
 **Test dataset #2**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc24.png" width=250> |
+| 3D Slicer | <img src="./clearcanvas/slicer-read-hnc24.png" width=250> |
 
 **Test dataset #3**
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./slicer/slicer-read-hnc139.png" width=250> |
+| 3D Slicer | <img src="./clearcanvas/slicer-read-hnc139.png" width=250> |
 
+**Test dataset #4**
 
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./clearcanvas/slicer-read-prostate.png" width=250> |
 
 4.**Write task**
- * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
-   * results are uploaded
- * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
-   * no errors, only warnings from dciodvfy
+ 
+Andrey Fedorov could not understand how to use the software interface to generate new segments.
 
