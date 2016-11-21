@@ -5,7 +5,7 @@ As such, we aim to test the capabilities of the individual platforms to consume 
 
 For each type of DICOM object, we provide sample datasets that include imaging series and the derived DICOM dataset of the type in question. Note that you can also download all of the datasets used in DICOM4QI here: http://slicer.kitware.com/midas3/folder/3771 (choose "Download" on the right-hand side) 
 
-*(TODO: Dropbox folder with a copy of dataset)*
+All of the test data is also available as a shared folder on Dropbox [here](https://www.dropbox.com/sh/dy2e38c1hbyrmqe/AACM1DSglbJW0qzypIjZASH5a?dl=0).
 
 Each participant is asked to complete the following tasks:
 
