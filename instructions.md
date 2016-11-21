@@ -3,7 +3,11 @@ The overall idea of the activity is to demonstrate interchange of the types of D
 
 As such, we aim to test the capabilities of the individual platforms to consume and produce the types of DICOM objects in question.
 
-For each type of DICOM object, we provide sample datasets that include imaging series and the derived DICOM dataset of the type in question. Each participant is asked to complete the following tasks:
+For each type of DICOM object, we provide sample datasets that include imaging series and the derived DICOM dataset of the type in question. Note that you can also download all of the datasets used in DICOM4QI here: http://slicer.kitware.com/midas3/folder/3771 (choose "Download" on the right-hand side) 
+
+*(TODO: Dropbox folder with a copy of dataset)*
+
+Each participant is asked to complete the following tasks:
 
 1. **Relevant features of the platform**: short narrative of how the platform implements support for the specific type of object, what features are implemented, what features are missing.
 
