@@ -11,11 +11,14 @@
  * **are both single and multiple segments supported?** yes 
  * **how are the overlapping segments handled?** semi-transparent color overlay (see screenshot below showing both AIMonClearCanvas and Brainlab datasets from the Read task)
 
-<img src="aimclearcanvas/seg-overlap.png" width=250>
+<img src="clearcanvas/seg-overlap.png" width=250>
 
  * **do you support both BINARY and FRACTIONAL segmentation types?** only BINARY can be displayed; SEGs that are saved as FRACTIONAL will be read as BINARY (i.e., no mapping to fractional occupancy or probability will be done)
  * **do you render the segment using the color specified in the DICOM object?** yes
- * **how do you communicate segment semantics to the user?** semantic codes are reduced to a name in the lookup table; user has no meaning to easily get information about the semantics of the object as defined in SEG
+ * **how do you communicate segment semantics to the user?** the user can trigger display of the panel showing the semantic information for the displayed segment (see screenshot below)
+
+<img src="clearcanvas/semantics-ui.png" width=250>
+
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user can select from a pre-defined list of structures that are mapped into combinations of segmentation category/type internally by the software
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
