@@ -19,7 +19,7 @@
 
 <img src="clearcanvas/semantics-ui.png" width=250>
 
- * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user can select from a pre-defined list of structures that are mapped into combinations of segmentation category/type internally by the software
+ * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user can select from a pre-defined list of terms
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
@@ -28,16 +28,20 @@
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./slicer/slicer-read-lidc.png" width=250> |
-| ePAD | <img src="./slicer/epad-read-lidc.png" width=250> |
-| syngo.via | <img src="./slicer/syngo-read-lidc.png" width=250> |
-| AIMonClearCanvas| <img src="./slicer/aimclearcanvas-read-lidc.png" width=250> |
+
 
 **Test dataset #2**
 
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./slicer/brainlab-read-hnc.png" width=250> |
+
+**Test dataset #3**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./slicer/slicer-read-hnc.png" width=250> |
+
 
 
 4.**Write task**
