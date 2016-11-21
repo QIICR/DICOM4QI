@@ -14,6 +14,7 @@
        * [ePAD](results/seg/epad.md)
        * [Brainlab](results/seg/brainlab.md)
        * [AIM on ClearCanvas](results/seg/aimclearcanvas.md)
+       * [Siemens syngo.via](results/seg/syngovia.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm.md)
 * [Acknowledgments](acks.md)
