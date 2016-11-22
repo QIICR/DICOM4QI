@@ -3,7 +3,7 @@
 Tasks for participants:
 
 1.**Description of the platform/product**:
- * **name and version of the software**: 3D Slicer, Nightly release 4.5.0-2016-08-08, with Reporting Extension installed
+ * **name and version of the software**: 3D Slicer, Nightly release 4.5.0-2016-11-17, with Reporting Extension installed
  * **free?** yes http://download.slicer.org
  * **commercial?** no
  * **open source?** yes http://github.com/slicer/slicer
@@ -11,6 +11,7 @@ Tasks for participants:
 
  * **Description of the relevant features of the platform**: 
     * at the moment (Nov 2016), there is no user interface or custom modules  to specify quantity or units 
+    * at the moment (Nov 2016), 3D Slicer does not have any modules that generate DICOM parametric map modality objects
     
 3. **Read task** (for each dataset!)
  * load each of the DICOM Parametric map datasets into your platform
