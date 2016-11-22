@@ -1,4 +1,4 @@
-# Parametric maps
+# MeVisLab
 
 Tasks for participants:
 
