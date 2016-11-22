@@ -18,6 +18,7 @@
        * [MeVisLab](results/seg/MeVisLab.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm.md)
+     * [MeVisLab](results/pm/MeVisLab.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
