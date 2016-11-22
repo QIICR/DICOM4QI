@@ -9,7 +9,7 @@
 
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** Current version of Brainlab SmartBrush can write only single-segment objects, but reads both single- and multi-segment 
- * **how are the overlapping segments handled?** *TBD*
+ * **how are the overlapping segments handled?** User can see the outline of the contour.
 
  * **do you support both BINARY and FRACTIONAL segmentation types?** Brainlab always exports segmentations as FRACTIONAL type and RLE-compressed
  * **do you render the segment using the color specified in the DICOM object?** *TBD*
