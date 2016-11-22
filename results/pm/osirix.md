@@ -9,9 +9,10 @@
  * **open source?** no clear reference to the source code of the specific version used in this evaluation was available on the web site
  * **what DICOM library do you use?** not known
 
- * **Description of the relevant features of the platform**: 
+ * **Description of the relevant features of the platform** (at the moment of writing): 
     * pixel value is displayed in annotation overlay
     * no quantity or units are communicated to the user
+    * not clear whether there is any functionality that generates parametric map modality output
     
 3. **Read task** (for each dataset!)
  
@@ -20,5 +21,7 @@
 <img src="./osirix/osirix-pm-test1.png" width=450>
 
 ### Test dataset #2
+
+Note thumbnails are not rendered properly.
 
 <img src="./osirix/osirix-pm-test2.png" width=450>
