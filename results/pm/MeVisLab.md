@@ -19,10 +19,8 @@ Tasks for participants:
  
 ### Test dataset #1
 
-This is a dataset encoding the Apparent Diffusion Coefficient (ADC) map produced by a GE scanner as a DICOM Parametric map object that [can be downloaded here](http://slicer.kitware.com/midas3/download/item/257241/paramap.dcm.zip). The original ADC map [available here](http://slicer.kitware.com/midas3/download/item/126196/701-ADCb500.zip) was saved as an object of MR modality by the scanner software.
-
-This dataset encodes integer-valued pixels, and the ADC units are micrometers per squared second (as noted in the object).
+<img src="./MeVisLab/mevislab-pm-test1.png" width=250>
 
 ### Test dataset #2
 
-This dataset that [can be downloaded here](http://slicer.kitware.com/midas3/download/item/257243/paramap-float.dcm.zip) encodes [the same ADC map as the first dataset](http://slicer.kitware.com/midas3/download/item/126196/701-ADCb500.zip), but in meters per squared second units. The result is an object where each pixel value is less than one. The goal of this object is to test rendering of the true floating point pixels.
+<img src="./MeVisLab/mevislab-pm-test2.png" width=250>
