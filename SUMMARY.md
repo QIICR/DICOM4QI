@@ -19,6 +19,8 @@
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm.md)
      * [MeVisLab](results/pm/MeVisLab.md)
+     * [3D Slicer](results/pm/slicer.md)
+     * [OsiriX](results/pm/osirix.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
