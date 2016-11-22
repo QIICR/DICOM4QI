@@ -1,4 +1,4 @@
-# Parametric maps
+# 3D Slicer
 
 Tasks for participants:
 
