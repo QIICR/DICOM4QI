@@ -21,4 +21,4 @@
 
 ### Test dataset #2
 
-<img src="./slicer/osirix-pm-test2.png" width=450>
+<img src="./osirix/osirix-pm-test2.png" width=450>
