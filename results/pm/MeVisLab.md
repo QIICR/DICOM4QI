@@ -10,7 +10,7 @@ Tasks for participants:
  * **what DICOM library do you use?** custom (MLDicomTree, using some headers from dcmtk)
 
  * **Description of the relevant features of the platform**: 
-    * please provide the screenshot of the user interface for the functionality specific to creating/displaying measurements 
+    * please provide the screenshot of the user interface for the functionality specific to creating/displaying parametric maps 
     * how do you communicate parametric map semantics to the user (quantity encoded, units)? 
 
 3. **Read task** (for each dataset!)
