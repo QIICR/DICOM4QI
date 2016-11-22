@@ -11,7 +11,8 @@
  * **are both single and multiple segments supported?** yes
  * **how are the overlapping segments handled?** loaded separately
    (display depends on application)
- * **do you support both BINARY and FRACTIONAL segmentation types?** yes
+ * **do you support both BINARY and FRACTIONAL segmentation types?**
+   yes (reading), only binary supported for writing so far
  * **do you render the segment using the color specified in the DICOM
    object?** yes / possible (display depends on application)
  * **how do you communicate segment semantics to the user?** MeVisLab
@@ -43,6 +44,17 @@
 4.**Write task**
  * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
    * results are uploaded
- * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
-   * no errors, only warnings from dciodvfy
-
+ * run
+   [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html);
+   iterate on resolving the identified issues as necessary
+   * support for SEG writing (in fact, support for writing multi-frame
+     DICOM files) has been newly introduced in MeVisLab
+   * so far, some missing attributes are reported in
+     * BasicCodeSequenceMacro
+     * SOPInstanceReferenceMacro (fix WIP)
+     * DerivationImageMacro (fix WIP)
+     * ContentIdentificationMacro
+     * SegmentDescriptionMacro (no support for
+       SegmentedPropertyCategoryCodeSequence or
+       SegmentedPropertyTypeCodeSequence yet)
+     
