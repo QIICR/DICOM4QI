@@ -19,8 +19,8 @@ Tasks for participants:
  
 ### Test dataset #1
 
-<img src="./MeVisLab/mevislab-pm-test1.png" width=250>
+<img src="./mevislab/mevislab-pm-test1.png" width=250>
 
 ### Test dataset #2
 
-<img src="./MeVisLab/mevislab-pm-test2.png" width=250>
+<img src="./mevislab/mevislab-pm-test2.png" width=250>
