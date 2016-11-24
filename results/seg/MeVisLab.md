@@ -24,6 +24,30 @@
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
+NB: MeVisLab is an IDE, not an end-user application.  Therefore, both
+the rendering of the lesion masks, as well as the display of the meta
+information entirely depend on the actual clinical application
+prototype. The screenshots below are from a custom MeVisLab network
+quickly put together just for this demonstration.
+
+The underlying improved reading capabilities become available to all
+clinical applications and prototypes built using recent MeVisLab
+versions.  Work on integration into our internal "MeVisLab Application
+Framework", e.g. the extension of the object-relational mapping
+classes by SEG-relevant structures and the corresponding import code
+has begun, but it will take more work to produce nice frontends for
+end user-visible applications.
+
+Reading-wise, the new module *MultiFileVolumeListSEGOutput* has been
+implemented (and will be shipped as part of the freely available
+FMEwork/ReleaseMeVis package together with MeVisLab), which offers not
+only the segmentation mask (for which the existing
+*MultiFileVolumeListImageOutput* is sufficient), but meta information
+about each selected segment.  Again, this information is provided as
+MeVisLab fields, extending the internal API by the necessary pieces
+for application support; these components are not directly visible to
+the end-user.
+
 **Test dataset #1**
 
 | Test dataset | Result of rendering |
@@ -37,8 +61,20 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./MeVisLab/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./MeVisLab/brainlab-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./MeVisLab/slicer-read-hnc-pet.png" width=250> |
+| Brainlab | <img src="./MeVisLab/brainlab-read-hnc-colored-ct.png" width=250> |
+
+**Test dataset #3**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./MeVisLab/slicer-read-hnc-many.png" width=250> |
+
+**Test dataset #4**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./MeVisLab/slicer-read-prostate.png" width=250> |
 
 
 4.**Write task**

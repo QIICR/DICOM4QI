@@ -24,7 +24,7 @@
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./slicer/slicer-read-lidc.png" width=250> |
-| ePAD | <img src="./slicer/epad-read-lidc.png" width=250> |
+| Brainlab | <img src="./slicer/brainlab-read-lidc.png" width=250> |
 | syngo.via | <img src="./slicer/syngo-read-lidc.png" width=250> |
 | AIMonClearCanvas| <img src="./slicer/aimclearcanvas-read-lidc.png" width=250> |
 
