@@ -5,7 +5,7 @@
  * **free?** no
  * **commercial?** yes: http://www.mint-medical.com
  * **open source?** no http://github.com/slicer/slicer
- * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), GDCM
+ * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), GDCM, DCMQI
 
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** We are able to read all multiple segment samples. At the moment we can create only single segment dcm due to crashes in the command line tool.
