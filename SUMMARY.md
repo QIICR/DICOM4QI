@@ -16,6 +16,7 @@
        * [AIM on ClearCanvas](results/seg/aimclearcanvas.md)
        * [Siemens syngo.via](results/seg/syngovia.md)
        * [MeVisLab](results/seg/MeVisLab.md)
+       * [MITK](results/seg/MITK.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
    * [Parametric maps](results/pm.md)
      * [MeVisLab](results/pm/MeVisLab.md)
