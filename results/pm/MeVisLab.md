@@ -17,6 +17,12 @@ Tasks for participants:
  * load each of the DICOM Parametric map datasets into your platform
  * submit a screenshot demonstrating the presentation of the loaded parametric maps to the user by email to Andrey Fedorov
  
+NB: MeVisLab is an IDE, not an end-user application.  The screenshots
+below are from a custom MeVisLab network quickly put together just in
+order to demonstrate the PM reading for this context.  The
+demonstrated capability becomes available to all clinical applications
+and prototypes built using recent MeVisLab versions.
+
 ### Test dataset #1
 
 <img src="./mevislab/mevislab-pm-test1.png" width=450>
