@@ -10,7 +10,7 @@
 | AIM on ClearCanvas | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
 | MeVisLab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | AMI | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
-| MITK | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| MITK | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | Mint Medical | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | XNAT | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Koelis | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
