@@ -61,8 +61,8 @@ the end-user.
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./MeVisLab/slicer-read-hnc.png" width=250> |
-| Brainlab | <img src="./MeVisLab/brainlab-read-hnc.png" width=250> |
+| 3D Slicer | <img src="./MeVisLab/slicer-read-hnc-pet.png" width=250> |
+| Brainlab | <img src="./MeVisLab/brainlab-read-hnc-colored-ct.png" width=250> |
 
 
 4.**Write task**
