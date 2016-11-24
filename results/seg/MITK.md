@@ -5,7 +5,7 @@
  * **free?** yes - mitk.org/Downloads
  * **commercial?** no
  * **open source?** yes - https://phabricator.mitk.org/source/mitk.git
- * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [GDCM](http://gdcm.sourceforge.net/)
+ * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [GDCM](http://gdcm.sourceforge.net/), [DCMQI](http://github.com/qiicr/dcmqi)
 
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** yes 
