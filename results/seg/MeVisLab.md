@@ -70,6 +70,12 @@ the end-user.
 | -- | -- |
 | 3D Slicer | <img src="./MeVisLab/slicer-read-hnc-many.png" width=250> |
 
+**Test dataset #4**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./MeVisLab/slicer-read-prostate.png" width=250> |
+
 
 4.**Write task**
  * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
