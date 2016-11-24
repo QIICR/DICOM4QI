@@ -5,10 +5,11 @@
  * **free?** yes - mitk.org/Downloads
  * **commercial?** no
  * **open source?** yes - https://phabricator.mitk.org/source/mitk.git
- * **what DICOM library do you use?** [DCMTK](http://dcmtk.org) [GDCM] (http://gdcm.sourceforge.net/)
+ * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [GDCM](http://gdcm.sourceforge.net/)
 
 2.**Description of the relevant features of the platform**: 
- * **are both single and multiple segments supported?** yes **how are the overlapping segments handled?** With semi-transparent color overlay and the active label is contoured (see screenshots)
+ * **are both single and multiple segments supported?** yes 
+ * **how are the overlapping segments handled?** With semi-transparent color overlay and the active label is contoured (see screenshots)
 
 <img src="./mitk/mitk-seg-overlap.png" width=250> | <img src="./mitk/mitk-seg-overlap-2.png" width=250>
 
@@ -20,6 +21,7 @@
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
 **Test dataset #1**
+
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./mitk/slicer-read-lidc.png" width=250> |
@@ -28,17 +30,21 @@
 | syngo.via | <img src="./mitk/syngo-read-lidc.png" width=250> |
 
 **Test dataset #2**
+
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./mitk/slicer-read-hnc24.png" width=250> |
 
 **Test dataset #3**
+
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./mitk/slicer-read-hnc139.png" width=250> |
 
 **Test dataset #4**
+
 TODO:
+
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./mitk/slicer-read-prostate.png" width=250> |
