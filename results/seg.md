@@ -7,7 +7,7 @@
 | 3D Slicer | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | Brainlab | <img src="../images/waiting.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | ePAD | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
-| AIM on ClearCanvas | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
+| AIM on ClearCanvas ** * **| <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
 | MeVisLab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | AMI | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | MITK | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
@@ -15,9 +15,10 @@
 | XNAT | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Koelis | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Pixelmed DicomImageViewer | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
-| Siemens syngo.via | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> | <img src="../images/done.png" width=25> |
-| OsiriX Lite | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| Siemens syngo.via ** * **| <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> | <img src="../images/done.png" width=25> |
+| OsiriX Lite ** * **| <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 
+** * DISCLAIMER: Platforms marked with the asterisk were tested without involvement of the platform developers or supporting team.**
 
 ## Legend
 
