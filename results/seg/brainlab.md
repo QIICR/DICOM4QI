@@ -1,7 +1,7 @@
 # Brainlab
 
 1.**Description of the platform/product**:
- * **name and version of the software**: Brainlab SmartBrush 2.1 and Brainlab SmartViewer 3.1; SmartViewer can only display DICOM SEG; SmartBrush can create SEG and display them, however SmartViewer displays them much better
+ * **name and version of the software**: Brainlab SmartBrush 2.5 and Brainlab SmartViewer 3.1; SmartViewer can only display DICOM SEG; SmartBrush can create SEG and display them, however SmartViewer displays them much better
  * **free?** no
  * **commercial?** yes
  * **open source?** no 
