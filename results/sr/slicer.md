@@ -7,3 +7,20 @@
  * **open source?** yes http://github.com/slicer/slicer
  * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [DCMQI](http://github.com/qiicr/dcmqi)
 
+2. **Description of the relevant features of the platform:**
+ * The user specifies the image series and can use module interface to segment one or more areas. Each segment can be assigned a term defining the category/type of the tissue segmented, and (if applicable) anatomic location.
+ * Measurements are calculated over the segmented areas automatically (summary statistics), and are shown in a table view.
+ * Surfaces of the segments are displayed in 3d view.
+ * User can click on the individual segments, and slice viewers will be synchronized to show the selected segment.
+
+3. **Read task**
+
+## Test dataset #1
+
+This dataset is currently failing to load, we are debugging this!
+
+## Test dataset #2
+
+<img src="slicer/slicer-sr-read-td2.png" width=650>
+
+
