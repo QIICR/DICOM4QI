@@ -13,7 +13,7 @@
        * [3D Slicer](results/seg/slicer.md)
        * [ePAD](results/epad.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
-       * ePAD
+       * [ePAD](results/epad_SR.md)
    * [Parametric maps](results/pm.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
