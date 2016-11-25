@@ -8,7 +8,7 @@
 | Brainlab | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | ePAD | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | AIM on ClearCanvas ** * **| <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
-| MeVisLab | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
+| MeVisLab | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/waiting.png" width=25> |
 | AMI | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
 | MITK | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
 | Mint Medical | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> |
