@@ -19,7 +19,7 @@
        * [MITK](results/seg/MITK.md)
        * [Mint](results/seg/mint.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
-       * [ePAD](results/epad_SR.md)
+       * [ePAD](results/sr/epad.md)
    * [Parametric maps](results/pm.md)
      * [MeVisLab](results/pm/MeVisLab.md)
      * [3D Slicer](results/pm/slicer.md)
