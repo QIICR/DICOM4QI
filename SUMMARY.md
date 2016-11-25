@@ -22,6 +22,7 @@
        * [Pixelmed](results/seg/pixelmed.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
        * [ePAD](results/sr/epad.md)
+       * [3D Slicer](results/sr/slicer.md)
    * [Parametric maps](results/pm.md)
      * [MeVisLab](results/pm/MeVisLab.md)
      * [3D Slicer](results/pm/slicer.md)
