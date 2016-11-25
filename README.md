@@ -4,7 +4,7 @@ DICOM4QI is an open connectathon with the purpose of evaluating interoperability
 
 DICOM4QI welcomes participation of the relevant tools independent of their origin (academic or commercial, open-source or not). The only requirement is to comply with the rules. Feedback on the formulation of the rules is welcomed from the participants!
 
-For the past 2 years, DICOM4QI results have been presented at the Annual meeting of the Radiological Society of North America (RSNA).  
+For the past 2 years, DICOM4QI results have been presented at a Quantitative Imaging Reading Room (QIRR) of the Annual meeting of the Radiological Society of North America (RSNA).  
 
 The present document was created to help with the organization of the exhibit activity, and as such serves two purposes:
 * First, this is the place to develop and document operating procedures, expectations and organize test datasets.
