@@ -21,6 +21,6 @@ This dataset is currently failing to load, we are debugging this!
 
 ## Test dataset #2
 
-<img src="slicer/slicer-sr-read-td2.png" width=650>
+<img src="slicer/slicer-sr-read-td2.jpg" width=650>
 
 
