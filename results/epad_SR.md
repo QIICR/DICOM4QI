@@ -14,7 +14,9 @@ ePAD works with aim files and supports importing and exporting DicomSR files. Wh
  
  <img src="./images/epadsr_roi.png" width=250>
  
- * **how do you communicate measurement semantics to the user?** user has no meaning to easily get information about the semantics of the segmentation measurements from the UI. The semantics are stored in the aim file.
+ * **how do you communicate measurement semantics to the user?** user has no meaning to easily get information about the semantics of the segmentation measurements from the UI. The semantics are stored in the aim file. (see screenshot below showing the mean calculation in the aim file)
+
+ <img src="./images/epadsr_mean.png" width=250>
 
 3.**Read task**: load each of the DICOM SR datasets that accompany the imaging series into your platform
 submit a screenshot demonstrating the presentation of the loaded measurements to the user by email to Andrey Fedorov
