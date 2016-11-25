@@ -25,7 +25,7 @@ submit a screenshot demonstrating the presentation of the loaded measurements to
 
 **Test dataset #1**
 
-| State | Screenshot |
+| Info | Screenshot |
 | -- | -- |
 | DicomSR converted to aim and loaded in ePAD | <img src="./images/epadsr_loaded.png" width=250> |
 | DicomSR aim shown in ePAD | <img src="./images/epadsr_segmentation.png" width=250> |
