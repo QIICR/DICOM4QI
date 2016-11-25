@@ -9,16 +9,16 @@
 
 ePAD works with aim files and supports importing and exporting DicomSR files. When the user uploads a DicomSR file, it is read using the tid1500reader tool from QIICR/dcmqi and an aim file is constructed with the information present in the file. When the user downloads an annotation, (s)he can choose to download the DICOM files related to that annotation, which will automatically convert the aim file to QIICR/dcmqi metadata json file, use tid1500writer to write DicomSR file and download it. (see screenshot below showing the download options for an annotation)
 
-<img src="../../../images/epadsr_downloadaim.png" width=250>
+<img src="epad/epadsr_downloadaim.png" width=250>
 
 2.**Description of the relevant features of the platform**: 
  * **please provide the screenshot of the user interface for the functionality specific to creating/displaying measurements** For each segmentation or ROI, ePAD calculates the min, max, mean and standard deviation. The plugins can calculate and save more calculations but the user doesn't have any other way to select/add/remove calculations. The calculations for geometric shape ROIs are shown on the UI in the label of the annotation but at the moment (Nov 2016), the calculations for segmentations are not displayed on UI. The only way to see them is downloading the aim file. (see screenshot below showing the calculations label for a geometric ROI, a spline)
  
- <img src="../../../images/epadsr_roi.png" width=250>
+ <img src="epad/epadsr_roi.png" width=250>
  
  * **how do you communicate measurement semantics to the user?** user has no meaning to easily get information about the semantics of the segmentation measurements from the UI. The semantics are stored in the aim file. (see screenshot below showing the mean calculation in the aim file)
 
- <img src="../../../images/epadsr_mean.png" width=250>
+ <img src="epad/epadsr_mean.png" width=250>
 
 3.**Read task**: load each of the DICOM SR datasets that accompany the imaging series into your platform
 submit a screenshot demonstrating the presentation of the loaded measurements to the user by email to Andrey Fedorov
@@ -27,9 +27,9 @@ submit a screenshot demonstrating the presentation of the loaded measurements to
 
 | Info | Screenshot |
 | -- | -- |
-| DicomSR converted to aim and loaded in ePAD | <img src="../../../images/epadsr_loaded.png" width=250> |
-| DicomSR aim shown in ePAD | <img src="../../../images/epadsr_segmentation.png" width=250> |
-| Aim with calculations| <img src="../../../images/epadsr_aim.png" width=250> 
+| DicomSR converted to aim and loaded in ePAD | <img src="epad/epadsr_loaded.png" width=250> |
+| DicomSR aim shown in ePAD | <img src="epad/epadsr_segmentation.png" width=250> |
+| Aim with calculations| <img src="epad/epadsr_aim.png" width=250> 
 
 **Test dataset #2**
 
