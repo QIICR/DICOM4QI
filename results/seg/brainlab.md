@@ -54,7 +54,7 @@ Segmentation
 Warning - Unrecognized defined term <99BL-GEN> for value 1 of attribute <Coding Scheme Designator>
 ```
 
-| Test dataset | Result of rendering in Brainlab|
+| Output dataset | Result of rendering in Brainlab|
 | -- | -- |
 | [#3 write result](http://slicer.kitware.com/midas3/download/item/266127/SEG_BL_DataSet3_compressed.dcm) | <img src="./brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="./brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250> |
 | [#4 write result](http://slicer.kitware.com/midas3/download/item/266126/SEG_BL_DataSet4_compressed.dcm) | <img src="./brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="./brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250>  |
