@@ -19,6 +19,7 @@
        * [MITK](results/seg/MITK.md)
        * [Mint](results/seg/mint.md)
        * [AMI](results/seg/ami.md)
+       * [Pixelmed](results/seg/pixelmed.md)
    * [Measurements (DICOM SR TID1500)](results/sr-tid1500.md)
        * [ePAD](results/sr/epad.md)
    * [Parametric maps](results/pm.md)
