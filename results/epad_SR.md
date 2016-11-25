@@ -16,7 +16,13 @@ submit a screenshot demonstrating the presentation of the loaded measurements to
 
 **Test dataset #1**
 
-<img src="./images/brainlab_fract_objects.png" width=250> 
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./images/slicer_qin2.png" width=250> |
+| ePAD | <img src="./slicer/epad-read-lidc.png" width=250> |
+| syngo.via | <img src="./images/syngo-segmentations.png" width=250> |
+| AIMonClearCanvas| <img src="./images/clearcanvas_segmentation.png" width=250> |
+| Brainlab| <img src="./images/brainlab_fract_objects.png" width=250> |
 
 **Test dataset #2**
 
