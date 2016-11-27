@@ -17,7 +17,7 @@
 
 ## Test dataset #1
 
-<img src="slicer/slicer-sr-read-td1.jpg" width=650>
+<img src="slicer/slicer-sr-read-td1.png" width=650>
 
 ## Test dataset #2
 
