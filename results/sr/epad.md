@@ -26,9 +26,9 @@ ePAD works with AIM files and supports importing and exporting DICOM SR TID1500 
 
 | Info | Screenshot |
 | -- | -- |
-| DicomSR converted to aim and loaded in ePAD | <img src="epad/epadsr_loaded.png" width=250> |
-| DicomSR aim shown in ePAD | <img src="epad/epadsr_segmentation.png" width=250> |
-| Aim with calculations| <img src="epad/epadsr_aim.png" width=250> 
+| DICOM SR converted to AIM and loaded in ePAD | <img src="epad/epadsr_loaded.png" width=250> |
+| DICOM SR AIM shown in ePAD | <img src="epad/epadsr_segmentation.png" width=250> |
+| AIM with calculations| <img src="epad/epadsr_aim.png" width=250> 
 
 **Test dataset #2**
 
