@@ -1,7 +1,7 @@
 # 3D Slicer
 
 1.**Description of the platform/product**:
- * **name and version of the software**: 3D Slicer, Nightly release 4.7.0-2016-11-24, with Reporting extension installed
+ * **name and version of the software**: 3D Slicer, Nightly release 4.7.0-2016-11-27, with [QuantitativeReporting](https://github.com/QIICR/QuantitativeReporting) extension installed
  * **free?** yes http://download.slicer.org
  * **commercial?** no
  * **open source?** yes http://github.com/slicer/slicer
@@ -17,7 +17,7 @@
 
 ## Test dataset #1
 
-This dataset is currently failing to load, we are debugging this!
+<img src="slicer/slicer-sr-read-td1.jpg" width=650>
 
 ## Test dataset #2
 
