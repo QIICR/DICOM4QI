@@ -4,7 +4,7 @@
  * **name and version of the software**: MITK Workbench 2016.11 (not yet released)
  * **free?** yes - http://mitk.org/Downloads
  * **commercial?** no
- * **open source?** yes - https://phabricator.mitk.org/source/mitk.git
+ * **open source?** yes - https://phabricator.mitk.org/source/mitk
  * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [GDCM](http://gdcm.sourceforge.net/), [DCMQI](http://github.com/qiicr/dcmqi)
 
 2. **Description of the relevant features of the platform**: 
