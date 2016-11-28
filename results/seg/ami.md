@@ -3,7 +3,8 @@
   * **name and version of the software?** AMI (Medical Imaging Javascript Toolkit) - v0.0.12+
   * **free?** yes
   * **commercial?** no
-  * **opensource?** yes - [Github repository](https://github.com/FNNDSC/ami)
+  * **opensource?** yes - [Github repository](https://github.com/FNNDSC/ami
+   * demo app: https://fnndsc.github.io/ami/#viewers_labelmap
   * **what DICOM library do you use?** [dicomParser](https://github.com/chafey/dicomParser)
 
 2.**Description of the relevant features of the platform:**
