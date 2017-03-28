@@ -1,6 +1,6 @@
 # Summary
 
-DICOM4QI is an open connectathon with the purpose of evaluating interoperability of the image analysis tools and workstations, applied to exchange of the quantitative image analysis results using DICOM standard.
+DICOM4QI is an open demonstration and connectathon with the purpose of evaluating interoperability of the image analysis tools and workstations, applied to exchange of the quantitative image analysis results using DICOM standard.
 
 We call this activity "a connectathon", but this is not an _official_ IHE or RSNA connectathon. We use the word "connectathon" to describe the essence of the activity, and not our affiliation to official connectathons that are already established in the field.
 
