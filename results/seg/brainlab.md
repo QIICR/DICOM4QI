@@ -16,6 +16,8 @@
  * **how do you communicate segment semantics to the user?** The type of the segment property which is stored inside Segmented Property Type Code Sequence is displayed to the user.
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** The type of the segment (i.e.Tumor, Implant, Bone and Undefined) can be selected by the user when creating a Segmentation object.
 
+**Demonstration video on YouTube** (recorded at RSNA 2015 DICOM4QI): https://youtu.be/2J3sxpqHtlY.
+
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
 **Test dataset #1**
