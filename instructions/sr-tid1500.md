@@ -1,6 +1,14 @@
 # Measurements (DICOM SR TID1500)
 
-Tasks for participants:
+## Overview
+
+The purpose of this task is to demonstrate support of the DICOM Structured Reporting template TID1500 (DICOM TID1500) for storing measurements derived from volumetric segmentations. 
+
+The basic read task involves loading the existing DICOM TID1500 object (ideally, in the context of the source image series and the segmentation used to derived that measurement), and demonstrating the user interface presenting the loaded measurements.
+
+Write task involves generation of a new DICOM TID1500 dataset for a specified combination of the input image series and the volumetric segmentation defined as DICOM SEG.
+
+## Tasks for participants
 
 1. **Description of the platform/product**:
  * **name and version of the software** used for testing

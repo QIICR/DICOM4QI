@@ -9,6 +9,7 @@
   * [Segmentations \(DICOM SEG\)](instructions/seg.md)
   * [Measurements \(DICOM SR TID1500\)](instructions/sr-tid1500.md)
   * [Parametric maps](instructions/pm.md)
+  * [Longitudinal annotation](instructions/longitudinal-annotation.md)
 * [Results](results.md)
   * [Segmentations \(DICOM SEG\)](results/seg.md)
     * [3D Slicer](results/seg/slicer.md)

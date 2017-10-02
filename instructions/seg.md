@@ -1,6 +1,14 @@
 # Segmentations (DICOM SEG)
 
-Tasks for participants:
+## Overview
+
+The purpose of this task is to demonstrate support of the DICOM Segmentation Image (DICOM SEG) object. 
+
+The basic read task involves loading the existing DICOM SEG object, and demonstrating segmentation overlay on the image being annotated.
+
+Write task involves volumetric segmentation of a finding (evaluation of the precision/accuracy of the segmentation is out of the scope of this demonstration) and storing the result as a DICOM SEG object.
+
+## Tasks for participants
 
 1. **Description of the platform/product**:
  * **name and version of the software** used for testing

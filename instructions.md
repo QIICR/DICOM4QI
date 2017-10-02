@@ -1,7 +1,12 @@
 # Instructions for participants
+
 The overall idea of the activity is to demonstrate interchange of the types of DICOM objects needed for quantitative imaging research.
 
 As such, we aim to test the capabilities of the individual platforms to consume and produce the types of DICOM objects in question.
+
+**Note: to participate, you do NOT need to support _all_ of the object types and tasks listed in the following sections!**
+
+**If your platform has support for _any_ of the objects within the scope of DICOM4QI, we would love to hear from you and include your submission!**
 
 For each type of DICOM object, we provide sample datasets that include imaging series and the derived DICOM dataset of the type in question. Note that you can also download all of the datasets used in DICOM4QI here: http://slicer.kitware.com/midas3/folder/3771 (choose "Download" on the right-hand side) 
 

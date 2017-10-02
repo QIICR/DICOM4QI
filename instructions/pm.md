@@ -1,6 +1,10 @@
 # Parametric maps
 
-Tasks for participants:
+## Overview
+
+In this task the participants are expected to demonstrate the capability of the tool to handle loading of the DICOM Parametric Map (DICOM PM) object.
+
+## Tasks for participants
 
 1. **Description of the platform/product**:
  * **name and version of the software** used for testing
