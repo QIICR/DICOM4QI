@@ -24,7 +24,7 @@ Participants that joined the 2017 submission:
 * [Prism Clinical Imaging](http://www.prismclinical.com/) (contact: James Reuss)
 
 
-The following tools are participating in the connectathon without a representative from the organization supporting the tool:
+The following tools are evaluated without a representative from the organization supporting the tool:
 * Siemens syngo.via (testing performed by Andrey Fedorov using the off-the-shelf instance installed at the Brigham and Women's Hospital)
 * [OsiriX Lite](http://www.osirix-viewer.com/ContributionOsiriX.html) (testing performed by Andrey Fedorov using the publicly available version)
 
