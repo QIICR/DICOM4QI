@@ -41,6 +41,8 @@ Screenshots below show the location of the lesion, and the measurements stored i
 
 ### Citations
 
+The CT series from Test dataset #1 are accompanied by the following citations.
+
 **Data Citation**
 
 Zhao, Binsheng, Schwartz, Lawrence H, & Kris, Mark G. (2015). Data From RIDER_Lung CT. The Cancer Imaging Archive. http://doi.org/10.7937/K9/TCIA.2015.U1X8A5NR
