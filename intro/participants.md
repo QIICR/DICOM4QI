@@ -18,6 +18,12 @@ Participants that joined the 2016 submission:
 * [Koelis](http://koelis.com) (details of the actual platform TBD) (contact: Michael Baumann)
 * [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) (David Clunie)
 
+Participants that joined the 2017 submission:
+* [Corticometics](http://www.corticometrics.com/) (contact: Paul Wighton)
+* [icometrix](https://icometrix.com/) (contact:Dirk Smeets)
+* [Prism Clinical Imaging](http://www.prismclinical.com/) (contact: James Reuss)
+
+
 The following tools are participating in the connectathon without a representative from the organization supporting the tool:
 * Siemens syngo.via (testing performed by Andrey Fedorov using the off-the-shelf instance installed at the Brigham and Women's Hospital)
 * [OsiriX Lite](http://www.osirix-viewer.com/ContributionOsiriX.html) (testing performed by Andrey Fedorov using the publicly available version)
