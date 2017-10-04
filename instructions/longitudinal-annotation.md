@@ -29,6 +29,16 @@ The task is to demonstrate how the tool presents to the user the longitudinal as
 
 This is a dataset encoding the changes in morphology of a lung lesion over two CT imaging sessions. The source of this dataset is the [TCIA RIDER-LungCT collection](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Lung+CT) (subject RIDER-1500037140). 
 
+Download the ZIP archive containing 2 CT series, 2 SEG series, and 2 SR series [here](http://slicer.kitware.com/midas3/download/item/313148/RIDER-1500037140.zip).
+
+Screenshots below show the location of the lesion, and the measurements stored in the SR objects, as displayed using 3D Slicer QuantitativeReporting extension.
+
+**Time point 1**
+![](/assets/RIDER-1500037140-1.jpg)
+
+**Time point 2**
+![](/assets/RIDER-1500037140-2.jpg)
+
 ### Citations
 
 **Data Citation**
