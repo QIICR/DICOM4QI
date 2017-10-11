@@ -24,18 +24,21 @@ The write task involves generation of tractography streamlines from the provided
 
 3. **Read task** (for each dataset!)
  * load each of the DICOM TR datasets that accompany the imaging series into your platform
- * submit a screenshot demonstrating the overlay of the segmentation on the B0 series, and any other components of the user interface (e.g., presentation of the ROI semantics to the user, communication of the algorithm metadata) by email to Andrey Fedorov and Isaiah Norton. (screenshots will be included in the results page alongside these responses).
+ * submit the following screenshots:
+   - demonstrate the 2D overlay of the track sets on the B0 series (if possible)
+   - demonstrate several 3D perspectives (if possible)
+   - demonstrate any other components of the user interface (e.g., presentation of the a, communication of the algorithm metadata).
 
 4. **Write tasks**
  * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
  *  **Multiple tracksets**: segment any two streamline bundles using any method available in your platform (non-intersecting). Make sure to create separate segment for each of the segmented areas!
  * save the result as DICOM TR; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * as part of quick checks, confirm that the resulting TR object has the same FrameOfReferenceUID as the reference image
- * [UPLOAD THE RESULTING DICOM TR FILES AND SCREENSHOTS HERE](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). (data will be publicly accessible after upload)
+ * [UPLOAD THE RESULTING DICOM TR FILES HERE](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). (note: after upload, data will be publicly accessible from link in results section)
  
-Note: (1) we are not assessing accuracy or usefulness of tractography streamlines, any method is  good; (2) the screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
+Note: (1) we are not assessing accuracy or usefulness of tractography streamlines, any method is good; (2) the screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
 
-** Diffusion Weighted Image Source Datasets
+## Diffusion Weighted Image Source Datasets
 
 ### DWI dataset #1
 
@@ -53,7 +56,7 @@ The imaging dataset is a diffusion weighted image of a human brain acquired on a
 
 [Download link](http://slicer.kitware.com/midas3/download/?items=92995,1)
 
-**Generated Tractography Result datasets**
+## Generated Tractography Result datasets
 
 Download the DICOM TR datasets produced by the platforms that already submitted results (data is organized in subfolders corresponding to the individual platforms):
 
