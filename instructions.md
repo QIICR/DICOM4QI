@@ -6,7 +6,7 @@ As such, we aim to test the capabilities of the individual platforms to consume 
 
 **Note: to participate, you do NOT need to support _all_ of the object types and tasks listed in the following sections!**
 
-To participate, you do not need to be physically present at RSNA to participate - you can submit your results for inclusion in this public resource. Those of us at RSNA will be happy to tell attendees about your tool, and refer them to you if there are further questions we cannot answer.
+**To participate, you do not need to be physically present at RSNA!** You can submit your results for inclusion in this public resource. Those of us at RSNA will be happy to tell attendees about your tool, and refer them to you if there are further questions we cannot answer.
 
 **If your platform has support for _any_ of the objects within the scope of DICOM4QI, we would love to hear from you and include your submission!**
 
