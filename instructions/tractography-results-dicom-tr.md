@@ -36,9 +36,11 @@ The write task involves generation of tractography streamlines from the provided
  * as part of quick checks, confirm that the resulting TR object has the same FrameOfReferenceUID as the reference image
  * [UPLOAD THE RESULTING DICOM TR FILES HERE](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). (note: after upload, data will be publicly accessible from link in results section)
  
-Note: (1) we are not assessing accuracy or usefulness of tractography streamlines, any method is good; (2) the screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
+Note: (1) there is no evaluation of accuracy or usefulness of tractography streamlines, any method is good; (2) the screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
 
 ## Diffusion Weighted Image Source Datasets
+
+[Download all DWI datasets as zip file](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1).
 
 ### DWI dataset #1
 
@@ -46,19 +48,15 @@ The imaging dataset is a diffusion weighted image of a human brain acquired on a
 
 ### DWI dataset #2
 
-The imaging dataset is a diffusion weighted image of a human brain acquired on a Siemens Trio (mosaic off; no CSA header present). Data credit: University of Iowa BRAINS project, DWIConvert test dataset. ([metadata and license](http://slicer.kitware.com/midas3/item/93005))
-
-[Download link](http://slicer.kitware.com/midas3/download/?items=93005,1)
+The imaging dataset is a diffusion weighted image of a human brain acquired on a Siemens Trio (mosaic off; no CSA header present). Data credit: University of Iowa BRAINS project, DWIConvert test dataset. ([source, metadata, and license](http://slicer.kitware.com/midas3/item/93005))
 
 ### DWI dataset #3
 
-The imaging dataset is a diffusion weighted image of a human brain acquired on a 3T GE Signa HDx. Data credit: University of Iowa BRAINS project, DWIConvert test dataset ([metadata and license](http://slicer.kitware.com/midas3/item/92995)).
-
-[Download link](http://slicer.kitware.com/midas3/download/?items=92995,1)
+The imaging dataset is a diffusion weighted image of a human brain acquired on a 3T GE Signa HDx. Data credit: University of Iowa BRAINS project, DWIConvert test dataset ([source, metadata, and license](http://slicer.kitware.com/midas3/item/92995)).
 
 ## Generated Tractography Result datasets
 
 Download the DICOM TR datasets produced by the platforms that already submitted results (data is organized in subfolders corresponding to the individual platforms):
 
-[DOWNLOAD LINK](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
+[Access results folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
 
