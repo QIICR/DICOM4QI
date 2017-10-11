@@ -19,7 +19,9 @@ The write task involves generation of tractography streamlines from the provided
 
  * **Description of the relevant features of the platform**: 
     * are multiple tracksets supported in a single file?
-    * do you support any ancillary
+    * do you support any optional measurement data associated with a track?
+    * do you support any optional summary statistics associated with a track set?
+    * do you write any other optional information to the TR file? (e.g. acquisition, model, attribute, algorithm identification etc.)
 
 
 3. **Read task** (for each dataset!)
@@ -31,8 +33,8 @@ The write task involves generation of tractography streamlines from the provided
 
 4. **Write tasks**
  * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
- *  **Multiple tracksets**: segment any two streamline bundles using any method available in your platform (non-intersecting). Make sure to create separate segment for each of the segmented areas!
- * save the result as DICOM TR; if possible, please include in the series description the name of your tool to simplify comparison tasks!
+ *  **Multiple tracksets**: select any two streamline bundles using any method available in your platform (non-intersecting). Make sure to create separate trackset for each of the segmented areas!
+ * save the results as DICOM TR; if possible, please include in the series description the name of your tool to simplify comparison tasks!
  * as part of quick checks, confirm that the resulting TR object has the same FrameOfReferenceUID as the reference image
  * [UPLOAD THE RESULTING DICOM TR FILES HERE](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). (note: after upload, data will be publicly accessible from link in results section)
  
