@@ -40,7 +40,7 @@ Note: (1) there is no evaluation of accuracy or usefulness of tractography strea
 
 ## Diffusion Weighted Image Source Datasets
 
-[Download all DWI datasets as zip file](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1).
+[DOWNLOAD ALL DWI DATASETS (zip file)](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1).
 
 ### DWI dataset #1
 
@@ -58,5 +58,5 @@ The imaging dataset is a diffusion weighted image of a human brain acquired on a
 
 Download the DICOM TR datasets produced by the platforms that already submitted results (data is organized in subfolders corresponding to the individual platforms):
 
-[Access results folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
+[LINK TO RESULTS FOLDER](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
 
