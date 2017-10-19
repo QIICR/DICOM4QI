@@ -7,7 +7,7 @@ Platforms that participated in the 2015 connectathon activity:
 * [AIM on ClearCanvas](http://www.ict.mahidol.ac.th/research/Imaging-Informatics/index) (contact: Pattanasak Mongkolwat)
 * [Brainlab Patient Data Manager](https://www.brainlab.com) (contact: David Flade)
 
-Participants that joined the 2016 submission:
+Participants that joined the 2016 iteration of the connectathon:
 * [OHIF/Cornerstone](https://github.com/OHIF) (contact: Chris Hafey)
 * [RadConnect](https://www.radconnect.com/wp/) (contact: Chris Hafey)
 * [AMI](https://github.com/FNNDSC/ami) (contact: Nicolas Rannou and Rudolph Pienaar)
@@ -18,10 +18,11 @@ Participants that joined the 2016 submission:
 * [Koelis](http://koelis.com) (details of the actual platform TBD) (contact: Michael Baumann)
 * [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) (David Clunie)
 
-Participants that joined the 2017 submission:
+Participants that joined the 2017 iteration of the connectathon:
 * [Corticometics](http://www.corticometrics.com/) (contact: Paul Wighton)
 * [icometrix](https://icometrix.com/) (contact:Dirk Smeets)
 * [Prism Clinical Imaging](http://www.prismclinical.com/) (contact: James Reuss)
+* [VTK-DICOM](https://www.gitbook.com/results/pm/vtk-dicom.md) (contact: David Gobbi)
 
 
 The following tools are evaluated without a representative from the organization supporting the tool:
