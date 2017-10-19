@@ -15,6 +15,7 @@
 | Pixelmed DicomImageViewer | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | Siemens syngo.via | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> | <img src="../images/waiting.png" width=25> |
 | [OsiriX Lite](/results/pm/osirix.md) ** * **| <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
+| [VTK-Dicom](/results/pm/vtk-dicom.md) | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
 ** * DISCLAIMER: Platforms marked with the asterisk were tested without involvement of the platform developers or supporting team.**
 
 ## Legend
