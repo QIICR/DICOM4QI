@@ -28,6 +28,7 @@
     * [3D Slicer](results/pm/slicer.md)
     * [OsiriX](results/pm/osirix.md)
     * [ePAD](results/pm/epad.md)
+    * [vtk-dicom](results/pm/vtk-dicom.md)
   * [Measurements \(DICOM SR TID1500\)](results/sr-tid1500.md)
     * [ePAD](results/sr/epad.md)
     * [3D Slicer](results/sr/slicer.md)
