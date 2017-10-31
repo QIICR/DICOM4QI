@@ -8,7 +8,7 @@
  * **what DICOM library do you use?** [PixelMed](http://www.pixelmed.com/), [DCM4CHE](http://www.dcm4che.org/)
 
 2.**Description of the relevant features of the platform**: 
- * **are both single and multiple segments supported?** only single segment is fully supported, we have back-end support for reading multiple segments but the viewer cannot display them yet  
+ * **are both single and multiple segments supported?** the new viewer uses AMI and supports multisegments, the old viewer supports only single segments.  
  * **how are the overlapping segments handled?** user can select either to view the outline or as filled (see screenshot below showing both AIM on ClearCanvas and Slicer datasets from the Read task) 
 
 <img src="./epad/overlap_sc_stroke.png" width=450> | <img src="./epad/overlap_sc_fill.png" width=450>
@@ -17,7 +17,7 @@
 
 <img src="./epad/fractionalseg.png" width=250>
 
- * **do you render the segment using the color specified in the DICOM object?** no
+ * **do you render the segment using the color specified in the DICOM object?** the new viewer uses AMI and renders using the color specified in the DICOM object, the old viewer uses user's preferred color for all segmentations
  * **how do you communicate segment semantics to the user?** currently user has no means to get information about the semantics of the object as defined in the segmentation
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user is presented with a predefined list (same list with Slicer) to identify the semantics of the segmentation. the default values for category and type are both `(T-D0050;SRT;Tissue)`.
 
@@ -35,7 +35,22 @@
 
 **Test dataset #2**
 
-At this time, ePAD does not support multi-segment segmentations.
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./epad/slicer_t2.png" width=250> |
+
+**Test dataset #3**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./epad/slicer_t3.png" width=250> |
+
+**Test dataset #4**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="./epad/slicer_t4.png" width=250> |
+
 
 
 4.**Write task**
