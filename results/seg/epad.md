@@ -1,14 +1,14 @@
 # ePAD
 
 1.**Description of the platform/product**:
- * **name and version of the software**: ePAD, version 2.4
+ * **name and version of the software**: ePAD, version 2.9
  * **free?** yes https://epad.stanford.edu/epad-agreement
  * **commercial?** no
  * **open source?** yes except plugins and UI project github.com/RubinLab/
  * **what DICOM library do you use?** [PixelMed](http://www.pixelmed.com/), [DCM4CHE](http://www.dcm4che.org/)
 
 2.**Description of the relevant features of the platform**: 
- * **are both single and multiple segments supported?** the new viewer uses AMI and supports multisegments, the old viewer supports only single segments.  
+ * **are both single and multiple segments supported?** the new viewer uses AMI and supports multisegments;  whereas the old viewer supports only single segments.  
  * **how are the overlapping segments handled?** user can select either to view the outline or as filled (see screenshot below showing both AIM on ClearCanvas and Slicer datasets from the Read task) 
 
 <img src="./epad/overlap_sc_stroke.png" width=450> | <img src="./epad/overlap_sc_fill.png" width=450>
@@ -17,7 +17,7 @@
 
 <img src="./epad/fractionalseg.png" width=250>
 
- * **do you render the segment using the color specified in the DICOM object?** the new viewer uses AMI and renders using the color specified in the DICOM object, the old viewer uses user's preferred color for all segmentations
+ * **do you render the segment using the color specified in the DICOM object?** the new viewer uses AMI and renders using the color specified in the DICOM object; whereas the old viewer uses annotation owner's preferred color for all segmentations
  * **how do you communicate segment semantics to the user?** currently user has no means to get information about the semantics of the object as defined in the segmentation
  * **how do you support the user in defining the semantics of the object at the time segmentation is created?** user is presented with a predefined list (same list with Slicer) to identify the semantics of the segmentation. the default values for category and type are both `(T-D0050;SRT;Tissue)`.
 
@@ -31,7 +31,7 @@
 | ePAD | <img src="./epad/epad-read-lidc.png" width=250> |
 | syngo.via | <img src="./epad/syngo_segmentations.png" width=250> |
 | AIMonClearCanvas| <img src="./epad/clearcanvas_segmentation.png" width=250> |
-| Brainlab| <img src="./epad/brainlab_fract_objects.png" width=250> |
+| Brainlab| <img src="./epad/brainlab_objects.png" width=250> |
 
 **Test dataset #2**
 
@@ -50,7 +50,6 @@
 | Test dataset | Result of rendering |
 | -- | -- |
 | 3D Slicer | <img src="./epad/slicer_t4.png" width=250> |
-
 
 
 4.**Write task**
