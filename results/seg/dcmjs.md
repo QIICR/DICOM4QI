@@ -25,7 +25,8 @@
 
 See [live demo pulling qiicr data from TCIA](https://pieper.github.io/dcmjs/examples/qiicr/).
 
-<img src="./dcmjs/dcmjs-qicr-tcia-seg.png" width=250></img>
+![Segmentation display screenshot](/results/seg/dcmjs/dcmjs-qiicr-tcia-seg.png)
+
 
 
 **Test dataset #1**
@@ -42,10 +43,11 @@ TBD
 TBD
 
 For now a [simple live demo](https://pieper.github.io/dcmjs/examples/createSegmentation/index.html) exists to create a 
-SEG and multiframe MR object from some sample data.  **Note that even though there are multiple frames
-the segmentation is not correctly attached to the slice.  This is an issue with the demo and not the underlying library.**
-
-
-<img src="./dcmjs/dcmjs-qicr-save-seg.png" width=250>
+SEG and multiframe MR object from some sample data.  **Note that even though there are multiple frames the segmentation is not correctly attached to the slice.  This is an issue with the demo and not the underlying library.**
 
 Example output [is available for download](https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0)
+
+![Segmentation save screenshot](/results/seg/dcmjs/dcmjs-qiicr-save-seg.png)
+
+
+
