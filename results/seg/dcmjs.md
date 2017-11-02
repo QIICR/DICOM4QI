@@ -54,8 +54,6 @@ the segmentation is not correctly attached to the slice.  This is an issue with 
 <img src="./dcmjs/dcmjs-qicr-save-seg.png" width=250>
 
 Example output [is available for download](https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0)
-
-
 ```
 
 
