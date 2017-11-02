@@ -18,11 +18,13 @@ Participants that joined the 2016 iteration of the connectathon:
 * [Koelis](http://koelis.com) (details of the actual platform TBD) (contact: Michael Baumann)
 * [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) (David Clunie)
 
+
 Participants that joined the 2017 iteration of the connectathon:
 * [Corticometics](http://www.corticometrics.com/) (contact: Paul Wighton)
 * [icometrix](https://icometrix.com/) (contact:Dirk Smeets)
 * [Prism Clinical Imaging](http://www.prismclinical.com/) (contact: James Reuss)
 * [VTK-DICOM](https://www.gitbook.com/results/pm/vtk-dicom.md) (contact: David Gobbi)
+* [dcmjs](https://github.com/pieper/dcmjs) (contact Steve Pieper)
 
 
 The following tools are evaluated without a representative from the organization supporting the tool:
