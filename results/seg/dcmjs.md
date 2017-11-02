@@ -1,14 +1,12 @@
-```
+
 # dcmjs
-```
 
-```
+
 **Note:** [dcmjs](http://github.com/pieper/dcmjs
-) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.
-It is currently able to convert to and from binary (part 10) DICOM and JavaScript objects.
-Use the github project for issue or questions, or contact Steve Pieper (pieper@isomics.com).
+) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.  It is currently able to convert to and from binary (part 10) DICOM and JavaScript objects.  Use the github project for issues and questions or contact Steve Pieper (pieper@isomics.com).
 
-1.**Description of the platform/product**:
+1.
+**Description of the platform/product**:
  * **name and version of the software**: dcmjs alpha version
  * **free?** yes http://github.com/pieper/dcmjs
  * **commercial?** can be used in commercial projects
@@ -18,13 +16,10 @@ Use the github project for issue or questions, or contact Steve Pieper (pieper@i
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** yes
  * **how are the overlapping segments handled?** loaded separately, displayed as cornerstone overlays
- * **do you support both BINARY and FRACTIONAL segmentation types?**
-   can be loaded but not currently displayed
- * **do you render the segment using the color specified in the DICOM
-   object?** yes
+ * **do you support both BINARY and FRACTIONAL segmentation types?** can be loaded but not currently displayed
+ * **do you render the segment using the color specified in the DICOM object?** yes
  * **how do you communicate segment semantics to the user?** Demo displays color, segment number, other info
-  * **how do you support the user in defining the semantics of the object at the time segmentation is created?**
-   no creation support yet
+ * **how do you support the user in defining the semantics of the object at the time segmentation is created?** currently requires writing code
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
@@ -54,7 +49,3 @@ the segmentation is not correctly attached to the slice.  This is an issue with 
 <img src="./dcmjs/dcmjs-qicr-save-seg.png" width=250>
 
 Example output [is available for download](https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0)
-```
-
-
-
