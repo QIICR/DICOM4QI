@@ -25,7 +25,7 @@
 
 See [live demo pulling qiicr data from TCIA](https://pieper.github.io/dcmjs/examples/qiicr/).
 
-<img src="./dcmjs/dcmjs-qicr-tcia-seg.png" width=250>
+<img src="./dcmjs/dcmjs-qicr-tcia-seg.png" width=250></img>
 
 
 **Test dataset #1**
