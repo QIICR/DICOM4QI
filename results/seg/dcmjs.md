@@ -5,6 +5,8 @@
 **Note:** [dcmjs](http://github.com/pieper/dcmjs
 ) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.  It is currently able to convert to and from binary (part 10) DICOM and JavaScript objects.  Use the github project for issues and questions or contact Steve Pieper (pieper@isomics.com).
 
+The core functionality of reading and writing segmentations is available but has not yet been verified with all datasets for the connectathon.
+
 1.
 **Description of the platform/product**:
  * **name and version of the software**: dcmjs alpha version
