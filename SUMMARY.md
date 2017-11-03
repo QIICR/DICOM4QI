@@ -23,7 +23,7 @@
     * [Mint](results/seg/mint.md)
     * [AMI](results/seg/ami.md)
     * [Pixelmed](results/seg/pixelmed.md)
-    * [dcmjs](results/seg/dcmjs.md)
+    * [dcmjs+cornerstone](results/seg/dcmjs.md)
   * [Parametric maps](results/pm.md)
     * [MeVisLab](results/pm/MeVisLab.md)
     * [3D Slicer](results/pm/slicer.md)

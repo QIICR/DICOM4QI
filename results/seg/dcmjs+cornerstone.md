@@ -8,8 +8,7 @@ The core functionality of reading and writing segmentations is available but has
 
 [Cornerstone](https://github.com/chafey/cornerstone) provides image display including overlay support for showing segmentations. 
 
-1.
-**Description of the platform/product**:
+1. **Description of the platform/product**:
  * **name and version of the software**: dcmjs alpha version, cornerstone current git master
  * **free?** yes http://github.com/pieper/dcmjs and https://github.com/chafey/cornerstone
  * **commercial?** can be used in commercial projects
