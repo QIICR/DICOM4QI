@@ -1,18 +1,20 @@
 
-# dcmjs
+# dcmjs + cornerstone
 
 
 **Note:** [dcmjs](http://github.com/pieper/dcmjs) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.  It is currently able to convert to and from binary (part 10) DICOM and JavaScript objects.  Use the github project for issues and questions or contact Steve Pieper (pieper@isomics.com).
 
 The core functionality of reading and writing segmentations is available but has not yet been verified with all datasets for the connectathon.
 
+[Cornerstone](https://github.com/chafey/cornerstone) provides image display including overlay support for showing segmentations. 
+
 1.
 **Description of the platform/product**:
- * **name and version of the software**: dcmjs alpha version
- * **free?** yes http://github.com/pieper/dcmjs
+ * **name and version of the software**: dcmjs alpha version, cornerstone current git master
+ * **free?** yes http://github.com/pieper/dcmjs and https://github.com/chafey/cornerstone
  * **commercial?** can be used in commercial projects
  * **open source?** yes, MIT license
- * **what DICOM library do you use?** pure JavaScript implementation
+ * **what DICOM library do you use?** pure JavaScript implementation, dcmjs
 
 2.**Description of the relevant features of the platform**: 
  * **are both single and multiple segments supported?** yes

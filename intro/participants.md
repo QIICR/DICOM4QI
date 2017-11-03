@@ -24,7 +24,7 @@ Participants that joined the 2017 iteration of the connectathon:
 * [icometrix](https://icometrix.com/) (contact:Dirk Smeets)
 * [Prism Clinical Imaging](http://www.prismclinical.com/) (contact: James Reuss)
 * [VTK-DICOM](https://www.gitbook.com/results/pm/vtk-dicom.md) (contact: David Gobbi)
-* [dcmjs](https://github.com/pieper/dcmjs) (contact Steve Pieper)
+* [dcmjs + cornerstone](https://github.com/pieper/dcmjs) (contact Steve Pieper and Erik Ziegler)
 
 
 The following tools are evaluated without a representative from the organization supporting the tool:
