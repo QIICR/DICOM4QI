@@ -33,6 +33,8 @@
   * [Measurements \(DICOM SR TID1500\)](results/sr-tid1500.md)
     * [ePAD](results/sr/epad.md)
     * [3D Slicer](results/sr/slicer.md)
+  * [Tractography \(DICOM TR\)](results/tractography-dicom-tr.md)
+    * [3D Slicer](results/tractography-dicom-tr/3d-slicer.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
