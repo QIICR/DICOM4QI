@@ -36,6 +36,7 @@
   * [Tractography \(DICOM TR\)](results/tractography-dicom-tr.md)
     * [3D Slicer](results/tractography-dicom-tr/3d-slicer.md)
     * [Brainlab](results/tractography-dicom-tr/brainlab.md)
+    * [Prism](results/tractography-dicom-tr/prism.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
