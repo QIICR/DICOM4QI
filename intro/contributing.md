@@ -10,9 +10,7 @@ If you want to edit the section for your platform yourself, follow the instructi
 
 1. Create an account on [GitBook](https://www.gitbook.com/) (you can reuse your GitHub login to authenticate)
 2. Send your login name to Andrey Fedorov, so that he can add you to the list of collaborators. 
-3. Take a look at the video below to get started with the editing process.
-
- {% youtube src="https://www.youtube.com/watch?v=-DkV2ainp10" %}{% endyoutube %} 
+3. Take a look at [this video ](https://www.youtube.com/watch?v=-DkV2ainp10)to get started with the editing process.
 
 ## Comments/discussion
 
