@@ -13,9 +13,9 @@ The write task involves generation of tractography streamlines from the provided
 1. **Description of the platform/product**:
 
    * **name and version of the software**: 3D Slicer, nightly release 2017-11-05, with [SlicerDMRI](http://dmri.slicer.org/download/) extension installed.
-   * **free?**: Yes, http://download.slicer.org/ and http://dmri.slicer.org/download/ (extension instructions)
+   * **free?**: Yes, [http://download.slicer.org/](http://download.slicer.org/) and [http://dmri.slicer.org/download/](http://dmri.slicer.org/download/) \(extension instructions\)
    * ~~**commercial?**:~~
-   * **open source?**: https://github.com/SlicerDMRI
+   * **open source?**: [https://github.com/SlicerDMRI](https://github.com/SlicerDMRI)
    * **what DICOM library do you use?**: DCMTK
 
    * **Description of the relevant features of the platform**:
@@ -25,7 +25,7 @@ The write task involves generation of tractography streamlines from the provided
      * do you support any optional summary statistics associated with a track set?
      * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - No
 
-1. **Read task**
+2. **Read task**
 
    * load each of the DICOM TR datasets that accompany the imaging series into your platform
    * submit the following screenshots:
@@ -33,7 +33,10 @@ The write task involves generation of tractography streamlines from the provided
      * demonstrate several 3D perspectives \(if possible\)
      * demonstrate any other components of the user interface \(e.g., presentation of the associated measurements, communication of the algorithm metadata\).
 
-2. **Write tasks**
+3. **Write tasks**
 
    * **Single trackset**: 
    * **Multiple tracksets**:
+
+
+
