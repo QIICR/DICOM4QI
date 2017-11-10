@@ -3,9 +3,9 @@
 **1. Description of the platform/product**:
 
    * **name and version of the software** Brainlab FiberTracking 1.1.0
-   * ~~**free?**~~
-   * **commercial?** [https://www.brainlab.com/en/surgery-products/overview-neurosurgery-products/fibertracking-and-functional-planning/](https://www.brainlab.com/en/surgery-products/overview-neurosurgery-products/fibertracking-and-functional-planning/)
-   * ~~**open source?**~~ 
+   * **free?** no
+   * **commercial?** yes, [https://www.brainlab.com/en/surgery-products/overview-neurosurgery-products/fibertracking-and-functional-planning/](https://www.brainlab.com/en/surgery-products/overview-neurosurgery-products/fibertracking-and-functional-planning/)
+   * **open source?** no
    * **what DICOM library do you use?** - Merge DICOM Toolkit
 
    * **Description of the relevant features of the platform**:
@@ -131,7 +131,4 @@ Six Statistical attributes for the whole Track Set (stored inside Track Set Stat
 =========================================================================
 
 * **Multiple tracksets**: Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
-   
-* [UPLOAD THE RESULTING DICOM TR FILES HERE](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). \(note: after upload, data will be publicly accessible from link in results section\)
-
 

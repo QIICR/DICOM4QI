@@ -38,5 +38,4 @@
     * [Brainlab](results/tractography-dicom-tr/brainlab.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
-* Brainlab
 
