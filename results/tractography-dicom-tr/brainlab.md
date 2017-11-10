@@ -86,6 +86,7 @@ Six Statistical attributes for the whole Track Set (stored inside Track Set Stat
 =========================================================================
 
 **No Track Set created based on Test dataset #2**
+
 Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
 The reason for that is that the software expects the direction vectors to be stored in the DICOM Header which is not the case for this data set.
 
