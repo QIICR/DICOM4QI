@@ -30,13 +30,10 @@
    
    **Test dataset #1**
 
-| Test dataset | Result of rendering - Direction-colored in 3D perspective|
+| Test dataset | Result of rendering - Direction-colored in 3D perspectiv (left)
+Result of rendering - Single-Colored on B0, FA and Colored FA and 3D perspective (right)|
 | -- | -- |
-| 3D Slicer | <img src="./brainlab/slicer-dataset1-directioncolored.png" width=250> |
-
-| Test dataset | Result of rendering - Single-Colored on B0, FA and Colored FA and 3D perspective|
-| -- | -- |
-| 3D Slicer | <img src="./brainlab/slicer-dataset1.png" width=250> |
+| 3D Slicer | <img src="./brainlab/slicer-dataset1-directioncolored.png" width=250> <img src="./brainlab/slicer-dataset1.png" width=250>|
 
 
 3. **Write tasks**
