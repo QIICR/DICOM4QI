@@ -1,6 +1,4 @@
-# Tractography results
-
-## Overview
+# 3D Slicer
 
 The purpose of this task is to demonstrate support of the [DICOM Tractography Results](ftp://medical.nema.org/medical/dicom/final/sup181_ft_TractographyResultsStorage.pdf) \(DICOM TR\) object.
 
