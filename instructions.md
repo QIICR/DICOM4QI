@@ -1,5 +1,7 @@
 # Instructions for participants
 
+## Overview
+
 The overall idea of the activity is to demonstrate interchange of the types of DICOM objects needed for quantitative imaging research.
 
 As such, we aim to test the capabilities of the individual platforms to consume and produce the types of DICOM objects in question.
@@ -27,3 +29,16 @@ Your submission **must** include the details about the platform you used to gene
 __If your platform and usage instructions are publicly available, you have the option to just send those to Andrey Fedorov, and he can do all the testing and populate the document content with the results.__
 
 The details for the individual object types follow in the subsequent sections.
+
+## How do I submit results for my platform?
+
+You can either follow the instructions for the specific type of object, and submit your responses/screenshots/datasets by email/Dropbox, or you can edit this document directly.
+
+If you want to edit the section for your platform yourself, follow the instructions below:
+
+1. Create an account on [GitBook](https://www.gitbook.com/) (you can reuse your GitHub login to authenticate)
+2. Send your login name to Andrey Fedorov, so that he can add you to the list of collaborators.
+3. Take a look at the video below to get started with the editing process.
+
+ {% youtube src="https://www.youtube.com/watch?v=-DkV2ainp10
+" %}{% endyoutube %} 
