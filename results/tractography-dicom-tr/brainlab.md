@@ -32,7 +32,7 @@
 
 | Test dataset | Result of rendering |
 | -- | -- |
-| 3D Slicer | <img src="./brainlab/slicer-dataset1-directioncolored.png" width=350> <img src="./brainlab/slicer-dataset1.png" width=250>|
+| 3D Slicer | <img src="./brainlab/slicer-dataset1-directioncolored.png" width=350> <img src="./brainlab/slicer-dataset1.png" width=350>|
 
 
 3. **Write tasks**
