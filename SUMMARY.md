@@ -34,7 +34,7 @@
     * [ePAD](results/sr/epad.md)
     * [3D Slicer](results/sr/slicer.md)
   * [Tractography \(DICOM TR\)](results/tr.md)
-    * [3D Slicer](results/tr/3d-slicer.md)
+    * [3D Slicer](results/tr/slicer.md)
     * [Brainlab](results/tr/brainlab.md)
     * [Prism](results/tr/prism.md)
 * [Acknowledgments](acks.md)
