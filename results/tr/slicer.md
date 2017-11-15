@@ -38,7 +38,7 @@ The write task involves generation of tractography streamlines from the provided
 <tr>
   <td><i>3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm</i></td>
   <td><i>TrackSet_DataSet1.dcm</i></td>
-  <td>MITK</td>
+  <td><i>MITK_dataset_1.dcm</i></td>
 </tr>
 
 <tr>
@@ -61,6 +61,7 @@ The write task involves generation of tractography streamlines from the provided
 <tr>
   <td><i>3DSlicer_dataset_2_SiemensTrio.dcm</i></td>
   <td><i>N/A</i></td>
+  <td><i>MITK_dataset_2.dcm</i></td>
 </tr>
 
 <tr>
