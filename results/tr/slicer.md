@@ -23,12 +23,86 @@ The write task involves generation of tractography streamlines from the provided
      * do you support any optional summary statistics associated with a track set? - **No**
      * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 <br><br>
-2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer.
+2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer..
+
+
+<table> 
+<tr>
+  <td>3D Slicer</td>
+  <td>BrainLab</td>
+  <td>MITK</td>
+</tr>
+
+
+<!-- dataset_1 -->
+<tr>
+  <td><i>3DSlicer_dataset_1_SiemensVerio_dwi6dirmosaicoff-v2.dcm</i></td>
+  <td><i>TrackSet_DataSet1.dcm</i></td>
+  <td>MITK</td>
+</tr>
+
+<tr>
+  <td>
+    <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset1_screenshot.png" width="200">
+   </td>
    
-   * 
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-1.png" width="200">
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/BrainLab_dataset1_screenshot-2.png" width="200">
+   </td>
+   
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/MITK_dataset1_screenshot-1.png" width="200">
+   </td>
+</tr>
+
+
+<!-- dataset_2 -->
+<tr>
+  <td><i>3DSlicer_dataset_2_SiemensTrio.dcm</i></td>
+  <td><i>N/A</i></td>
+</tr>
+
+<tr>
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset3_screenshot-1.png" width="200">
+   </td>
+   
+   <td><!-- BrainLab n/a --></td>
+   
+   <td>
+   <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/MITK_dataset3_screenshot-1.png" width="200">
+   </td>
+
+</tr>
+
+
+<!-- dataset_3 -->
+<tr>
+  <td><i>dataset_3_GeSignaHDx.dcm</i></td>
+  <td><i>TrackSet_DataSet3.dcm</i></td>
+  <td>MITK</td>
+</tr>
+
+<tr>
+  <td>
+  <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/3dslicer/3DSlicer_dataset3_screenshot-1.png" width="200"> 
+  </td>
+   
+  <td>
+  <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/slicer/BrainLab_dataset3_screenshot-1.png" width="200">
+  <img src="https://github.com/ihnorton/rsna2016-qirr-dicom4qi/raw/changes/20/results/tr/slicer/BrainLab_dataset3_screenshot-2.png" width="200">
+  </td>
+  <td>
+  N/A
+  </td>
+</tr>
+</table>
+
+   
 3. **Write tasks**
 
-   * Datasets are available in the "3DSlicer_TR" folder of the [results dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+   * Datasets are available in the "3DSlicer_TR" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
 
 
