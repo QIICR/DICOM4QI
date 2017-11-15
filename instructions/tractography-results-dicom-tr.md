@@ -1,4 +1,4 @@
-# Tractography
+# Tractography (DICOM TR)
 
 ### [Results section](https://qiicr.gitbooks.io/dicom4qi/content/results/tr.html)
 

@@ -10,7 +10,7 @@
   * [Measurements \(DICOM SR TID1500\)](instructions/sr-tid1500.md)
   * [Parametric maps](instructions/pm.md)
   * [Longitudinal annotation](instructions/longitudinal-annotation.md)
-  * [Tractography results \(DICOM TR\)](instructions/tractography-results-dicom-tr.md)
+  * [Tractography \(DICOM TR\)](instructions/tractography-results-dicom-tr.md)
 * [Results](results.md)
   * [Segmentations \(DICOM SEG\)](results/seg.md)
     * [3D Slicer](results/seg/slicer.md)
