@@ -71,7 +71,7 @@ The write task involves generation of tractography streamlines from the provided
    <td><!-- BrainLab n/a --></td>
    
    <td>
-   <img src="slicer/MITK_dataset3_screenshot-1.png" width="200">
+   <img src="slicer/MITK_dataset2_screenshot-1.png" width="200">
    </td>
 
 </tr>
@@ -81,7 +81,7 @@ The write task involves generation of tractography streamlines from the provided
 <tr>
   <td><i>dataset_3_GeSignaHDx.dcm</i></td>
   <td><i>TrackSet_DataSet3.dcm</i></td>
-  <td>MITK</td>
+  <td>N/A</td>
 </tr>
 
 <tr>
@@ -94,8 +94,9 @@ The write task involves generation of tractography streamlines from the provided
   <img src="slicer/BrainLab_dataset3_screenshot-2.png" width="200">
   </td>
   <td>
-  N/A
+  <!-- MITK n/a -->
   </td>
+  
 </tr>
 </table>
 
