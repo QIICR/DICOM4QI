@@ -37,6 +37,7 @@
     * [3D Slicer](results/tr/slicer.md)
     * [Brainlab](results/tr/brainlab.md)
     * [Prism](results/tr/prism.md)
+    * [MITK](results/tr/mitk.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
