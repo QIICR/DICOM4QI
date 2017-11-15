@@ -1,6 +1,6 @@
 # Tractography (DICOM TR)
 
-### [Results section](https://qiicr.gitbooks.io/dicom4qi/content/results/tr.html)
+### <a href="https://qiicr.gitbooks.io/dicom4qi/content/results/tr.html">Results section</a>
 
 ## Overview
 
