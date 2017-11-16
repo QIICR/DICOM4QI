@@ -1,13 +1,5 @@
 # 3D Slicer
 
-The purpose of this task is to demonstrate support of the [DICOM Tractography Results](ftp://medical.nema.org/medical/dicom/final/sup181_ft_TractographyResultsStorage.pdf) \(DICOM TR\) object.
-
-The basic read task involves loading the existing DICOM TR object, and demonstrating visualization of the tractography relative to the reference image.
-
-The write task involves generation of tractography streamlines from the provided Diffusion Weighted Image DICOM files and storing the result as a DICOM TR object. Note that this task does not seek to compare tractography algorithms, evaluate medical or neuroanatomic accuracy or usefulness of results, etc. _The only question of interest is interchange of DICOM TR objects between systems._
-
-## Tasks for participants
-
 1. **Description of the platform/product**:
 
    * **name and version of the software**: 3D Slicer, nightly release 2017-11-13, with [SlicerDMRI](http://dmri.slicer.org/download/) extension installed.
