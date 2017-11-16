@@ -1,6 +1,6 @@
 # Tractography (DICOM TR)
 
-### <a href="https://qiicr.gitbooks.io/dicom4qi/content/instructions/tractography-results-dicom-tr.html">Task description</a>
+### <a href="../instructions/tractography-results-dicom-tr.html">Task description</a>
 
 ## Summary
 
