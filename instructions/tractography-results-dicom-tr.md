@@ -1,6 +1,6 @@
 # Tractography (DICOM TR)
 
-### <a href="../results/tr.html">Results section</a>
+### [Results section](/results/tr.html)
 
 ## Overview
 

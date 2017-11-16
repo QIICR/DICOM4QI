@@ -1,6 +1,6 @@
 # Tractography (DICOM TR)
 
-### <a href="../instructions/tractography-results-dicom-tr.html">Task description</a>
+### [Task Description](/instructions/tractography-results-dicom-tr.md)
 
 ## Summary
 
