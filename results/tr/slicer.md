@@ -17,9 +17,9 @@
 
 <table> 
 <tr>
-  <td>3D Slicer</td>
-  <td>BrainLab</td>
-  <td>MITK</td>
+  <td width="33%">3D Slicer</td>
+  <td width="33%">BrainLab</td>
+  <td width="33%">MITK</td>
 </tr>
 
 
