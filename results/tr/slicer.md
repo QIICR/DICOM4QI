@@ -55,7 +55,7 @@
 
 <tr>
    <td>
-   <img src="slicer/3DSlicer_dataset3_screenshot-1.png" width="200">
+   <img src="slicer/3DSlicer_dataset2_screenshot-1.png" width="200">
    </td>
    
    <td><!-- BrainLab n/a --></td>
