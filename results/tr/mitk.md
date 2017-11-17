@@ -65,7 +65,7 @@
    
    <td>
      <img src="mitk/slicer_dataset_2_2D.png" width="200">
-     <img src="mitk/slicer_dataset_2_2D.png" width="200">
+     <img src="mitk/slicer_dataset_2_3D.png" width="200">
 
    </td>
 
