@@ -30,7 +30,9 @@
 
 <tr>
   <td>
-    (pending screenshot)
+    <img src="mitk/mitk_dataset_1_3D_View1_tube.png" width="200">
+    <img src="mitk/mitk_dataset_1_sagittal.png" width="200">
+    <img src="mitk/mitk_dataset_1_axial.png" width="200">
   </td>
    
    <td>
@@ -54,8 +56,9 @@
 
 <tr>
    <td>
-     <img src="mitk/mitk_dataset_1_3D_View1_tube.png" width="200">
-     <img src="mitk/mitk_dataset_1_sagittal.png" width="200">
+    <img src="mitk/mitk_dataset_2_3D_View1_tube.png" width="200">
+    <img src="mitk/mitk_dataset_2_sagittal.png" width="200">
+    <img src="mitk/mitk_dataset_2_axial.png" width="200">
    </td>
    
    <td><!-- BrainLab n/a --></td>
