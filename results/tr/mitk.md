@@ -54,7 +54,8 @@
 
 <tr>
    <td>
-     (pending screenshot)
+     <img src="mitk/mitk_dataset_1_3D_View1_tube.png" width="200">
+     <img src="mitk/mitk_dataset_1_sagittal.png" width="200">
    </td>
    
    <td><!-- BrainLab n/a --></td>
