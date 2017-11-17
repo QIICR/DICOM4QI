@@ -11,7 +11,7 @@
     - the DICOM tags relevant to associate the tractogram to the original image have to be copied manually from the imported DICOM image. Manually here means that to select the image and the new tractogram and to click a button in the application GUI (see screenshot "TagGui.png").
    -  Dataset 3 was not read correctly --> no tractogram for dataset 3
   
-### 2. Read task
+### 2. Read task: TR objects from each platform, loaded and displayed in MITK.
 
 <table> 
 <tr>
