@@ -91,7 +91,7 @@
   </td>
   
   <td>
-    <img src="Slicer_TrackSet3_LoadedByBrainlab.JPG" width="200"> 
+    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" width="200"> 
   </td>
   
   <td>
