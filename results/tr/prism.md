@@ -29,9 +29,7 @@
 
   * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
 
-## Generated Tractography Result datasets
 
-Download the DICOM TR datasets produced by the platforms that already submitted results \(data is organized in subfolders corresponding to the individual platforms\):
 
-[LINK TO RESULTS DOWNLOAD FOLDER](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
+
 
