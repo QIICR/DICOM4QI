@@ -44,8 +44,8 @@
 <tr>
   <td>1</td>
   <td>
-    <img src="brainlab/brainlab-dataset1-1.JPG" width="200">
-    <img src="brainlab/brainlab-dataset1-2.JPG" width="200">  
+    <img src="brainlab/brainlab-dataset1-1.JPG" style="display:block;">
+    <img src="brainlab/brainlab-dataset1-2.JPG" style="display:block;">  
   </td>
    
   <td>
@@ -72,7 +72,7 @@
    </td>
    
    <td>
-   <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" width="200">
+     <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" style="display:block;">
    </td>
    
    <td>
@@ -90,12 +90,12 @@
 <tr>
   <td>3</td>
   <td>
-    <img src="brainlab/brainlab-dataset3-1.JPG" width="200">
-    <img src="brainlab/brainlab-dataset3-2.JPG" width="200">
+    <img src="brainlab/brainlab-dataset3-1.JPG" style="display:block;">
+    <img src="brainlab/brainlab-dataset3-2.JPG" style="display:block;">
   </td>
   
   <td>
-    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" width="200"> 
+    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" style="display:block;"> 
   </td>
   
   <td>
