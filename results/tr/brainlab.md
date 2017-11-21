@@ -27,6 +27,7 @@
 
 <table> 
 <tr>
+  <td>Dataset</td>
   <td width="33%">BrainLab</td>
   <td width="33%">3D Slicer</td>
   <td width="33%">MITK</td>
@@ -41,6 +42,7 @@
 </tr>
 
 <tr>
+  <td>1</td>
   <td>
     <img src="brainlab/brainlab-dataset1-1.JPG" width="200">
     <img src="brainlab/brainlab-dataset1-2.JPG" width="200">  
@@ -64,6 +66,7 @@
 </tr>
 
 <tr>
+   <td>2</td>
    <td>
    N/A
    </td>
@@ -85,6 +88,7 @@
 </tr>
 
 <tr>
+  <td>3</td>
   <td>
     <img src="brainlab/brainlab-dataset3-1.JPG" width="200">
     <img src="brainlab/brainlab-dataset3-2.JPG" width="200">
