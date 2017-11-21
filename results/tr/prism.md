@@ -17,17 +17,19 @@
     * do you support any optional summary statistics associated with a track set? -No
     * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) -No
 
-* **Read task** \(for each dataset!\)
+* **Read task** 
 
-  * | BrainLab | 3D Slicer | MITK | Prism |
-    | :--- | :--- | :--- | :--- |
-    | ![](/assets/DataSet1_BrainLab.jpg) | ![](/assets/DataSet1_3DSlicer.jpg) | ![](/assets/DataSet1_MITK.jpg) | ![](/assets/DataSet1_PrismScreenCapture.jpg) |
-    | N/A | ![](/assets/DataSet2_3DSlicer.jpg) | ![](/assets/DataSet2_MITK.jpg) | ![](/assets/DataSet2_PrismScreenCapture.jpg) |
-    | ![](/assets/DataSet3_BrainLab.jpg) | ![](/assets/DataSet3_3DSlicer.jpg) | N/A | ![](/assets/DataSet3_PrismScreemCapture.jpg) |
+| Data Set | BrainLab | 3DSlicer | MITK | Prism |
+| :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
-* **Write tasks**
+* **Write task**
 
   * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
+
+
 
 
 
