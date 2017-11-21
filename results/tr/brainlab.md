@@ -47,7 +47,7 @@
   <td>
     <img src="brainlab/brainlab-dataset1-1.JPG" style="display:block;">
     <img src="brainlab/brainlab-dataset1-2.JPG" style="display:block;">
-    <img src="brainlab/rainlab-TrackSet_DataSet1.JPG" style="display:block;">  
+    <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
   </td>
    
   <td>
