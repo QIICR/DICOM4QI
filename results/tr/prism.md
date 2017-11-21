@@ -26,8 +26,7 @@
 | 3 | ![](/assets/DataSet3_BrainLab.jpg) | ![](/assets/DataSet3_3DSlicer.jpg) | N/A | ![](/assets/DataSet3_PrismScreemCapture.jpg) |
 
 * **Write task**
-
-  * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
+  * Data sets can be found int the "Prism" folder of the \(Hyperlink to DropBox Here\).
 
 
 
