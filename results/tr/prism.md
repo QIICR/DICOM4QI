@@ -26,7 +26,7 @@
 | 3 | ![](prism/DataSet3_BrainLab.jpg) | ![](prism/DataSet3_3DSlicer.jpg) | N/A | ![](prism/DataSet3_PrismScreemCapture.jpg) |
 
 * **Write task**
-  * Data sets can be found int the "Prism" folder of the \(Hyperlink to DropBox Here\).
+  * Data sets can be found in the "Prism" folder of the [Results Dropbox Folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
 
 
