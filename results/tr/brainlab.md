@@ -36,6 +36,7 @@
 
 <!-- dataset_1 -->
 <tr>
+  <td></td>
   <td><i>TrackSet_DataSet1.dcm</i></td>
   <td><i>3DSlicer_dataset_1[..]-v2.dcm</i></td>
   <td><i>N/A</i></td>
@@ -60,6 +61,7 @@
 
 <!-- dataset_2 -->
 <tr>
+  <td></td>
   <td><i>N/A</i></td>
   <td><i>3DSlicer_dataset_2[..].dcm</i></td>
   <td><i>N/A</i></td>
@@ -82,6 +84,7 @@
 
 <!-- dataset_3 -->
 <tr>
+  <td></td>
   <td><i>TrackSet_DataSet3.dcm</i></td>
   <td><i>3DSlicer_dataset_3[..].dcm</i></td>
   <td>N/A</td>
