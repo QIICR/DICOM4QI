@@ -28,9 +28,9 @@
 <table> 
 <tr>
   <td>Dataset</td>
-  <td width="33%">BrainLab</td>
-  <td width="33%">3D Slicer</td>
-  <td width="33%">MITK</td>
+  <td>BrainLab</td>
+  <td>3D Slicer</td>
+  <td>MITK</td>
 </tr>
 
 
@@ -39,14 +39,15 @@
   <td></td>
   <td><i>TrackSet_DataSet1.dcm</i></td>
   <td><i>3DSlicer_dataset_1[..]-v2.dcm</i></td>
-  <td><i>N/A</i></td>
+  <td><i>MITK_dataset_1.dcm</i></td>
 </tr>
 
 <tr>
   <td>1</td>
   <td>
     <img src="brainlab/brainlab-dataset1-1.JPG" style="display:block;">
-    <img src="brainlab/brainlab-dataset1-2.JPG" style="display:block;">  
+    <img src="brainlab/brainlab-dataset1-2.JPG" style="display:block;">
+    <img src="brainlab/rainlab-TrackSet_DataSet1.JPG" style="display:block;">  
   </td>
    
   <td>
@@ -54,7 +55,7 @@
   </td>
    
   <td>
-  N/A
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
   </td>
 </tr>
 
@@ -64,7 +65,7 @@
   <td></td>
   <td><i>N/A</i></td>
   <td><i>3DSlicer_dataset_2[..].dcm</i></td>
-  <td><i>N/A</i></td>
+  <td><i>MITK_dataset_2.dcm</i></td>
 </tr>
 
 <tr>
@@ -78,7 +79,7 @@
    </td>
    
    <td>
-   N/A
+     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" style="display:block;">
    </td>
 </tr>
 
@@ -95,6 +96,8 @@
   <td>
     <img src="brainlab/brainlab-dataset3-1.JPG" style="display:block;">
     <img src="brainlab/brainlab-dataset3-2.JPG" style="display:block;">
+    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG
+" style="display:block;">
   </td>
   
   <td>
