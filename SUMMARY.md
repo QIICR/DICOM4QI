@@ -38,6 +38,8 @@
     * [Brainlab](results/tr/brainlab.md)
     * [Prism](results/tr/prism.md)
     * [MITK](results/tr/mitk.md)
+  * [Longitudinal annotation](results/longitudinal-annotation.md)
+    * [ePAD](results/longitudinal-annotation/epad.md)
 * [Acknowledgments](acks.md)
 * [References](refs.md)
 
