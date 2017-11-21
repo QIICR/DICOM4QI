@@ -96,8 +96,7 @@
   <td>
     <img src="brainlab/brainlab-dataset3-1.JPG" style="display:block;">
     <img src="brainlab/brainlab-dataset3-2.JPG" style="display:block;">
-    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG
-" style="display:block;">
+    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
   </td>
   
   <td>
