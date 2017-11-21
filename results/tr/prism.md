@@ -21,12 +21,12 @@
 
 | Data Set | BrainLab | 3DSlicer | MITK | Prism |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | ![](/assets/DataSet1_BrainLab.jpg) | ![](/assets/DataSet1_3DSlicer.jpg) | ![](/assets/DataSet1_MITK.jpg) | ![](/assets/DataSet1_PrismScreenCapture.jpg) |
-| 2 | N/A | ![](/assets/DataSet2_3DSlicer.jpg) | ![](/assets/DataSet2_MITK.jpg) | ![](/assets/DataSet2_PrismScreenCapture.jpg) |
-| 3 | ![](/assets/DataSet3_BrainLab.jpg) | ![](/assets/DataSet3_3DSlicer.jpg) | N/A | ![](/assets/DataSet3_PrismScreemCapture.jpg) |
+| 1 | ![](prism/DataSet1_BrainLab.jpg) | ![](prism/DataSet1_3DSlicer.jpg) | ![](prism/DataSet1_MITK.jpg) | ![](prism/DataSet1_PrismScreenCapture.jpg) |
+| 2 | N/A | ![](prism/DataSet2_3DSlicer.jpg) | ![](prism/DataSet2_MITK.jpg) | ![](prism/DataSet2_PrismScreenCapture.jpg) |
+| 3 | ![](prism/DataSet3_BrainLab.jpg) | ![](prism/DataSet3_3DSlicer.jpg) | N/A | ![](prism/DataSet3_PrismScreemCapture.jpg) |
 
 * **Write task**
-  * Data sets can be found int the "Prism" folder of the \(Hyperlink to DropBox Here\).
+  * Data sets can be found in the "Prism" folder of the [Results Dropbox Folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
 
 
