@@ -21,15 +21,13 @@
 
   * | BrainLab | 3D Slicer | MITK | Prism |
     | :--- | :--- | :--- | :--- |
-    | ![](/assets/DataSet1_BrainLab.jpg) | ![](/assets/DataSet1_3DSlicer.jpg) | ![](/assets/DataSet1_MITK.jpg) |  |
-    | N/A | ![](/assets/DataSet2_3DSlicer.jpg) | ![](/assets/DataSet2_MITK.jpg) |  |
-    | ![](/assets/DataSet3_BrainLab.jpg) | ![](/assets/DataSet3_3DSlicer.jpg) | N/A |  |
+    | ![](/assets/DataSet1_BrainLab.jpg) | ![](/assets/DataSet1_3DSlicer.jpg) | ![](/assets/DataSet1_MITK.jpg) | ![](/assets/DataSet1_PrismScreenCapture.jpg) |
+    | N/A | ![](/assets/DataSet2_3DSlicer.jpg) | ![](/assets/DataSet2_MITK.jpg) | ![](/assets/DataSet2_PrismScreenCapture.jpg) |
+    | ![](/assets/DataSet3_BrainLab.jpg) | ![](/assets/DataSet3_3DSlicer.jpg) | N/A | ![](/assets/DataSet3_PrismScreemCapture.jpg) |
 
 * **Write tasks**
 
   * **Single trackset**: select a tractography streamline bundle using any method available in your platform.
-
-
 
 
 
