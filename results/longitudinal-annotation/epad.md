@@ -11,8 +11,8 @@
 2. **Description of the relevant features of the platform**:
 
    * **hanging protocol**: user can select multiple studies in the search view and open them together using the eye icon. ePAD doesn't support any other hanging protocol specifications yet.
-   * **plotting**: do you have an option to plot changes in measurements?
-   * **handling multiple timepoints/measurements/findings**: ePad shows a table of the time points using a filter for the measurements. The table has a summary section which calculates the response rate and category using the values that are seen on the table. User can view a specific annotation by clicking on the measurement value in that timepoint, or click on the name of the lesion to open annotations of that lesion on all timepoints.
+   * **plotting**: ePAD doesn't currently support plotting the changes in the measurements.
+   * **handling multiple timepoints/measurements/findings**: ePAD shows a table of the time points using a filter for the measurements. The table has a summary section which calculates the response rate and category using the values that are seen on the table. User can view a specific annotation by clicking on the measurement value in that timepoint, or click on the name of the lesion to open annotations of that lesion on all timepoints.
 
    ![](/results/longitudinal-annotation/epad/longitudinal_sample.png)
 
