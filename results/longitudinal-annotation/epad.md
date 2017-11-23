@@ -22,7 +22,13 @@
 
 3. **Read task**\(for each dataset!\)
 
-   * 
+   * The test dataset has two studies that have the same date and don't have the study time at all. Because of this issue, ePAD treats them as duplicate studies and shows only one time point and uses measurements from only one of the annotations. Below is the screenshot of the populated longitudinal annotation report. The measurement types extracted from the DicomSR can be seen in the figure. Measurement exporting functionality works without problems and exports a spreadsheet of the measurements as illustrated below.
+
+   ![](/results/longitudinal-annotation/epad/test1.png)  
+
+   ![](/results/longitudinal-annotation/epad/test1Excel.png)
+
+   * Unfortunately, there seems to be no publicly available dataset for testing the longitudinal annotations yet. The read task will be repeated when there is a proper publicly available dataset with multiple time points.
 
 
 
