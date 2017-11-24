@@ -92,6 +92,63 @@
 ### 3. **Write tasks**
 
    * Datasets are available in the "3DSlicer_TR" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+   
+#### Results of validation using `dciodvfy`
 
+* dataset_1
+```
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study Date
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study Time
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Series Number
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <619432> - Retired Person Name form
+Warning - Value dubious for this VR - (0x0070,0x0084) PN Content Creator's Name  PN [0] = <TractIO> - Retired Person Name form
+TractographyResults
+Error - Missing attribute Type 2 Required Element=<SeriesNumber> Module=<GeneralSeries>
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Error - Missing attribute Type 1 Required Element=<SeriesNumber> Module=<TractographyResultsSeries>
+Error - Missing attribute Type 1 Required Element=<AlgorithmFamilyCodeSequence> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmName> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmVersion> Module=<AlgorithmIdentificationMacro>
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0100) SH Code Value
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0102) SH Coding Scheme Designator
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0104) LO Code Meaning
+Warning - Dicom dataset contains attributes not present in standard DICOM IOD - this is a Standard Extended SOP Class
+```
+* dataset_2
+```
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Series Number
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <WM-707> - Retired Person Name form
+Warning - Value dubious for this VR - (0x0070,0x0084) PN Content Creator's Name  PN [0] = <TractIO> - Retired Person Name form
+TractographyResults
+Error - Missing attribute Type 2 Required Element=<SeriesNumber> Module=<GeneralSeries>
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Error - Missing attribute Type 1 Required Element=<SeriesNumber> Module=<TractographyResultsSeries>
+Error - Missing attribute Type 1 Required Element=<AlgorithmFamilyCodeSequence> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmName> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmVersion> Module=<AlgorithmIdentificationMacro>
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0100) SH Code Value
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0102) SH Coding Scheme Designator
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0104) LO Code Meaning
+Warning - Dicom dataset contains attributes not present in standard DICOM IOD - this is a Standard Extended SOP Class
+```
+* dataset_3
+```
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Patient ID
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Series Number
+Warning - Value dubious for this VR - (0x0070,0x0084) PN Content Creator's Name  PN [0] = <TractIO> - Retired Person Name form
+TractographyResults
+Error - Missing attribute Type 2 Required Element=<SeriesNumber> Module=<GeneralSeries>
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Error - Missing attribute Type 1 Required Element=<SeriesNumber> Module=<TractographyResultsSeries>
+Error - Missing attribute Type 1 Required Element=<AlgorithmFamilyCodeSequence> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmName> Module=<AlgorithmIdentificationMacro>
+Error - Missing attribute Type 1 Required Element=<AlgorithmVersion> Module=<AlgorithmIdentificationMacro>
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0100) SH Code Value
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0102) SH Coding Scheme Designator
+Warning - Attribute is not present in standard DICOM IOD - (0x0008,0x0104) LO Code Meaning
+Warning - Dicom dataset contains attributes not present in standard DICOM IOD - this is a Standard Extended SOP Class
+```
 
 

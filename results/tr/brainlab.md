@@ -156,7 +156,7 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
 
 
 - **No Track Set created based on Test Dataset #2:**
-Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
+Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2. The reason for that is that the software expects the direction vectors to be stored in the DICOM Header which is not the case for this data set.
 
 - **Track Set created based on Test Dataset #3:** 
   - 1 Track Set
@@ -178,3 +178,32 @@ Brainlab FiberTracking Software does not support Track Set creation for Test Dat
       - Six Statistical attributes for the whole Track Set (stored inside Track Set Statistics Sequence (0066,0124))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
         - Minimum, Maximum and Mean Track lengths (no units, but is millimeter)
+        
+#### Results of validation using `dciodvfy`
+
+* dataset_1
+```
+(0x0009,0x1030)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+(0x0009,0x1021)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+(0x0009,0x1021)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+(0x0009,0x1024)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+(0x0067,0x1004)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study Date
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study Time
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <619432> - Retired Person Name form
+TractographyResults
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Error - Bad Sequence number of Items 38 (1 Required by Module definition) Element=<ReferencedInstanceSequence> Module=<TractographyResults>
+Error - Bad attribute Value Multiplicity Type 1C Conditional Element=<ReferencedInstanceSequence> Module=<TractographyResults>
+```
+* dataset_3
+```
+(0x0067,0x1004)  ?  - Warning - Unrecognized tag - assuming explicit value representation OK
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <anonymous_patient> - Retired Person Name form
+TractographyResults
+Error - Missing attribute Type 2C Conditional Element=<Laterality> Module=<GeneralSeries>
+Error - Bad Sequence number of Items 44 (1 Required by Module definition) Element=<ReferencedInstanceSequence> Module=<TractographyResults>
+Error - Bad attribute Value Multiplicity Type 1C Conditional Element=<ReferencedInstanceSequence> Module=<TractographyResults>
+```
