@@ -10,18 +10,18 @@
 
    * **Description of the relevant features of the platform**:
 
-     * Only _Single Track Set_ DICOM instances are created by the software.
-     * **Measurements** stored per Track:  
+     * **Only Single Track Set** DICOM instances are created by the software.
+     * **Measurements stored per Track:**  
        _Fractional Anisotropy_ measurement values are stored for each track point for each track.  
-       **Statistics** stored per Track:  
+       **Statistics stored per Track:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for each track.  
        The _length_ of each Track is stored as additional statistical information
 
-     * **Statistics** stored per Track Set:  
+     * **Statistics stored per Track Set:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for the whole Track Set.  
        The _Minimum, Maximum and Mean Track length_ is stored as additional statistical information for the whole Track Set.
 
-     * _Diffusion Model, Method of Acquisition, Algorithm identification and Anatomical information_ is contained in each DICOM TR instance created by the software.
+     * **Diffusion Model, Method of Acquisition, Algorithm identification and Anatomical information** is contained in each DICOM TR instance created by the software.
 
 ## 2. Read task -- result of rendering for each dataset
 
@@ -51,11 +51,11 @@
   </td>
    
   <td>
-  <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" width="200">
+    <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" width="200">
   </td>
    
   <td>
-    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="200">
   </td>
   
   <td>
@@ -105,7 +105,6 @@
 <tr>
   <td>3</td>
   <td>
-    <img src="brainlab/brainlab-dataset3-2.JPG" style="display:block;">
     <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
   </td>
   
