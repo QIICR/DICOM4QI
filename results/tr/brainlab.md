@@ -133,8 +133,6 @@
 - **Multiple Track Sets**: 
 Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
 
-
-
 - **Track Set created based on Test Dataset #1:** 
   - 1 Track Set
   - 503 Tracks
@@ -180,4 +178,3 @@ Brainlab FiberTracking Software does not support Track Set creation for Test Dat
       - Six Statistical attributes for the whole Track Set (stored inside Track Set Statistics Sequence (0066,0124))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
         - Minimum, Maximum and Mean Track lengths (no units, but is millimeter)
-
