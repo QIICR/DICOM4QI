@@ -31,6 +31,7 @@
   <td>BrainLab</td>
   <td>3D Slicer</td>
   <td>MITK</td>
+  <td>Prism</td>
 </tr>
 
 
@@ -40,13 +41,12 @@
   <td><i>TrackSet_DataSet1.dcm</i></td>
   <td><i>3DSlicer_dataset_1[..]-v2.dcm</i></td>
   <td><i>MITK_dataset_1.dcm</i></td>
+  <td><i>TrackDataSet3_Prism.dcm</i></td>
 </tr>
 
 <tr>
   <td>1</td>
   <td>
-    <img src="brainlab/brainlab-dataset1-1.JPG" style="display:block;">
-    <img src="brainlab/brainlab-dataset1-2.JPG" style="display:block;">
     <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
   </td>
    
@@ -57,6 +57,11 @@
   <td>
     <img src="brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
   </td>
+  
+  <td>
+    <img src="brainlab/Prism_TrackSet_DataSet1.JPG" style="display:block;">
+</td>
+  
 </tr>
 
 
@@ -66,6 +71,7 @@
   <td><i>N/A</i></td>
   <td><i>3DSlicer_dataset_2[..].dcm</i></td>
   <td><i>MITK_dataset_2.dcm</i></td>
+  <td><i>TrackDataSet2_Prism.dcm</i></td>
 </tr>
 
 <tr>
@@ -81,6 +87,10 @@
    <td>
      <img src="brainlab/MITK_TrackSet_DataSet2.JPG" style="display:block;">
    </td>
+   
+   <td>
+    <img src="brainlab/Prism_TrackSet_DataSet2.JPG"style="display:block;">
+   </td>
 </tr>
 
 <!-- dataset_3 -->
@@ -89,12 +99,12 @@
   <td><i>TrackSet_DataSet3.dcm</i></td>
   <td><i>3DSlicer_dataset_3[..].dcm</i></td>
   <td>N/A</td>
+  <td><i>TrackDataSet3_Prism.dcm</i></td>
 </tr>
 
 <tr>
   <td>3</td>
   <td>
-    <img src="brainlab/brainlab-dataset3-1.JPG" style="display:block;">
     <img src="brainlab/brainlab-dataset3-2.JPG" style="display:block;">
     <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
   </td>
@@ -106,6 +116,10 @@
   <td>
     N/A
   </td>
+  
+  <td>
+    <img src="brainlab/Prism_TrackSet_DataSet3.JPG" style="display:block;"> 
+</td>
   
 </tr>
 </table>
