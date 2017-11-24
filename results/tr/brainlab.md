@@ -135,7 +135,7 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
 
 
 
-- **Track Set created based on Test Dataset #1** 
+- **Track Set created based on Test Dataset #1:** 
   - 1 Track Set
   - 503 Tracks
   - Single Colored (turquoise, but shown direction-colored in screenshot)
@@ -157,12 +157,10 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
         - Minimum, Maximum and Mean Track lengths (no units, but is millimeter)
 
 
-- **No Track Set created based on Test Dataset #2**
-  
-  Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
+- **No Track Set created based on Test Dataset #2:**
+Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
 
-
-- **Track Set created based on Test Dataset #3** 
+- **Track Set created based on Test Dataset #3:** 
   - 1 Track Set
   - 8 Tracks
   - Single Colored (magenta, but shown direction-colored in screenshot)
