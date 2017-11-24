@@ -51,7 +51,7 @@
   </td>
    
   <td>
-  <img src="brainlab/slicer-dataset1.png" width="200">
+  <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" width="200">
   </td>
    
   <td>
