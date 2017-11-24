@@ -129,11 +129,9 @@
 - [Link to download TR objects](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AABlqE8dHd6PUWd5upKZ-Dtua/BrainLab?dl=0)
 
   #### Notes:
-
-- **No Track Set created based on Test Dataset #2**
-  Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
   
-- **Multiple Track Sets**: Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
+- **Multiple Track Sets**: 
+Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
 
 
 
@@ -141,51 +139,45 @@
   - 1 Track Set
   - 503 Tracks
   - Single Colored (turquoise, but shown direction-colored in screenshot)
-  
-  - Detailed Track Set Description can be found in
+  - Detailed Track Set Description can be found in    
     - TrackSet Label       (0066,0106)
     - TrackSet Description (0066,0107)
     - (and NOT in Series Description (0008,103e))
-
   - Additional Measurements
-    - Per Track Point
+   - Per Track Point
       - Fractional Anisotropy Value for each Track Point for each Track  (stored inside Measurements Sequence (0066,0121)) 
-
   - Additional Statistics
-
     - Statistics per Track
       - Four Statistical attributes for each Track (stored inside Track Statistic Sequence (0066,0130))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
-        - Path length (no units, but is millimeter)
-
-    - Statistics per Track Set -------
+        - Path length (i.e. length of a Track, no units, but is millimeter)     
+    - Statistics per Track Set
       - Six Statistical attributes for the whole Track Set (stored inside Track Set Statistics Sequence (0066,0124))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
         - Minimum, Maximum and Mean Track lengths (no units, but is millimeter)
 
 
-- **Track Set created based on Test dataset #3** 
+- **No Track Set created based on Test Dataset #2**
+  
+  Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
+
+
+- **Track Set created based on Test Dataset #3** 
   - 1 Track Set
   - 8 Tracks
   - Single Colored (magenta, but shown direction-colored in screenshot)
-  
   - Detailed Track Set Description can be found in
     - TrackSet Label       (0066,0106)
     - TrackSet Description (0066,0107)
     - (and NOT in Series Description (0008,103e))
-
-
   - Additional Measurements
     - Per Track Point
-      - Fractional Anisotropy Value for each Track Point for each Track  (stored inside Measurements Sequence (0066,0121)) 
-
+      - Fractional Anisotropy Value for each Track Point for each Track  (stored inside Measurements Sequence (0066,0121))    
   - Additional Statistics
     - Statistics per Track
       - Four Statistical attributes for each Track (stored inside Track Statistic Sequence (0066,0130))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
-        - Path length (no units, but is millimeter)
-        
-        
+        - Path length (i.e. length of a Track, no units, but is millimeter)  
     - Statistics per Track Set
       - Six Statistical attributes for the whole Track Set (stored inside Track Set Statistics Sequence (0066,0124))
         - Minimum, Maximum and Mean Fractional Anisotropy values  
