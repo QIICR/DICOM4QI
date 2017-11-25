@@ -28,18 +28,18 @@
 
 <table> 
 <tr>
-  <td>Dataset</td>
-  <td>Brainlab</td>
-  <td>3D Slicer</td>
-  <td>MITK</td>
-  <td>Prism</td>
+  <td><b>Dataset</b></td>
+  <td><b>Brainlab</b></td>
+  <td><b>3D Slicer</b></td>
+  <td><b>MITK</b></td>
+  <td><b>Prism</b></td>
 </tr>
 
 
 <!-- dataset_1 -->
 
 <tr>
-  <td>1</td>
+  <td><b>1</b></td>
   <td>
     <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
   </td>
@@ -62,7 +62,7 @@
 <!-- dataset_2 -->
 
 <tr>
-   <td>2</td>
+   <td><b>2</b></td>
    <td>
    N/A
    </td>
@@ -83,7 +83,7 @@
 <!-- dataset_3 -->
 
 <tr>
-  <td>3</td>
+  <td><b>3</b></td>
   <td>
     <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
   </td>
