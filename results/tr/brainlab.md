@@ -12,12 +12,13 @@
 
      * **Only Single Track Set** DICOM instances are created by the software.
      * **Measurements stored per Track:**  
-       _Fractional Anisotropy_ measurement values are stored for each track point for each track.  
+       _Fractional Anisotropy_ measurement values are stored for each track point for each track.
+         
        **Statistics stored per Track:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for each track.  
        The _length_ of each Track is stored as additional statistical information
 
-     * **Statistics stored per Track Set:**  
+       **Statistics stored per Track Set:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for the whole Track Set.  
        The _Minimum, Maximum and Mean Track length_ is stored as additional statistical information for the whole Track Set.
 
@@ -51,11 +52,11 @@
   </td>
    
   <td>
-    <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" width="200">
+    <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" style="display:block;">
   </td>
    
   <td>
-    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="200">
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
   </td>
   
   <td>
@@ -139,8 +140,7 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
   - Single Colored (turquoise, but shown direction-colored in screenshot)
   - Detailed Track Set Description can be found in    
     - TrackSet Label       (0066,0106)
-    - TrackSet Description (0066,0107)
-    - (and NOT in Series Description (0008,103e))
+    - TrackSet Description (0066,0107) (and NOT in Series Description (0008,103e))
   - Additional Measurements
    - Per Track Point
       - Fractional Anisotropy Value for each Track Point for each Track  (stored inside Measurements Sequence (0066,0121)) 
@@ -156,7 +156,7 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
 
 
 - **No Track Set created based on Test Dataset #2:**
-Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2. The reason for that is that the software expects the direction vectors to be stored in the DICOM Header which is not the case for this data set.
+Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
 
 - **Track Set created based on Test Dataset #3:** 
   - 1 Track Set
@@ -164,8 +164,7 @@ Brainlab FiberTracking Software does not support Track Set creation for Test Dat
   - Single Colored (magenta, but shown direction-colored in screenshot)
   - Detailed Track Set Description can be found in
     - TrackSet Label       (0066,0106)
-    - TrackSet Description (0066,0107)
-    - (and NOT in Series Description (0008,103e))
+    - TrackSet Description (0066,0107) (and NOT in Series Description (0008,103e))
   - Additional Measurements
     - Per Track Point
       - Fractional Anisotropy Value for each Track Point for each Track  (stored inside Measurements Sequence (0066,0121))    
