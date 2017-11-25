@@ -14,11 +14,11 @@
      * **Measurements stored per Track:**  
        _Fractional Anisotropy_ measurement values are stored for each track point for each track.
          
-       **Statistics stored per Track:**  
+     *  **Statistics stored per Track:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for each track.  
        The _length_ of each Track is stored as additional statistical information
 
-       **Statistics stored per Track Set:**  
+     *  **Statistics stored per Track Set:**  
        The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for the whole Track Set.  
        The _Minimum, Maximum and Mean Track length_ is stored as additional statistical information for the whole Track Set.
 
@@ -131,8 +131,9 @@
 
   #### Notes:
   
-- **Multiple Track Sets**: 
-Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
+- **Multiple Track Sets**:
+ 
+  Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets inside one DICOM TR instance.
 
 - **Track Set created based on Test Dataset #1:** 
   - 1 Track Set
@@ -156,7 +157,8 @@ Brainlab FiberTracking 1.1.0 does not support storage of multiple TrackSets insi
 
 
 - **No Track Set created based on Test Dataset #2:**
-Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
+
+   Brainlab FiberTracking Software does not support Track Set creation for Test DataSet 2.
 
 - **Track Set created based on Test Dataset #3:** 
   - 1 Track Set
