@@ -26,7 +26,12 @@ The core functionality of reading and writing segmentations is available but has
 
 See [live demo pulling qiicr data from TCIA](https://pieper.github.io/dcmjs/examples/qiicr/).
 
+
+See [live demo allowing drag and drop of reference images and segmentations](https://pieper.github.io/dcmjs/examples/display2/).
+
 ![Segmentation display screenshot](/results/seg/dcmjs/dcmjs-qiicr-tcia-seg.png)
+
+Testing of the read tasks is underway.  Several incompatibilities need to be investigated.
 
 **Test dataset \#1**  
 TBD  
@@ -37,6 +42,14 @@ TBD
 TBD  
 **Test dataset \#4**  
 TBD
+
+** Longitudinal Annotation dataset **
+
+![](/assets/dcmjs-rider-2017.png)
+
+** Freesurfer / Corticometrix dataset **
+
+![](/assets/dcmjs-freesurfer.png)
 
 4.**Write task**
 
