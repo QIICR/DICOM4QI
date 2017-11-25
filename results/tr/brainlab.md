@@ -28,25 +28,18 @@
 
 <table> 
 <tr>
-  <td>Dataset</td>
-  <td>BrainLab</td>
-  <td>3D Slicer</td>
-  <td>MITK</td>
-  <td>Prism</td>
+  <td>**Dataset**</td>
+  <td>**BrainLab**</td>
+  <td>**3D Slicer**</td>
+  <td>**MITK**</td>
+  <td>**Prism**</td>
 </tr>
 
 
 <!-- dataset_1 -->
-<tr>
-  <td></td>
-  <td><i>TrackSet_DataSet1.dcm</i></td>
-  <td><i>3DSlicer_dataset_1[..]-v2.dcm</i></td>
-  <td><i>MITK_dataset_1.dcm</i></td>
-  <td><i>TrackDataSet1_Prism.dcm</i></td>
-</tr>
 
 <tr>
-  <td>1</td>
+  <td>**1**</td>
   <td>
     <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
   </td>
@@ -76,7 +69,7 @@
 </tr>
 
 <tr>
-   <td>2</td>
+   <td>**2**</td>
    <td>
    N/A
    </td>
@@ -104,7 +97,7 @@
 </tr>
 
 <tr>
-  <td>3</td>
+  <td>**3**</td>
   <td>
     <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
   </td>
