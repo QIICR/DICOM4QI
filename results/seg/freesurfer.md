@@ -21,7 +21,7 @@
 
 3. Write task:
 
-The file fs6-dcmqi-ex-rsna2017.tar.gz contains the following:
+The file [fs6-dcmqi-ex-rsna2017.tar.gz](http://slicer.kitware.com/midas3/item/324959) contains the following:
 
 * `./dicom-anon`: Direcotry containting input dicoms for a FreeSurfer-compatible T1 weighted MPRAGE sequence.
 * `aseg-t1space.nii.gz`: FreeSurfer 6.0 subcortical segmentations \(this is `aseg.mgz` output from FreeSurfer transformed back to the original input DICOM coordinate system and converted to nifti\)
