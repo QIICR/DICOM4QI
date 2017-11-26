@@ -17,7 +17,7 @@
 | [Pixelmed DicomImageViewer](/results/seg/pixelmed.md) | <img src="../images/done.png" width=25> | <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> |
 | [Siemens syngo.via](/results/seg/syngovia.md) ** * **| <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> | <img src="../images/done.png" width=25> |
 | OsiriX Lite ** * **| <img src="../images/done.png" width=25> | <img src="../images/failed.png" width=25> | <img src="../images/failed.png" width=25> |
-| [Corticometrics/FreeSurfer](/results/seg/corticometrics.md) | <img src="../images/done.png" width=25> | N/A | <img src="../images/done.png" width=25> (see notes)|
+| [FreeSurfer](/results/seg/freesurfer.md) | <img src="../images/done.png" width=25> | N/A | <img src="../images/done.png" width=25> (see notes)|
 
 ** * DISCLAIMER: Platforms marked with the asterisk were tested without involvement of the platform developers or supporting team.**
 
