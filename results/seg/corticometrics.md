@@ -1,3 +1,5 @@
+# Corticometricx / FreeSurfer
+
 **Note**: FreeSurfer is a software tools specifically for brain segmentation. As such, non-brain imaging applications do not apply, and the tasks defined for DICOM4QI SEG component cannot be addressed. However, DICOM SEG is applicable, and functionality is included to encode brain region segmentations. Therefore, the platform is included.
 
 1. Description of the platform/product:
