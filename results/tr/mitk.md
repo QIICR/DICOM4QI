@@ -1,6 +1,13 @@
 # MITK
 
-### 1. Description of the relevant features of the platform:
+1. **Description of the platform/product**:
+ * **name and version of the software**: MITK Workbench (not yet released, the TR support features are available in the `master` of the source code, and will appear in the next stable release)
+ * **free?** yes - http://mitk.org/Downloads
+ * **commercial?** no
+ * **open source?** yes - https://phabricator.mitk.org/source/mitk/
+ * **what DICOM library do you use?** [DCMTK](http://dcmtk.org), [GDCM](http://gdcm.sourceforge.net/), [DCMQI](http://github.com/qiicr/dcmqi)
+
+2. **Description of the relevant features of the platform**:
   - are multiple tracksets supported in a single file? - **No**
   - do you support any optional measurement data associated with a track? - **No**
   - do you support any optional summary statistics associated with a track set? - **No**
