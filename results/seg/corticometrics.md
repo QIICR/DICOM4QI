@@ -1,3 +1,5 @@
+**Note**: FreeSurfer is a software tools specifically for brain segmentation. As such, non-brain imaging applications do not apply, and the tasks defined for DICOM4QI SEG component cannot be addressed. However, DICOM SEG is applicable, and functionality is included to encode brain region segmentations. Therefore, the platform is included.
+
 1. Description of the platform/product:
   - **name and version of the software**: FreeSurfer 6.0
   - **free?**: [yes](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall)
