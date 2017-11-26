@@ -24,6 +24,7 @@
     * [AMI](results/seg/ami.md)
     * [Pixelmed](results/seg/pixelmed.md)
     * [dcmjs+cornerstone](results/seg/dcmjs+cornerstone.md)
+    * [Corticometrics](results/seg/corticometrics.md)
   * [Parametric maps](results/pm.md)
     * [MeVisLab](results/pm/MeVisLab.md)
     * [3D Slicer](results/pm/slicer.md)
