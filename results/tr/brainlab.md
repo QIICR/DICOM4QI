@@ -28,11 +28,11 @@
 
 <table> 
 <tr>
-  <td width="12%"><b>Dataset</b></td>
-  <td width="22%"><b>Brainlab</b></td>
-  <td width="22%"><b>3D Slicer</b></td>
-  <td width="22%"><b>MITK</b></td>
-  <td width="22%"><b>Prism</b></td>
+  <td><b>Dataset</b></td>
+  <td><b>Brainlab</b></td>
+  <td><b>3D Slicer</b></td>
+  <td><b>MITK</b></td>
+  <td><b>Prism</b></td>
 </tr>
 
 
