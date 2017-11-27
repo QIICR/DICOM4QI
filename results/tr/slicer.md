@@ -51,7 +51,7 @@
    <img src="slicer/3DSlicer_dataset2_screenshot-1.png" style="display:block;">
    </td>
 
-   <td><!-- BrainLab n/a --></td>
+   <td>(N/A)</td>
 
    <td>
    <img src="slicer/MITK_dataset2_screenshot-1.png" style="display:block;">
@@ -73,7 +73,7 @@
     <img src="slicer/BrainLab_dataset3_screenshot-2.png" style="display:block;">
   </td>
   <td>
-  <!-- MITK n/a -->
+  (N/A)
   </td>
 
   <td>
