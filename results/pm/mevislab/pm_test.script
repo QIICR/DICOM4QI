@@ -1,0 +1,64 @@
+// write your script here!
+Window {
+	style = Panel.default
+
+	Splitter {
+		direction = Horizontal
+		
+		Category {
+			expandY = YES
+
+			Panel {
+				module = DirectDicomImport
+				panel = VolumeListView
+			}
+			Panel {
+				module = OrthoView2D
+				panel = viewerPanel
+			}
+		}
+		
+		Splitter {
+			expandY = YES
+			direction = Vertical
+
+	    Viewer HistogramView.self {
+	      clone           = no
+	      preferredWidth  = 600
+	      preferredHeight = 350
+	    } 
+
+			Vertical {
+				expandY = yes
+				
+			Box "Mean / StdDev" {
+	      Vertical {
+	        Field HistogramParameters.standardDev { title = "Standard Deviation of Histogram:" }
+	        Field HistogramParameters.meanPos     { title = "Mean Position:" }
+	      }
+	    }
+	    Box Quantiles {
+	      Table  {
+	        Row  {
+	          Field HistogramParameters.quantile25 { title = "Q25%:" alignGroup = column1 }
+	          Field HistogramParameters.quantile75 { minLength=12 title = "Q75%:"    alignGroup = column2 }
+	        }
+	        Row  {
+	          Field HistogramParameters.quantile50 { title = "Q50% (median):"   alignGroup = column1 }
+	          Field HistogramParameters.interquartileRange { title = "IQR (Q75% - Q25%):"   alignGroup = column2 }
+	        }
+	        Row  {
+	          Field HistogramParameters.quantileX   { minLength=12 title = "Q_p1%:"  alignGroup = column1 }
+	          Field HistogramParameters.quantileArg { title = "p1 [%]:"         alignGroup = column2 }
+	        }
+	        Row  {
+	          Field HistogramParameters.quantile2X   { minLength=12 title = "Q_p2%:" alignGroup = column1 }
+	          Field HistogramParameters.quantile2Arg { title = "p2 [%]:"        alignGroup = column2 }
+	        }
+	      }
+	    }
+			}
+
+		}
+	}
+}
