@@ -29,10 +29,10 @@
 <table style="width:100%;table-layout:fixed;">
 <tr>
   <td width="10%" style="white-space: nowrap"><b>Dataset</b></td>
-  <td width="23%" style="white-space: nowrap"><b>Brainlab</b></td>
-  <td width="22%" style="white-space: nowrap"><b>3D Slicer</b></td>
-  <td width="23%" style="white-space: nowrap"><b>MITK</b></td>
-  <td width="22%" style="white-space: nowrap"><b>Prism</b></td>
+  <td width="23%"><b>Brainlab</b></td>
+  <td width="22%"><b>3D Slicer</b></td>
+  <td width="23%"><b>MITK</b></td>
+  <td width="22%"><b>Prism</b></td>
 </tr>
 
 
