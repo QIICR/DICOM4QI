@@ -10,7 +10,7 @@ Tasks for participants:
  * **what DICOM library do you use?** custom (MLDicomTree, using some headers from dcmtk)
 
  * **Description of the relevant features of the platform**: 
-   MeVisLab is an IDE, not an end-user application.  The screenshots below are from a custom MeVisLab network quickly put together just in order to demonstrate the PM reading for this context.  The demonstrated capability becomes available to all clinical applications and prototypes built using recent MeVisLab versions.
+   MeVisLab is an IDE, not an end-user application.  The screenshots below are from a custom MeVisLab network quickly put together just in order to demonstrate the PM reading for this context (you can find the network and the accompanying script [here](http://slicer.kitware.com/midas3/folder/4949)).  The demonstrated capability becomes available to all clinical applications and prototypes built using recent MeVisLab versions.
 3. **Read task** (for each dataset!)
  * load each of the DICOM Parametric map datasets into your platform
  * submit a screenshot demonstrating the presentation of the loaded parametric maps to the user by email to Andrey Fedorov
