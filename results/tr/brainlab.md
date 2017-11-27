@@ -68,15 +68,15 @@
    </td>
    
    <td>
-     <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" style="display:block;">
+     <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" width="200" height="200" style="display:block;">
    </td>
    
    <td>
-     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" style="display:block;">
+     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" width="200" height="200" style="display:block;">
    </td>
    
    <td>
-    <img src="brainlab/Prism_TrackSet_DataSet2.JPG"style="display:block;">
+    <img src="brainlab/Prism_TrackSet_DataSet2.JPG" width="200" height="200" style="display:block;">
    </td>
 </tr>
 
@@ -85,11 +85,11 @@
 <tr>
   <td><b>3</b></td>
   <td>
-    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
+    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" width="200" height="200" style="display:block;">
   </td>
   
   <td>
-    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" style="display:block;"> 
+    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" width="200" height="200" style="display:block;"> 
   </td>
   
   <td>
@@ -97,7 +97,7 @@
   </td>
   
   <td>
-    <img src="brainlab/Prism_TrackSet_DataSet3.JPG" style="display:block;"> 
+    <img src="brainlab/Prism_TrackSet_DataSet3.JPG" width="200" height="200" style="display:block;"> 
 </td>
   
 </tr>
