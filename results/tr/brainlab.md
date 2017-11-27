@@ -41,7 +41,7 @@
 <tr>
   <td><b>1</b></td>
   <td>
-    <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
+    <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" width="150" height="150">  
   </td>
    
   <td>
@@ -72,7 +72,7 @@
    </td>
    
    <td>
-     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" style="display:block;">
+     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" width="150" height="150">
    </td>
    
    <td>
@@ -85,7 +85,7 @@
 <tr>
   <td><b>3</b></td>
   <td>
-    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
+    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" width="150" height="150">
   </td>
   
   <td>
