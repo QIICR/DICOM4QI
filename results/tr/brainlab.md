@@ -49,7 +49,7 @@
   </td>
    
   <td>
-    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="150" height="150">
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="170" height="150">
   </td>
   
   <td>
@@ -68,15 +68,15 @@
    </td>
    
    <td>
-     <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" width="200">
+     <img src="brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" width="150" height="150">
    </td>
    
    <td>
-     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" width="200">
+     <img src="brainlab/MITK_TrackSet_DataSet2.JPG" width="150" height="150">
    </td>
    
    <td>
-    <img src="brainlab/Prism_TrackSet_DataSet2.JPG" width="200">
+    <img src="brainlab/Prism_TrackSet_DataSet2.JPG" width="150" height="150">
    </td>
 </tr>
 
@@ -85,11 +85,11 @@
 <tr>
   <td><b>3</b></td>
   <td>
-    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" width="200">
+    <img src="brainlab/brainlab-TrackSet_DataSet3.JPG" width="150" height="150">
   </td>
   
   <td>
-    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" width="200"> 
+    <img src="brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" width="150" height="150"> 
   </td>
   
   <td>
@@ -97,7 +97,7 @@
   </td>
   
   <td>
-    <img src="brainlab/Prism_TrackSet_DataSet3.JPG" width="200"> 
+    <img src="brainlab/Prism_TrackSet_DataSet3.JPG" width="150" height="150"> 
 </td>
   
 </tr>
