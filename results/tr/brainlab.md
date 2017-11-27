@@ -26,13 +26,13 @@
 
 ## 2. Read task -- result of rendering for each dataset
 
-<table>
+<table style="width:100%;table-layout:fixed;">
 <tr>
   <td><b>Dataset</b></td>
-  <td width="25%"><b>Brainlab</b></td>
-  <td width="25%"><b>3D Slicer</b></td>
-  <td width="25%"><b>MITK</b></td>
-  <td width="25%"><b>Prism</b></td>
+  <td width="2%"><b>Brainlab</b></td>
+  <td width="2%"><b>3D Slicer</b></td>
+  <td width="2%"><b>MITK</b></td>
+  <td width="2%"><b>Prism</b></td>
 </tr>
 
 
