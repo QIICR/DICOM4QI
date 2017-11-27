@@ -28,11 +28,11 @@
 
 <table> 
 <tr>
-  <td width="20%"><b>Dataset</b></td>
-  <td width="20%"><b>Brainlab</b></td>
-  <td width="20%"><b>3D Slicer</b></td>
-  <td width="20%"><b>MITK</b></td>
-  <td width="20%"><b>Prism</b></td>
+  <td width="12%"><b>Dataset</b></td>
+  <td width="22%"><b>Brainlab</b></td>
+  <td width="22%"><b>3D Slicer</b></td>
+  <td width="22%"><b>MITK</b></td>
+  <td width="22%"><b>Prism</b></td>
 </tr>
 
 
@@ -41,19 +41,19 @@
 <tr>
   <td><b>1</b></td>
   <td>
-    <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
+    <img src="brainlab/brainlab-TrackSet_DataSet1.JPG" width="200">  
   </td>
    
   <td>
-    <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" style="display:block;">
+    <img src="brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" width="200">
   </td>
    
   <td>
-    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="200">
   </td>
   
   <td>
-    <img src="brainlab/Prism_TrackSet_DataSet1.JPG" style="display:block;">
+    <img src="brainlab/Prism_TrackSet_DataSet1.JPG" width="200">
 </td>
   
 </tr>
