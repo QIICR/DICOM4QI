@@ -49,7 +49,7 @@
   </td>
    
   <td>
-    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="200" height="200">
+    <img src="brainlab/MITK_TrackSet_DataSet1.JPG" width="200" height="150">
   </td>
   
   <td>
