@@ -17,30 +17,30 @@
 
 <table>
 <tr>
-  <td width="33%">3D Slicer</td>
-  <td width="33%">Brainlab</td>
-  <td width="33%">MITK</td>
-  <td width="33%">Prism</td>
+  <td>3D Slicer</td>
+  <td>Brainlab</td>
+  <td>MITK</td>
+  <td>Prism</td>
 </tr>
 
 
 <!-- dataset_1 -->
 <tr>
   <td>
-    <img src="slicer/3DSlicer_dataset1_screenshot.png" width="200">
+    <img src="slicer/3DSlicer_dataset1_screenshot.png" style="display:block;">
    </td>
 
    <td>
-   <img src="slicer/BrainLab_dataset1_screenshot-1.png" width="200">
-   <img src="slicer/BrainLab_dataset1_screenshot-2.png" width="200">
+     <img src="slicer/BrainLab_dataset1_screenshot-1.png" style="display:block;">
+     <img src="slicer/BrainLab_dataset1_screenshot-2.png" style="display:block;">
    </td>
 
    <td>
-     <img src="slicer/MITK_dataset1_screenshot-1.png" width="200">
+     <img src="slicer/MITK_dataset1_screenshot-1.png" style="display:block;">
    </td>
 
    <td>
-     <img src="slicer/Prism_dataset1.png" width="200">
+     <img src="slicer/Prism_dataset1.png" style="display:block;">
    </td>
 </tr>
 
@@ -48,36 +48,36 @@
 <!-- dataset_2 -->
 <tr>
    <td>
-   <img src="slicer/3DSlicer_dataset2_screenshot-1.png" width="200">
+   <img src="slicer/3DSlicer_dataset2_screenshot-1.png" style="display:block;">
    </td>
 
    <td><!-- BrainLab n/a --></td>
 
    <td>
-   <img src="slicer/MITK_dataset2_screenshot-1.png" width="200">
+   <img src="slicer/MITK_dataset2_screenshot-1.png" style="display:block;">
    </td>
 
    <td>
-     <img src="slicer/Prism_dataset2.png" width="200">
+     <img src="slicer/Prism_dataset2.png" style="display:block;">
    </td>
 </tr>
 
 <!-- dataset_3 -->
 <tr>
   <td>
-  <img src="slicer/3DSlicer_dataset3_screenshot-1.png" width="200">
+  <img src="slicer/3DSlicer_dataset3_screenshot-1.png" style="display:block;">
   </td>
 
   <td>
-  <img src="slicer/BrainLab_dataset3_screenshot-1.png" width="200">
-  <img src="slicer/BrainLab_dataset3_screenshot-2.png" width="200">
+    <img src="slicer/BrainLab_dataset3_screenshot-1.png" style="display:block;">
+    <img src="slicer/BrainLab_dataset3_screenshot-2.png" style="display:block;">
   </td>
   <td>
   <!-- MITK n/a -->
   </td>
 
   <td>
-    <img src="slicer/Prism_dataset3.png" width="200">
+    <img src="slicer/Prism_dataset3.png" style="display:block;">
   </td>
 </tr>
 </table>
