@@ -28,7 +28,7 @@
 
 <table>
 <tr>
-  <td width="10%"><b>Dataset</b></td>
+  <td><b>Dataset</b></td>
   <td><b>Brainlab</b></td>
   <td><b>3D Slicer</b></td>
   <td><b>MITK</b></td>

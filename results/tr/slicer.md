@@ -17,6 +17,7 @@
 
 <table>
 <tr>
+  <td><b>Dataset</b></td>
   <td>3D Slicer</td>
   <td>Brainlab</td>
   <td>MITK</td>
@@ -26,6 +27,8 @@
 
 <!-- dataset_1 -->
 <tr>
+  <td>1</td>
+  
   <td>
     <img src="slicer/3DSlicer_dataset1_screenshot.png" style="display:block;">
    </td>
@@ -47,6 +50,8 @@
 
 <!-- dataset_2 -->
 <tr>
+   <td>2</td>
+
    <td>
    <img src="slicer/3DSlicer_dataset2_screenshot-1.png" style="display:block;">
    </td>
@@ -64,6 +69,8 @@
 
 <!-- dataset_3 -->
 <tr>
+  <td>3</td>
+
   <td>
     <img src="slicer/3DSlicer_dataset3_screenshot-1.png" style="display:block;">
   </td>
