@@ -20,16 +20,11 @@
   <td width="33%">3D Slicer</td>
   <td width="33%">Brainlab</td>
   <td width="33%">MITK</td>
+  <td width="33%">Prism</td>
 </tr>
 
 
 <!-- dataset_1 -->
-<tr>
-  <td><i>3DSlicer_dataset_1[..]-v2.dcm</i></td>
-  <td><i>TrackSet_DataSet1.dcm</i></td>
-  <td><i>MITK_dataset_1.dcm</i></td>
-</tr>
-
 <tr>
   <td>
     <img src="slicer/3DSlicer_dataset1_screenshot.png" width="200">
@@ -41,18 +36,16 @@
    </td>
 
    <td>
-   <img src="slicer/MITK_dataset1_screenshot-1.png" width="200">
+     <img src="slicer/MITK_dataset1_screenshot-1.png" width="200">
+   </td>
+
+   <td>
+     <img src="slicer/Prism_dataset1.png" width="200">
    </td>
 </tr>
 
 
 <!-- dataset_2 -->
-<tr>
-  <td><i>3DSlicer_dataset_2[..].dcm</i></td>
-  <td><i>N/A</i></td>
-  <td><i>MITK_dataset_2.dcm</i></td>
-</tr>
-
 <tr>
    <td>
    <img src="slicer/3DSlicer_dataset2_screenshot-1.png" width="200">
@@ -64,15 +57,12 @@
    <img src="slicer/MITK_dataset2_screenshot-1.png" width="200">
    </td>
 
+   <td>
+     <img src="slicer/Prism_dataset2.png" width="200">
+   </td>
 </tr>
 
 <!-- dataset_3 -->
-<tr>
-  <td><i>3DSlicer_dataset_3[..].dcm</i></td>
-  <td><i>TrackSet_DataSet3.dcm</i></td>
-  <td>N/A</td>
-</tr>
-
 <tr>
   <td>
   <img src="slicer/3DSlicer_dataset3_screenshot-1.png" width="200">
@@ -86,6 +76,9 @@
   <!-- MITK n/a -->
   </td>
 
+  <td>
+    <img src="slicer/Prism_dataset3.png" width="200">
+  </td>
 </tr>
 </table>
 
