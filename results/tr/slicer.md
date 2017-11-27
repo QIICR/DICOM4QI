@@ -51,7 +51,7 @@
    <img src="slicer/3DSlicer_dataset2_screenshot-1.png" style="display:block;">
    </td>
 
-   <td>(N/A)</td>
+   <td>N/A</td>
 
    <td>
    <img src="slicer/MITK_dataset2_screenshot-1.png" style="display:block;">
@@ -65,16 +65,15 @@
 <!-- dataset_3 -->
 <tr>
   <td>
-  <img src="slicer/3DSlicer_dataset3_screenshot-1.png" style="display:block;">
+    <img src="slicer/3DSlicer_dataset3_screenshot-1.png" style="display:block;">
   </td>
 
   <td>
     <img src="slicer/BrainLab_dataset3_screenshot-1.png" style="display:block;">
     <img src="slicer/BrainLab_dataset3_screenshot-2.png" style="display:block;">
   </td>
-  <td>
-  (N/A)
-  </td>
+  
+  <td>N/A</td>
 
   <td>
     <img src="slicer/Prism_dataset3.png" style="display:block;">
