@@ -28,11 +28,11 @@
 
 <table> 
 <tr>
-  <td><b>Dataset</b></td>
-  <td><b>Brainlab</b></td>
-  <td><b>3D Slicer</b></td>
-  <td><b>MITK</b></td>
-  <td><b>Prism</b></td>
+  <td><b>Dataset</b> width="300" height="200" style="display:block;"</td>
+  <td><b>Brainlab</b> width="300" height="200" style="display:block;"</td>
+  <td><b>3D Slicer</b> width="300" height="200" style="display:block;"</td>
+  <td><b>MITK</b> width="300" height="200" style="display:block;"</td>
+  <td><b>Prism</b> width="300" height="200" style="display:block;"</td>
 </tr>
 
 
