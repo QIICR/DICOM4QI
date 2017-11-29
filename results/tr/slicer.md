@@ -4,7 +4,7 @@
 
    - **name and version of the software**: 3D Slicer, nightly release 2017-11-13, with [SlicerDMRI](http://dmri.slicer.org/download/) extension installed.
    - **free?**: Yes, [http://download.slicer.org/](http://download.slicer.org/) and [http://dmri.slicer.org/download/](http://dmri.slicer.org/download/) \(extension instructions\)
-   - ~~**commercial?**:~~
+   - **commercial?**: no
    - **open source?**: yes: [https://github.com/SlicerDMRI](https://github.com/SlicerDMRI)
    - **what DICOM library do you use?**: DCMTK
    - **Description of the relevant features of the platform**:
