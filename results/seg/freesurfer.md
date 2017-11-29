@@ -43,7 +43,7 @@ docker run \
     --outputDICOM /tmp/dcmqi/aseg.dcm
 ```
 
-Rerunning the above command, and including the `--skip` command reduces the resulting DICOM-SEG file from 113M to [20M](https://www.dropbox.com/s/iha9mbvvbyaofas/aseg-small.dcm?dl=0)
+Rerunning the above command, and including the `--skip` flag reduces the resulting DICOM-SEG file from 113M to [20M](https://www.dropbox.com/s/iha9mbvvbyaofas/aseg-small.dcm?dl=0)
 
 Verifying the output:
 
