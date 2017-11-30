@@ -30,4 +30,34 @@
 
 #### Results of validation using `dciodvfy`
 
-Pending
+```
+Track Set 1:
+
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Value dubious for this VR - (0x0008,0x0090) PN Referring Physician's Name  PN [0] = <None> - Retired Person Name form
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <619432> - Retired Person Name form
+TractographyResults
+Warning - is only permitted to be empty when actually unknown; should be absent (not empty) if an unpaired body part, and have a value if a paired body part - attribute <Laterality>
+```
+
+```
+Track Set 2:
+
+Warning - Value dubious for this VR - (0x0008,0x0090) PN Referring Physician's Name  PN [0] = <None> - Retired Person Name form
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <WM-707> - Retired Person Name form
+TractographyResults
+Warning - is only permitted to be empty when actually unknown; should be absent (not empty) if an unpaired body part, and have a value if a paired body part - attribute <Laterality>
+```
+
+```
+Track Set 3:
+
+Warning - Missing attribute or value that would be needed to build DICOMDIR - Study ID
+Warning - Value dubious for this VR - (0x0008,0x0090) PN Referring Physician's Name  PN [0] = <None> - Retired Person Name form
+Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <TracStor-03> - Retired Person Name form
+TractographyResults
+Warning - is only permitted to be empty when actually unknown; should be absent (not empty) if an unpaired body part, and have a value if a paired body part - attribute <Laterality>
+```
+
+
+
