@@ -20,8 +20,8 @@ Just upload your parametric maps into the live demo.
 
 ### Test dataset #1
 
-<img src="./cornerstone/cornerstone-pm-test1.png" width=602 height=424>
+<img src="./cornerstone/cornerstone-pm-test1.png" width=602>
 
 ### Test dataset #2
 
-<img src="./cornerstone/cornerstone-pm-test2.png" width=602 height=424>
+<img src="./cornerstone/cornerstone-pm-test2.png" width=602>
