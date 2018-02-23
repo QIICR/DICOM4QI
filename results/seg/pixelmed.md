@@ -20,7 +20,7 @@
 
 **Steps to load DICOM SEG into Pixelmed image viewer:**
 
-  **1.** Convert image dataset into multiframe using script such as below:
+  **1.** Convert image dataset into multiframe using script such as below (parameters: input single-frame DICOM directory, and the directory for the output multiframe image):
 
 ```
 #!/bin/sh
@@ -30,10 +30,10 @@ PIXELMEDDIR=.
 java -Xmx2g -Xms512m -XX:-UseGCOverheadLimit -cp "${PIXELMEDDIR}/pixelmed.jar:${PIXELMEDDIR}/lib/additional/commons-compress-1.9.jar:${PIXELMEDDIR}/lib/additional/commons-codec-1.3.jar:${PIXELMEDDIR}/lib/additional/vecmath1.2-1.14.jar" com.pixelmed.dicom.MultiFrameImageFactory $*
 ```
 
-  **2.** Display SEG in overlay using the following command
+  **2.** Display SEG in overlay using the following command (parameters: multiframe DICOM image, and DICOM SEG image):
 
 ```
-java -Xmx2g -Xms512m -XX:-UseGCOverheadLimit -cp "${PIXELMEDDIR}/pixelmed.jar:${PIXELMEDDIR}/lib/additional/commons-compress-1.9.jar:${PIXELMEDDIR}/lib/additional/commons-codec-1.3.jar:${PIXELMEDDIR}/lib/additional/vecmath1.2-1.14.jar" com.pixelmed.display.SuperimposedDicomImage
+java -Xmx2g -Xms512m -XX:-UseGCOverheadLimit -cp "${PIXELMEDDIR}/pixelmed.jar:${PIXELMEDDIR}/lib/additional/commons-compress-1.9.jar:${PIXELMEDDIR}/lib/additional/commons-codec-1.3.jar:${PIXELMEDDIR}/lib/additional/vecmath1.2-1.14.jar" com.pixelmed.display.SuperimposedDicomSegments $*
 ```
 
 **Test dataset #1**
