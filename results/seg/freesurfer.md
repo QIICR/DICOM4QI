@@ -3,7 +3,6 @@
 **Note**: FreeSurfer is a set of software tools for brain segmentation of MRI data. As such, non-brain imaging applications do not apply, and the tasks defined for DICOM4QI SEG component cannot be addressed. However, DICOM SEG is applicable, and functionality is included to encode brain region segmentations. Therefore, the platform is included.
 
 1. Description of the platform/product:
-
    * **name and version of the software**: FreeSurfer 6.0
    * **free?**: [yes](https://surfer.nmr.mgh.harvard.edu/fswiki/DownloadAndInstall)
    * **commercial?**: no
@@ -16,9 +15,7 @@
    * **do you render the segment using the color specified in the DICOM object?** N/A \(write-only\), however Freesurfer's recoomended color scheme is preserved.
    * **how do you communicate segment semantics to the user?** The [`fs-aseg.json`](https://github.com/corticometrics/fs2dicom/blob/master/fs-aseg.json) maps [freesurfer's subcortical labels](https://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/AnatomicalROI/FreeSurferColorLUT) to SNOMED codes.
    * **how do you support the user in defining the semantics of the object at the time segmentation is created?** Freesurfer's subcortical label set is predefined, so this is pre-computed.
-
 2. Read task: Not supported
-
 3. Write task:
 
 The file [fs6-dcmqi-ex-rsna2017.tar.gz](http://slicer.kitware.com/midas3/item/324959) contains the following:
@@ -29,7 +26,7 @@ The file [fs6-dcmqi-ex-rsna2017.tar.gz](http://slicer.kitware.com/midas3/item/32
 
 Running the example:
 
-```
+```text
 tar zxvf ./fs6-dcmqi-ex-rsna2017.tar.gz
 cd ./fs6-dcmqi-ex-rsna2017
 docker pull qiicr/dcmqi
@@ -47,18 +44,21 @@ Rerunning the above command, and including the `--skip` flag reduces the resulti
 
 Verifying the output:
 
-```
+```text
 dciodvfy ./aseg.dcm &> dciodvfy-output.txt
 ```
 
 Currently dciodvfy genertes the following errors:
 
 * Thousands of erros that look like:
-  ```
+
+  ```text
   Error - Illegal root for UID - "5.555.5.2017.3.22.??.?.??????" in (0x0008,0x1155) Referenced SOP Instance UID
   ```
+
 * Other errors:
-  ```
+
+  ```text
   Error - Value invalid for this VR - (0x0008,0x0050) SH Accession Number  SH [0] = <Accession Number 1> - Length invalid for this VR = 18, expected <= 16
   Warning - Value dubious for this VR - (0x0008,0x0090) PN Referring Physician's Name  PN [0] = <Referring Physician's Name 1> - Retired Person Name form
   Warning - Value dubious for this VR - (0x0010,0x0010) PN Patient's Name  PN [0] = <Patient's Name 1> - Retired Person Name form
@@ -67,6 +67,4 @@ Currently dciodvfy genertes the following errors:
   Segmentation
   Error - Unrecognized enumerated value <CLEANED> for value 1 of attribute <Patient's Sex>
   ```
-
-
 
