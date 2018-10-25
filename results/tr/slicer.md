@@ -13,7 +13,7 @@
   * do you support any optional summary statistics associated with a track set? - **No**
   * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 
-## 2. **Read task** 
+## 2. **Read task**
 
 Screenshots of trackset results for each platform, loaded with 3D Slicer, are shown below.   
 
@@ -32,14 +32,21 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
       <td style="text-align:left">1</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-1.png" alt/>
           <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-2.png" alt/>
         </p>
       </td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>
+          <img src="../../.gitbook/assets/MITK_dataset1_screenshot-1.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>
+          <img src="../../.gitbook/assets/Prism_dataset1.png" alt/>
+        </p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">2</td>
@@ -68,8 +75,8 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 | :--- |
 
 
-  
-  
+
+
 
 | 1 |
 | :--- |
@@ -121,15 +128,15 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 | :--- |
 
 
-  
+
 &lt;/tr&gt;
 
 |  |
 | :--- |
 
 
-  
-   
+
+
 
 | 2 |
 | :--- |
@@ -169,15 +176,15 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 | :--- |
 
 
-  
+
 &lt;/tr&gt;
 
 |  |
 | :--- |
 
 
-  
-  
+
+
 
 | 3 |
 | :--- |
@@ -223,7 +230,7 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 | :--- |
 
 
-  
+
 &lt;/tr&gt;  
 &lt;/table&gt;
 
@@ -234,4 +241,3 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 ### Results of validation using `dciodvfy`
 
 Pending
-
