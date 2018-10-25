@@ -13,9 +13,50 @@
   * do you support any optional summary statistics associated with a track set? - **No**
   * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 
-## 2. **Read task** Screenshots of trackset results for each platform, loaded with 3D Slicer:
+## 2. **Read task** 
 
-|  |
+Screenshots of trackset results for each platform, loaded with 3D Slicer, are shown below.   
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Dataset</th>
+      <th style="text-align:left">3D Slicer</th>
+      <th style="text-align:left">Brainlab</th>
+      <th style="text-align:left">MITK</th>
+      <th style="text-align:left">Prism</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p></p>
+        <p>
+          <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-1.png" alt/>
+          <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-2.png" alt/>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3</td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>|  |
 | :--- |
 
 
