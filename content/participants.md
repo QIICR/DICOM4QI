@@ -1,16 +1,13 @@
-Participants
-============
-
 The following platforms/groups joined the submission of the RSNA2016 QIRR DICOM-QI connectathon proposal.
 
-Platforms that participated in the 2015 connectathon activity:
+## 2015
 
 * [3D Slicer](http://slicer.org) \(contact: Andrey Fedorov\)
-* [ePAD](https://epad.stanford.edu/) \(contact: Daniel Rubin\)
+* [ePAD](https://epad.stanford.edu/) \(contact: Emel Alkim\)
 * [AIM on ClearCanvas](http://www.ict.mahidol.ac.th/research/Imaging-Informatics/index) \(contact: Pattanasak Mongkolwat\)
 * [Brainlab Patient Data Manager](https://www.brainlab.com) \(contact: David Flade\)
 
-Participants that joined the 2016 iteration of the connectathon:
+## 2016
 
 * [OHIF/Cornerstone](https://github.com/OHIF) \(contact: Chris Hafey\)
 * [RadConnect](https://www.radconnect.com/wp/) \(contact: Chris Hafey\)
@@ -22,13 +19,22 @@ Participants that joined the 2016 iteration of the connectathon:
 * [Koelis](http://koelis.com) \(details of the actual platform TBD\) \(contact: Michael Baumann\)
 * [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) \(David Clunie\)
 
-Participants that joined the 2017 iteration of the connectathon:
+## 2017
 
 * [Corticometics](http://www.corticometrics.com/) \(contact: Paul Wighton\)
 * [icometrix](https://icometrix.com/) \(contact:Dirk Smeets\)
 * [Prism Clinical Imaging](http://www.prismclinical.com/) \(contact: James Reuss\)
 * [VTK-DICOM](https://www.gitbook.com/results/pm/vtk-dicom.md) \(contact: David Gobbi\)
 * [dcmjs + cornerstone](https://github.com/pieper/dcmjs) \(contact Steve Pieper and Erik Ziegler\)
+
+## 2018
+
+* [Terarecon](https://www.terarecon.com/) (contact: Mani Benjamin)
+* [Intrasense](http://www.intrasense.fr/) (contact: Philippe Michelon)
+* [Image Biomarker Standardization Initiative](https://arxiv.org/abs/1612.07003) (contact: Alex Zwanenburg)
+* Radiomics Ontology initiative (contact: Martin Vallieres)
+
+## "Unofficial" participants
 
 The following tools are evaluated without a representative from the organization supporting the tool:
 

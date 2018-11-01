@@ -1,14 +1,10 @@
-Measurements (DICOM SR TID1500)
-===============================
-
 The purpose of this task is to demonstrate support of the DICOM Structured Reporting template TID1500 \(DICOM TID1500\) for storing measurements derived from volumetric segmentations.
 
 The basic read task involves loading the existing DICOM TID1500 object \(ideally, in the context of the source image series and the segmentation used to derived that measurement\), and demonstrating the user interface presenting the loaded measurements.
 
 Write task involves generation of a new DICOM TID1500 dataset for a specified combination of the input image series and the volumetric segmentation defined as DICOM SEG.
 
-Tasks for participants
-----------------------
+## Tasks for participants
 
 1. **Description of the platform/product**:
    * **name and version of the software** used for testing
@@ -29,8 +25,7 @@ Tasks for participants
 
 Note: the screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
 
-Test dataset #1
-^^^^^^^^^^^^^^^
+### Test dataset #1
 
 This is a dataset consisting of 3 slices of a [liver CT series](http://slicer.kitware.com/midas3/download/item/257238/liver-3slices-CT.zip), and rough [segmentation of the liver defining ROI](http://slicer.kitware.com/midas3/download/item/257239/liver.dcm) for calculating the measurements.
 
@@ -45,9 +40,16 @@ The measurements stored in the SR dataset are the following:
 * Volume = 70361.9 cubic millimeter
 * Volume = 70.3619 cubic centimeter
 
-Test dataset #2
-^^^^^^^^^^^^^^^
+### Test dataset #2
 
-[This SR dataset](http://slicer.kitware.com/midas3/download/item/262094/Measurements_User2_SemiAuto_Trial2.dcm) contains measurements over the segmentations of tumor and "hot" lymph nodes in \[SEG Test dataset \#3\)\[[https://fedorov.gitbooks.io/rsna2016-qirr-dicom4qi/content/instructions/seg.html\#test-dataset-3](https://fedorov.gitbooks.io/rsna2016-qirr-dicom4qi/content/instructions/seg.html#test-dataset-3)\].
+[This SR dataset](http://slicer.kitware.com/midas3/download/item/262094/Measurements_User2_SemiAuto_Trial2.dcm) contains measurements over the segmentations of tumor and "hot" lymph nodes in [SEG Test dataset #3](/instructions/seg/#test-dataset-3).
 
 The types of measurements stored in this object are described in detail in [this article](https://peerj.com/articles/2057/). There is a separate group of measurements for each of the segments in the referenced segmentation object.
+
+### Test dataset #3
+
+Radiomics features - TODO!
+
+### Test dataset #4
+
+Planar measurements - TODO!

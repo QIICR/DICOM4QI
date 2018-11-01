@@ -1,5 +1,5 @@
 site_name: DICOM4QI
-site_description: testin
+site_description: DICOM for Quantitative Imaging (DICOM4QI)
 site_author: QIICR
 
 repo_url: https://github.com/qiicr/dicom4qi
@@ -7,17 +7,28 @@ repo_name: dicom4qi
 
 docs_dir: content
 
-theme: readthedocs
+theme:
+  name: material
+  #name: readthedocs
+  # custom_dir: custom_theme
 
 pages:
-  - Home: index.md
+  - Introduction: index.md
   - Scope: scope.md
   - Participants: participants.md
-  - History: history.md
   - Instructions for participants:
-      - Introduction: instructions/instructions.md
+      - General instructions: instructions/instructions.md
       - Segmentations: instructions/seg.md
       - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
       - Parametric maps: instructions/pm.md
       - Longitudinal annotation: instructions/longitudinal.md
       - Tractography (DICOM TR): instructions/tr.md
+  - Results:
+      - Organization: results/index.md
+      - Segmentation: results/seg/index.md
+  - History: history.md
+  - Referencs: refs.md
+
+markdown_extensions:
+    - toc:
+        permalink: 
