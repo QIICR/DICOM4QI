@@ -26,7 +26,7 @@ pages:
       - Results organization: results/index.md
   - Results - Segmentation:
       - Summary: results/seg/index.md
-      - 3D Slicer: results/seg/slicer.md
+      - 3D Slicer: results/seg/3dslicer.md
       - ePAD: results/seg/epad.md
       - Brainlab: results/seg/brainlab.md
   - History: history.md
