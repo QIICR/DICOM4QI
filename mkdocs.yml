@@ -23,9 +23,12 @@ pages:
       - Parametric maps: instructions/pm.md
       - Longitudinal annotation: instructions/longitudinal.md
       - Tractography (DICOM TR): instructions/tr.md
-  - Results:
-      - Organization: results/index.md
-      - Segmentation: results/seg/index.md
+      - Results organization: results/index.md
+  - Results - Segmentation:
+      - Summary: results/seg/index.md
+      - 3D Slicer: results/seg/slicer.md
+      - ePAD: results/seg/epad.md
+      - Brainlab: results/seg/brainlab.md
   - History: history.md
   - Referencs: refs.md
 

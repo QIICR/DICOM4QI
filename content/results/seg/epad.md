@@ -1,4 +1,3 @@
-# ePAD
 
 1.**Description of the platform/product**:
 
@@ -11,17 +10,15 @@
 2.**Description of the relevant features of the platform**:
 
 * **are both single and multiple segments supported?** the new viewer uses AMI and supports multisegments;  whereas the old viewer supports only single segments.  
-* **how are the overlapping segments handled?** user can select either to view the outline or as filled \(see screenshot below showing both AIM on ClearCanvas and Slicer datasets from the Read task\) 
+* **how are the overlapping segments handled?** user can select either to view the outline or as filled \(see screenshot below showing both AIM on ClearCanvas and Slicer datasets from the Read task\)
 
-![](../../.gitbook/assets/overlap_sc_stroke.png)
+![](epad/overlap_sc_stroke.png)
 
- \| 
-
-![](../../.gitbook/assets/overlap_sc_fill.png)
+![](epad/overlap_sc_fill.png)
 
 * **do you support both BINARY and FRACTIONAL segmentation types?** yes, segmentations that are saved as FRACTIONAL are mapped to gray scale \(see screenshot below showing a FRACTIONAL segmentation\)
 
-![](../../.gitbook/assets/fractionalseg.png)
+![](epad/fractionalseg.png)
 
 * **do you render the segment using the color specified in the DICOM object?** the new viewer uses AMI and renders using the color specified in the DICOM object; whereas the old viewer uses annotation owner's preferred color for all segmentations
 * **how do you communicate segment semantics to the user?** currently user has no means to get information about the semantics of the object as defined in the segmentation
@@ -32,35 +29,21 @@
 **Test dataset \#1**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-| ePAD |   |
-| syngo.via |   |
-| AIMonClearCanvas |   |
-| Brainlab |   |
+| -- | -- |
+| 3D Slicer | <img src="epad/slicer_qin2.png" width=250> |
+| ePAD | <img src="epad/epad-read-lidc.png" width=250> |
+| syngo.via | <img src="epad/syngo_segmentations.png" width=250> |
+| AIMonClearCanvas| <img src="epad/clearcanvas_segmentation.png" width=250> |
+| Brainlab| <img src="epad/fractionalseg.png" width=250> |
 
 **Test dataset \#2**
 
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+At this time, ePAD does not support multi-segment segmentations.
 
-**Test dataset \#3**
-
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-
-**Test dataset \#4**
-
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
 
 4.**Write task**
 
 * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
-  * results are uploaded
+* results are uploaded
 * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
-  * no errors, only warnings from dciodvfy
-
+* no errors, only warnings from dciodvfy
