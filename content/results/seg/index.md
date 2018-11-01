@@ -2,7 +2,7 @@
 
 | Tool name | Description of the platform| Read task | Write task |
 | -- | -- | -- | -- |
-| [3D Slicer](/results/seg/slicer.md) | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> |
+| [3D Slicer](/results/seg/slicer.md) | <img src="../../images/done.png" width=25> | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> |
 | [Brainlab](/results/seg/brainlab.md) | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> |
 | [ePAD](/results/seg/epad.md) | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> |
 | [AIM on ClearCanvas](/results/seg/aimclearcanvas.md) ** * **| <img src="/images/done.png" width=25> | <img src="/images/done.png" width=25> | <img src="/images/failed.png" width=25> |
