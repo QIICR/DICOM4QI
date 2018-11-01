@@ -19,5 +19,5 @@ pages:
       - Segmentations: instructions/seg.md
       - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
       - Parametric maps: instructions/pm.md
-      - Longitudinal annotation: instructions/longitudinal-annotation.md
+      - Longitudinal annotation: instructions/longitudinal.md
       - Tractography (DICOM TR): instructions/tr.md

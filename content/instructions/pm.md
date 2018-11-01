@@ -1,5 +1,4 @@
-Parametric maps
-===============
+### Parametric maps
 
 In this task the participants are expected to demonstrate the capability of the tool to handle loading of the DICOM Parametric Map \(DICOM PM\) object.
 
