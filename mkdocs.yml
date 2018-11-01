@@ -1,0 +1,23 @@
+site_name: DICOM4QI
+site_description: testin
+site_author: QIICR
+
+repo_url: https://github.com/qiicr/dicom4qi
+repo_name: dicom4qi
+
+docs_dir: content
+
+theme: readthedocs
+
+pages:
+  - Home: index.md
+  - Scope: scope.md
+  - Participants: participants.md
+  - History: history.md
+  - Instructions for participants:
+      - Introduction: instructions/instructions.md
+      - Segmentations: instructions/seg.md
+      - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
+      - Parametric maps: instructions/pm.md
+      - Longitudinal annotation: instructions/longitudinal-annotation.md
+      - Tractography (DICOM TR): instructions/tr.md

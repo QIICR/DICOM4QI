@@ -1,4 +1,5 @@
-# Participants
+Participants
+============
 
 The following platforms/groups joined the submission of the RSNA2016 QIRR DICOM-QI connectathon proposal.
 
@@ -35,4 +36,3 @@ The following tools are evaluated without a representative from the organization
 * [OsiriX Lite](http://www.osirix-viewer.com/ContributionOsiriX.html) \(testing performed by Andrey Fedorov using the publicly available version\)
 
 **There is an open invitation for participation to any group interested in exploring the use of DICOM for quantitative imaging applications, and developing QI platforms!**
-

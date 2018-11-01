@@ -1,12 +1,6 @@
-# Instructions for participants
 
-## Overview
 
-The overall idea of the activity is to demonstrate interchange of the types of DICOM objects needed for quantitative imaging research.
-
-As such, we aim to test the capabilities of the individual platforms to consume and produce the types of DICOM objects in question.
-
-**Note: to participate, you do NOT need to support** _**all**_ **of the object types and tasks listed in the following sections!**
+The overall goal is to demonstrate interchange of the types of DICOM objects needed for quantitative imaging research. To participate, you do NOT need to support all of the object types and tasks listed in the following sections!
 
 **To participate, you do not need to be physically present at RSNA!** You can submit your results for inclusion in this public resource. Those of us at RSNA will be happy to tell attendees about your tool, and refer them to you if there are further questions we cannot answer.
 
@@ -27,4 +21,3 @@ Your submission **must** include the details about the platform you used to gene
 **If your platform and usage instructions are publicly available, you have the option to just send those to Andrey Fedorov, and he can do all the testing and populate the document content with the results.**
 
 The details for the individual object types follow in the subsequent sections.
-

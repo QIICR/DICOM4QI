@@ -1,4 +1,5 @@
-# Scope
+Scope
+=====
 
 The declared scope of the exhibit covered exchange of the following types of data:
 
@@ -8,4 +9,3 @@ The declared scope of the exhibit covered exchange of the following types of dat
 * **DICOM Tractography Results object \(TR\)**, encoding the Diffusion MRI fiber tractography.
 
 For the details about the individual types of object see [Instructions](instructions/).
-
