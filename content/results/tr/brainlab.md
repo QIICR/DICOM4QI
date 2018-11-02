@@ -1,7 +1,3 @@
-# Brainlab
-
-## Brainlab
-
 ### 1. Description of the platform/product
 
 * **name and version of the software** Brainlab FiberTracking 1.1.0
@@ -17,166 +13,85 @@
   * **Diffusion Model, Method of Acquisition, Algorithm identification and Anatomical information** is contained in each DICOM TR instance created by the software.
 
 ## 2. Read task -- result of rendering for each dataset
+<table style="width:100%;table-layout:fixed;">
+<tr>
+  <td width="10%" style="white-space: nowrap"><b>Dataset</b></td>
+  <td width="23%"><b>Brainlab</b></td>
+  <td width="22%"><b>3D Slicer</b></td>
+  <td width="23%"><b>MITK</b></td>
+  <td width="22%"><b>Prism</b></td>
+</tr>
 
-|  |
-| :--- |
 
+<!-- dataset_1 -->
 
-| **Dataset** | **Brainlab** | **3D Slicer** | **MITK** | **Prism** |
-| :--- | :--- | :--- | :--- | :--- |
+<tr>
+  <td><b>1</b></td>
 
+  <td>
+    <img src="../brainlab/brainlab-TrackSet_DataSet1.JPG" style="display:block;">  
+  </td>
 
-|  |
-| :--- |
+  <td>
+    <img src="../brainlab/Slicer_TrackSet_DataSet1_Colored.JPG" style="display:block;">
+  </td>
 
+  <td>
+    <img src="../brainlab/MITK_TrackSet_DataSet1.JPG" style="display:block;">
+  </td>
 
-  
-  
+  <td>
+    <img src="../brainlab/Prism_TrackSet_DataSet1.JPG" style="display:block;">
+</td>
 
-| **1** |
-| :--- |
+</tr>
 
 
-|   |
-| :--- |
+<!-- dataset_2 -->
 
+<tr>
+   <td><b>2</b></td>
 
-![](../../.gitbook/assets/brainlab-trackset_dataset1.JPG)
+   <td>
+   N/A
+   </td>
 
-|  |
-| :--- |
+   <td>
+     <img src="../brainlab/Slicer_TrackSet2_LoadedByBrainlab.JPG" style="display:block;">
+   </td>
 
+   <td>
+     <img src="../brainlab/MITK_TrackSet_DataSet2.JPG" style="display:block;">
+   </td>
 
-|   |
-| :--- |
+   <td>
+    <img src="../brainlab/Prism_TrackSet_DataSet2.JPG" style="display:block;">
+   </td>
+</tr>
 
+<!-- dataset_3 -->
 
-![](../../.gitbook/assets/slicer_trackset_dataset1_colored.JPG)
+<tr>
+  <td><b>3</b></td>
+  <td>
+    <img src="../brainlab/brainlab-TrackSet_DataSet3.JPG" style="display:block;">
+  </td>
 
-|  |
-| :--- |
+  <td>
+    <img src="../brainlab/Slicer_TrackSet3_LoadedByBrainlab.JPG" style="display:block;">
+  </td>
 
+  <td>
+    N/A
+  </td>
 
-|   |
-| :--- |
+  <td>
+    <img src="../brainlab/Prism_TrackSet_DataSet3.JPG" style="display:block;">
+</td>
 
+</tr>
+</table>
 
-![](../../.gitbook/assets/mitk_trackset_dataset1.JPG)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_trackset_dataset1.JPG)
-
-|  |
-| :--- |
-
-
-&lt;/tr&gt;
-
-|  |
-| :--- |
-
-
-  
-   
-
-| **2** |
-| :--- |
-
-
-|  N/A |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_trackset2_loadedbybrainlab.JPG)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_trackset_dataset2.JPG)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_trackset_dataset2.JPG)
-
-|  |
-| :--- |
-
-
-  
-&lt;/tr&gt;
-
-|  |
-| :--- |
-
-
-  
-  
-
-| **3** |
-| :--- |
-
-
-  
-  
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab-trackset_dataset3.JPG)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_trackset3_loadedbybrainlab.JPG)
-
-|  |
-| :--- |
-
-
-|  N/A |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_trackset_dataset3.JPG)
-
-|  |
-| :--- |
-
-
-&lt;/tr&gt;  
-&lt;/table&gt;
 
 ### 3. Write tasks
 
@@ -234,4 +149,3 @@
 #### Results of validation using `dciodvfy`
 
 Pending
-

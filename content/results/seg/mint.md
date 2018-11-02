@@ -1,5 +1,3 @@
-# Mint
-
 1.**Description of the platform/product**:
 
 * **name and version of the software**: Mint Lesion 3.3 \(current development version\)
@@ -16,7 +14,7 @@
 
   Unknown
 
-*  **do you support compressed objects? if yes - for reading, writing, or for both?** 
+*  **do you support compressed objects? if yes - for reading, writing, or for both?**
 
   Unknown \(we store compressed NRRD images in DB\)
 
@@ -30,29 +28,28 @@
 
 3.**Read task**: load each of the DICOM SEG datasets that accompany the imaging series into your platform
 
-**Test dataset \#1**
+**Test dataset #1**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-| syngo.via |   |
-| AIMonClearCanvas |   |
+| -- | -- |
+| 3D Slicer | <img src="../mint/TD1_3DSlicer.png" width=250> |
+| syngo.via | <img src="../mint/TD1_syngovia.png" width=250> |
+| AIMonClearCanvas| <img src="../mint/TD1_AIMonClearCanvas.png" width=250> |
 
-**Test dataset \#2**
-
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-
-**Test dataset \#3**
+**Test dataset #2**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+| -- | -- |
+| 3D Slicer | <img src="../mint/TD2_3DSlicer.png" width=250> |
 
-**Test dataset \#4**
+**Test dataset #3**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+| -- | -- |
+| 3D Slicer | <img src="../mint/TD3_3DSlicer.png" width=250> |
 
+**Test dataset #4**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="../mint/TD4_3DSlicer.png" width=250> |

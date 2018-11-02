@@ -1,5 +1,3 @@
-# Cornerstone
-
 Tasks for participants:
 
 1.**Description of the platform/product**:
@@ -10,7 +8,7 @@ Tasks for participants:
 * **open source?** yes [https://github.com/cornerstonejs](https://github.com/cornerstonejs)
 * **what DICOM library do you use?** dicomParser \([https://github.com/cornerstonejs/dicomParser](https://github.com/cornerstonejs/dicomParser)\)
 * **Description of the relevant features of the platform**:
-  * Cornerstone is an open source project with a goal to deliver a complete web based medical imaging platform. 
+  * Cornerstone is an open source project with a goal to deliver a complete web based medical imaging platform.
 
 1. **Read task**
 
@@ -20,9 +18,8 @@ Just upload your parametric maps into the live demo.
 
 ## Test dataset \#1
 
-![](../../.gitbook/assets/cornerstone-pm-test1.png)
+![](../cornerstone/cornerstone-pm-test1.png)
 
 ## Test dataset \#2
 
-![](../../.gitbook/assets/cornerstone-pm-test2.png)
-
+![](../cornerstone/cornerstone-pm-test2.png)

@@ -1,5 +1,3 @@
-# 3D Slicer
-
 ## 1. **Description of the platform/product**:
 
 * **name and version of the software**: 3D Slicer, nightly release 2017-11-13, with [SlicerDMRI](http://dmri.slicer.org/download/) extension installed.
@@ -18,221 +16,77 @@
 Screenshots of trackset results for each platform, loaded with 3D Slicer, are shown below.   
 
 <table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Dataset</th>
-      <th style="text-align:left">3D Slicer</th>
-      <th style="text-align:left">Brainlab</th>
-      <th style="text-align:left">MITK</th>
-      <th style="text-align:left">Prism</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">1</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-1.png" alt/>
-          <img src="../../.gitbook/assets/brainlab_dataset1_screenshot-2.png" alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/MITK_dataset1_screenshot-1.png" alt/>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>
-          <img src="../../.gitbook/assets/Prism_dataset1.png" alt/>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">3</td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
-  </tbody>
-</table>|  |
-| :--- |
-
-
-| **Dataset** | 3D Slicer | Brainlab | MITK | Prism |
-| :--- | :--- | :--- | :--- | :--- |
-
-
-|  |
-| :--- |
-
-
-
-
-
-| 1 |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/3dslicer_dataset1_screenshot.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset1_screenshot-1.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset1_screenshot-2.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset1_screenshot-1.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_dataset1.png)
-
-|  |
-| :--- |
-
-
-
-&lt;/tr&gt;
-
-|  |
-| :--- |
-
-
-
-
-
-| 2 |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/3dslicer_dataset2_screenshot-1.png)
-
-|  |
-| :--- |
-
-
-| N/A |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset2_screenshot-1.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_dataset2.png)
-
-|  |
-| :--- |
-
-
-
-&lt;/tr&gt;
-
-|  |
-| :--- |
-
-
-
-
-
-| 3 |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/3dslicer_dataset3_screenshot-1.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset3_screenshot-1.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset3_screenshot-2.png)
-
-|  |
-| :--- |
-
-
-| N/A |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/prism_dataset3.png)
-
-|  |
-| :--- |
-
-
-
-&lt;/tr&gt;  
-&lt;/table&gt;
+<tr>
+  <td><b>Dataset</b></td>
+  <td>3D Slicer</td>
+  <td>Brainlab</td>
+  <td>MITK</td>
+  <td>Prism</td>
+</tr>
+
+
+<!-- dataset_1 -->
+<tr>
+  <td>1</td>
+
+  <td>
+    <img src="../slicer/3DSlicer_dataset1_screenshot.png" style="display:block;">
+   </td>
+
+   <td>
+     <img src="../slicer/BrainLab_dataset1_screenshot-1.png" style="display:block;">
+     <img src="../slicer/BrainLab_dataset1_screenshot-2.png" style="display:block;">
+   </td>
+
+   <td>
+     <img src="../slicer/MITK_dataset1_screenshot-1.png" style="display:block;">
+   </td>
+
+   <td>
+     <img src="../slicer/Prism_dataset1.png" style="display:block;">
+   </td>
+</tr>
+
+
+<!-- dataset_2 -->
+<tr>
+   <td>2</td>
+
+   <td>
+   <img src="../slicer/3DSlicer_dataset2_screenshot-1.png" style="display:block;">
+   </td>
+
+   <td>N/A</td>
+
+   <td>
+   <img src="../slicer/MITK_dataset2_screenshot-1.png" style="display:block;">
+   </td>
+
+   <td>
+     <img src="../slicer/Prism_dataset2.png" style="display:block;">
+   </td>
+</tr>
+
+<!-- dataset_3 -->
+<tr>
+  <td>3</td>
+
+  <td>
+    <img src="../slicer/3DSlicer_dataset3_screenshot-1.png" style="display:block;">
+  </td>
+
+  <td>
+    <img src="../slicer/BrainLab_dataset3_screenshot-1.png" style="display:block;">
+    <img src="../slicer/BrainLab_dataset3_screenshot-2.png" style="display:block;">
+  </td>
+
+  <td>N/A</td>
+
+  <td>
+    <img src="../slicer/Prism_dataset3.png" style="display:block;">
+  </td>
+</tr>
+</table>
 
 ## 3. **Write tasks**
 

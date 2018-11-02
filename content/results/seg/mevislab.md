@@ -1,4 +1,3 @@
-# MeVisLab
 
 1.**Description of the platform/product**:
 
@@ -11,7 +10,7 @@
 2.**Description of the relevant features of the platform**:
 
 * **are both single and multiple segments supported?** yes \(reading\), single-only \(writing\)
-* **how are the overlapping segments handled?** loaded separately 
+* **how are the overlapping segments handled?** loaded separately
 
   \(display depends on application\)
 
@@ -26,7 +25,7 @@
 
   available yet using this new API as of November 2016\)
 
-* **how do you support the user in defining the semantics of the object at the time segmentation is created?** 
+* **how do you support the user in defining the semantics of the object at the time segmentation is created?**
 
   no support is available yet \(support similiar to the QIICR web
 
@@ -58,39 +57,39 @@ MeVisLab fields, extending the internal API by the necessary pieces
 for application support; these components are not directly visible to  
 the end-user.
 
-**Test dataset \#1**
+**Test dataset #1**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-| ePAD |   |
-| syngo.via |   |
-| AIMonClearCanvas |   |
+| -- | -- |
+| 3D Slicer | <img src="../MeVisLab/slicer-read-lidc.png" width=250> |
+| ePAD | <img src="../MeVisLab/epad-read-lidc.png" width=250> |
+| syngo.via | <img src="../MeVisLab/syngo-read-lidc.png" width=250> |
+| AIMonClearCanvas| <img src="../MeVisLab/aimclearcanvas-read-lidc.png" width=250> |
 
-**Test dataset \#2**
-
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
-| Brainlab |   |
-
-**Test dataset \#3**
+**Test dataset #2**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+| -- | -- |
+| 3D Slicer | <img src="../MeVisLab/slicer-read-hnc-pet.png" width=250> |
+| Brainlab | <img src="../MeVisLab/brainlab-read-hnc-colored-ct.png" width=250> |
 
-**Test dataset \#4**
+**Test dataset #3**
 
 | Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+| -- | -- |
+| 3D Slicer | <img src="../MeVisLab/slicer-read-hnc-many.png" width=250> |
+
+**Test dataset #4**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| 3D Slicer | <img src="../MeVisLab/slicer-read-prostate.png" width=250> |
 
 4.**Write task**
 
 * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
   * results are uploaded [in this folder](http://slicer.kitware.com/midas3/folder/4932)
-* run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); 
+* run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html);
 
   iterate on resolving the identified issues as necessary
 
@@ -102,4 +101,3 @@ the end-user.
 
 * run [dcentvfy DICOM validator](http://www.dclunie.com/dicom3tools/dcentvfy.html)
   * `PatientIdentityRemoved` and `DeidentificationMethod` tags are not properly copied from input data
-

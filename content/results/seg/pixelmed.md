@@ -1,16 +1,14 @@
-# Pixelmed
-
 1.**Description of the platform/product**:
 
 * **name and version of the software**: Pixelmed Java Toolkit, [http://www.dclunie.com/pixelmed/software/20160907\_current/](http://www.dclunie.com/pixelmed/software/20160907_current/)
-* **free?** yes 
+* **free?** yes
 * **commercial?** no
 * **open source?** yes [http://www.dclunie.com/pixelmed/software/20160907\_current/](http://www.dclunie.com/pixelmed/software/20160907_current/)
 * **what DICOM library do you use?** no extra DICOM libraries
 
 2.**Description of the relevant features of the platform**:
 
-* **are both single and multiple segments supported?** not clear \(as tested by Andrey Fedorov\) 
+* **are both single and multiple segments supported?** not clear \(as tested by Andrey Fedorov\)
 * **how are the overlapping segments handled?** N/A
 * **do you support both BINARY and FRACTIONAL segmentation types?** not clear \(as tested by Andrey Fedorov\) TBD
 * **do you render the segment using the color specified in the DICOM object?** no
@@ -41,10 +39,10 @@ java -Xmx2g -Xms512m -XX:-UseGCOverheadLimit -cp "${PIXELMEDDIR}/pixelmed.jar:${
 
 | Test dataset | Result of rendering |
 | :--- | :--- |
-| 3D Slicer | ![](../../.gitbook/assets/slicer-read-td1.png) |
-| Brainlab | ![](../../.gitbook/assets/brainlab-read-td1.png) |
-| syngo.via | ![](../../.gitbook/assets/syngo-read-td1.png) |
-| AIMonClearCanvas | ![](../../.gitbook/assets/clearcanvas-read-td1.png) |
+| 3D Slicer | ![](../pixelmed/slicer-read-td1.png) |
+| Brainlab | ![](../pixelmed//brainlab-read-td1.png) |
+| syngo.via | ![](../pixelmed//syngo-read-td1.png) |
+| AIMonClearCanvas | ![](../pixelmed//clearcanvas-read-td1.png) |
 
 **Test dataset \#2**
 
@@ -55,7 +53,7 @@ java -Xmx2g -Xms512m -XX:-UseGCOverheadLimit -cp "${PIXELMEDDIR}/pixelmed.jar:${
 
 Notes:
 
-* Appears that only one segment can be displayed in a slice at a time. 
+* Appears that only one segment can be displayed in a slice at a time.
 * Possible errors rendering Brainlab dataset. Runtime errors:
 
 ```text
@@ -71,15 +69,14 @@ Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException:
 
 | Test dataset | Result of rendering |
 | :--- | :--- |
-| 3D Slicer | ![](../../.gitbook/assets/slicer-read-td3.png) |
+| 3D Slicer | ![](../pixelmed/slicer-read-td3.png) |
 
 **Test dataset \#4**
 
 | Test dataset | Result of rendering |
 | :--- | :--- |
-| 3D Slicer | ![](../../.gitbook/assets/slicer-read-td4.png) |
+| 3D Slicer | ![](../pixelmed/slicer-read-td4.png) |
 
 4.**Write task**
 
 Application evaluated is viewer only. Pixelmed has capabilities of writing DICOM SEG objects, but those were not evaluated.
-

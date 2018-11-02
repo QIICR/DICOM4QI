@@ -24,25 +24,25 @@
 
   | Test dataset | Result of rendering |
   | -- | -- |
-  | 3D Slicer | <img src="./brainlab/brainlab-read-lidc.png" width=250> |
+  | 3D Slicer | <img src="../brainlab/brainlab-read-lidc.png" width=250> |
 
   **Test dataset \#2**
 
   | Test dataset | Result of rendering |
   | -- | -- |
-  | Brainlab | <img src="./brainlab/brainlab-read-seg2.png" width=250> |
+  | Brainlab | <img src="../brainlab/brainlab-read-seg2.png" width=250> |
 
   **Test dataset \#3**
 
   | Test dataset | Result of rendering |
   | -- | -- |
-  | 3D Slicer | <img src="brainlab/brainlab-read-hnc.jpg" width=250> <img src="./brainlab/brainlab-read-hnc-measurements.jpg" width=250>|
+  | 3D Slicer | <img src="../brainlab/brainlab-read-hnc.jpg" width=250> <img src="../brainlab/brainlab-read-hnc-measurements.jpg" width=250>|
 
   **Test dataset \#4**
 
   | Test dataset | Result of rendering |
   | -- | -- |
-  | 3D Slicer | <img src="./brainlab/brainlab-read-prostate.jpg" width=250> |
+  | 3D Slicer | <img src="../brainlab/brainlab-read-prostate.jpg" width=250> |
 
   4.**Write task**
 
@@ -57,5 +57,5 @@ Warning - Unrecognized defined term <99BL-GEN> for value 1 of attribute <Coding 
 
   | Output dataset | Result of rendering in Brainlab|
   | -- | -- |
-  | [#3 write result](http://slicer.kitware.com/midas3/download/item/266127/SEG_BL_DataSet3_compressed.dcm) | <img src="brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250> |
-  | [#4 write result](http://slicer.kitware.com/midas3/download/item/266126/SEG_BL_DataSet4_compressed.dcm) | <img src="brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250>  |
+  | [#3 write result](http://slicer.kitware.com/midas3/download/item/266127/SEG_BL_DataSet3_compressed.dcm) | <img src="../brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="../brainlab/DataSet3_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250> |
+  | [#4 write result](http://slicer.kitware.com/midas3/download/item/266126/SEG_BL_DataSet4_compressed.dcm) | <img src="../brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush.JPG" width=250> <img src="../brainlab/DataSet4_FromSmartbrush_ReadByBrainlabSmartbrush_UI.JPG" width=250>  |

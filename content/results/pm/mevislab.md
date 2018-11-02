@@ -1,5 +1,3 @@
-# MeVisLab
-
 Tasks for participants:
 
 1. **Description of the platform/product**:
@@ -15,9 +13,8 @@ Tasks for participants:
 
 ## Test dataset \#1
 
-![](../../.gitbook/assets/mevislab-pm-test1.png)
+![](../mevislab/mevislab-pm-test1.png)
 
 ## Test dataset \#2
 
-![](../../.gitbook/assets/mevislab-pm-test2.png)
-
+![](../mevislab/mevislab-pm-test2.png)

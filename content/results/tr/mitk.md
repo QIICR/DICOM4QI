@@ -1,5 +1,3 @@
-# MITK
-
 1. **Description of the platform/product**:
    * **name and version of the software**: MITK Workbench \(not yet released, the TR support features are available in the `master` of the source code, and will appear in the next stable release\)
    * **free?** yes - [http://mitk.org/Downloads](http://mitk.org/Downloads)
@@ -18,176 +16,87 @@
 
 ## 2. Read task: TR objects from each platform, loaded and displayed in MITK.
 
-|  |
-| :--- |
-
-
-| MITK | BrainLab | 3D Slicer |
-| :--- | :--- | :--- |
-
-
-| MITK\_dataset\_1.dcm | TrackSet\_DataSet1.dcm | 3DSlicer\_dataset\[..\]-v2.dcm |
-| :--- | :--- | :--- |
-
-
-|  |
-| :--- |
-
-
-  
-  
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_1_3d_view1_tube.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_1_sagittal.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_1_axial.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset_1_2d.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset_1_3d.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_dataset_1_2d.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_dataset_1_3d.png)
-
-|  |
-| :--- |
-
-
-  
-&lt;/tr&gt;
-
-| MITK\_dataset\_2.dcm | N/A | 3DSlicer\_dataset\_2\[..\].dcm |
-| :--- | :--- | :--- |
-
-
-|  |
-| :--- |
-
-
-  
-   
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_2_3d_view1_tube.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_2_sagittal.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/mitk_dataset_2_axial.png)
-
-|  |
-| :--- |
-
-
-|  |
-| :--- |
-
-
-|  |
-| :--- |
-
-
-  
-     
-
-![](../../.gitbook/assets/slicer_dataset_2_2d.png)
-
-  
-     
-
-![](../../.gitbook/assets/slicer_dataset_2_3d.png)
-
-&lt;/td&gt;
-
-&lt;/tr&gt;
-
-| N/A | TrackSet\_DataSet3.dcm | dataset\_3\_GeSignaHDx.dcm |
-| :--- | :--- | :--- |
-
-
-|  |
-| :--- |
-
-
-  
-  
-
-|  N/A |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/brainlab_dataset_3_3d.png)
-
-|  |
-| :--- |
-
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_dataset_3_2d.png)
-
-|   |
-| :--- |
-
-
-![](../../.gitbook/assets/slicer_dataset_3_3d.png)
-
-|  |
-| :--- |
+<table>
+<tr>
+  <td width="33%">MITK</td>
+  <td width="33%">BrainLab</td>
+  <td width="33%">3D Slicer</td>
+</tr>
+
+
+<!-- dataset_1 -->
+<tr>
+  <td><i>MITK_dataset_1.dcm</i></td>
+  <td><i>TrackSet_DataSet1.dcm</i></td>
+  <td><i>3DSlicer_dataset[..]-v2.dcm</i></td>
+</tr>
+
+<tr>
+  <td>
+    <img src="../mitk/mitk_dataset_1_3D_View1_tube.png" width="200">
+    <img src="../mitk/mitk_dataset_1_sagittal.png" width="200">
+    <img src="../mitk/mitk_dataset_1_axial.png" width="200">
+  </td>
+
+   <td>
+    <img src="../mitk/brainlab_dataset_1_2D.png" width="200">
+    <img src="../mitk/brainlab_dataset_1_3D.png" width="200">
+   </td>
+
+   <td>
+    <img src="../mitk/slicer_dataset_1_2D.png" width="200">
+    <img src="../mitk/slicer_dataset_1_3D.png" width="200">
+   </td>
+</tr>
+
+
+<!-- dataset_2 -->
+<tr>
+  <td><i>MITK_dataset_2.dcm</i></td>
+  <td><i>N/A</i></td>
+  <td><i>3DSlicer_dataset_2[..].dcm</i></td>
+</tr>
+
+<tr>
+   <td>
+    <img src="../mitk/mitk_dataset_2_3D_View1_tube.png" width="200">
+    <img src="../mitk/mitk_dataset_2_sagittal.png" width="200">
+    <img src="../mitk/mitk_dataset_2_axial.png" width="200">
+   </td>
+
+   <td><!-- BrainLab n/a --></td>
+
+   <td>
+     <img src="../mitk/slicer_dataset_2_2D.png" width="200">
+     <img src="../mitk/slicer_dataset_2_3D.png" width="200">
+
+   </td>
+
+</tr>
+
+<!-- dataset_3 -->
+<tr>
+  <td>N/A</td>
+  <td><i>TrackSet_DataSet3.dcm</i></td>
+  <td><i>dataset_3_GeSignaHDx.dcm</i></td>
+</tr>
+
+<tr>
+  <td>
+  N/A
+  </td>
+
+  <td>
+  <img src="../mitk/brainlab_dataset_3_3D.png" width="200">
+  </td>
+
+  <td>
+  <img src="../mitk/slicer_dataset_3_2D.png" width="200">
+  <img src="../mitk/slicer_dataset_3_3D.png" width="200">
+  </td>
+
+</tr>
+</table>
 
 
 &lt;/tr&gt;  
@@ -200,4 +109,3 @@
 ### Results of validation using `dciodvfy`
 
 Pending
-

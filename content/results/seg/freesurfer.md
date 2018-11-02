@@ -1,5 +1,3 @@
-# FreeSurfer
-
 **Note**: FreeSurfer is a set of software tools for brain segmentation of MRI data. As such, non-brain imaging applications do not apply, and the tasks defined for DICOM4QI SEG component cannot be addressed. However, DICOM SEG is applicable, and functionality is included to encode brain region segmentations. Therefore, the platform is included.
 
 1. Description of the platform/product:
@@ -8,7 +6,7 @@
    * **commercial?**: no
    * **open source?**: [yes](https://github.com/freesurfer/freesurfer)
    * **what DICOM library do you use?**: [DCMQI](https://github.com/QIICR/dcmqi) to write DICOM-SEG
-   * **Description of the relevant features of the platform**: Freesurfer's [subcortical segmentation results](http://surfer.nmr.mgh.harvard.edu/fswiki/SubcorticalSegmentation/) can be converted to DICOM-SEG using [`fs-aseg.json`](https://github.com/corticometrics/fs2dicom/blob/master/fs-aseg.json) that has been kindly provided by Emily Lindemer. 
+   * **Description of the relevant features of the platform**: Freesurfer's [subcortical segmentation results](http://surfer.nmr.mgh.harvard.edu/fswiki/SubcorticalSegmentation/) can be converted to DICOM-SEG using [`fs-aseg.json`](https://github.com/corticometrics/fs2dicom/blob/master/fs-aseg.json) that has been kindly provided by Emily Lindemer.
    * **are both single and multiple segments supported?**: Yes, however Freesurfer's subcortical segmentation process assumes a mutually exclusive label set.
    * **do you support both BINARY and FRACTIONAL segmentation types?** BINARY only.
    * **do you support compressed objects?** I beleive itkimage2segimage can read compressed itk objects but does not write compressed DICOM objects\(?\)
@@ -67,4 +65,3 @@ Currently dciodvfy genertes the following errors:
   Segmentation
   Error - Unrecognized enumerated value <CLEANED> for value 1 of attribute <Patient's Sex>
   ```
-

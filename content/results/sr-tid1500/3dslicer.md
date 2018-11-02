@@ -1,5 +1,3 @@
-# 3D Slicer
-
 1.**Description of the platform/product**:
 
 * **name and version of the software**: 3D Slicer, Nightly release 4.7.0-2016-11-27, with [QuantitativeReporting](https://github.com/QIICR/QuantitativeReporting) extension installed
@@ -17,13 +15,12 @@
 
 ## Test dataset \#1
 
-![](../../.gitbook/assets/slicer-sr-read-td1.png)
+![](../slicer/slicer-sr-read-td1.png)
 
 ## Test dataset \#2
 
-![](../../.gitbook/assets/slicer-sr-read-td2.jpg)
+![](../slicer/slicer-sr-read-td2.jpg)
 
 1. **Write task**
 
 TBD
-

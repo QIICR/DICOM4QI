@@ -1,5 +1,3 @@
-# dcmjs+cornerstone
-
 **Note:** [dcmjs](http://github.com/pieper/dcmjs) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.  It is currently able to convert to and from binary \(part 10\) DICOM and JavaScript objects.  Use the github project for issues and questions or contact Steve Pieper \(pieper@isomics.com\).
 
 The core functionality of reading and writing segmentations is available but has not yet been verified with all datasets for the connectathon.
@@ -28,7 +26,7 @@ See [live demo pulling qiicr data from TCIA](https://pieper.github.io/dcmjs/exam
 
 See [live demo allowing drag and drop of reference images and segmentations](https://pieper.github.io/dcmjs/examples/display2/).
 
-![](../../.gitbook/assets/dcmjs-qiicr-tcia-seg.png)
+![](../dcmjs/dcmjs-qiicr-tcia-seg.png)
 
 Testing of the read tasks is underway.  Several incompatibilities need to be investigated.
 
@@ -42,13 +40,13 @@ TBD
 **Test dataset \#4**  
 TBD
 
- **Longitudinal Annotation dataset** 
+ **Longitudinal Annotation dataset**
 
-![](../../.gitbook/assets/dcmjs-rider-2017.png)
+![](../dcmjs/dcmjs-rider-2017.png)
 
- **Freesurfer / Corticometrix dataset** 
+ **Freesurfer / Corticometrix dataset**
 
-![](../../.gitbook/assets/dcmjs-freesurfer.png)
+![](../dcmjs/dcmjs-freesurfer.png)
 
 4.**Write task**
 
@@ -56,5 +54,4 @@ For now a [simple live demo](https://pieper.github.io/dcmjs/examples/createSegme
 
 Example output [is available for download](https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0)
 
-![](../../.gitbook/assets/dcmjs-qiicr-save-seg.png)
-
+![](../dcmjs/dcmjs-qiicr-save-seg.png)

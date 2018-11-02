@@ -1,5 +1,3 @@
-# OsiriX
-
 **DISCLAIMER: These tests were performed by Andrey Fedorov using publicly available version of the software. Representatives of OsiriX were not involved in the presented evaluation.**
 
 1.**Description of the platform/product**:
@@ -14,15 +12,14 @@
   * no quantity or units are communicated to the user
   * not clear whether there is any functionality that generates parametric map modality output
 
-1. **Read task** \(for each dataset!\)
+1. **Read task**
 
 ## Test dataset \#1
 
-![](../../.gitbook/assets/osirix-pm-test1.png)
+![](../osirix/osirix-pm-test1.png)
 
 ## Test dataset \#2
 
 Note thumbnails are not rendered properly.
 
-![](../../.gitbook/assets/osirix-pm-test2.png)
-
+![](../osirix/osirix-pm-test2.png)

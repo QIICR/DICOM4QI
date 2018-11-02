@@ -1,7 +1,5 @@
 # vtk-dicom
 
-Tasks for participants:
-
 1.**Description of the platform/product**:
 
 * **name and version of the software**: vtk-dicom v0.8.6
@@ -15,15 +13,12 @@ Tasks for participants:
   * it provides a DICOM to NIfTI converter \(dicomtonifti\) that supports parametric maps
   * it provides a NIfTI to DICOM converter \(niftitodicom\), but parametric maps are not yet supported in this direction \(as of Oct 2017\)
 
-1. **Read task** \(for each dataset!\)
-   * load each of the DICOM Parametric map datasets into your platform
-   * submit a screenshot demonstrating the presentation of the loaded parametric maps to the user by email to Andrey Fedorov
+1. **Read task**
 
 ## Test dataset \#1
 
-![](../../.gitbook/assets/vtk-dicom-pm-test1.png)
+![](../vtk-dicom/vtk-dicom-pm-test1.png)
 
 ## Test dataset \#2
 
-![](../../.gitbook/assets/vtk-dicom-pm-test2.png)
-
+![](../vtk-dicom/vtk-dicom-pm-test2.png)

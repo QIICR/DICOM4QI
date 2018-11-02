@@ -1,5 +1,3 @@
-# AMI
-
 1.**Description of the platform/product:**
 
 * **name and version of the software?** AMI \(Medical Imaging Javascript Toolkit\) - v0.0.12+
@@ -20,31 +18,28 @@
 
 3.**Read task:**
 
-**Test dataset \#1**
+| Test dataset   | Result of rendering                                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------------------------------|
+| 3D Slicer | <img src="../ami/ami-slicer-td1.jpg" alt="Drawing"  width="256" height="256"/> |
 
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+**Test dataset #2**
 
-**Test dataset \#2**
+| Test dataset   | Result of rendering                                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------------------------------|
+| 3D Slicer | <img src="../ami/ami-slicer-td2.jpg" alt="Drawing"  width="256" height="256"/> |
 
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+**Test dataset #3**
 
-**Test dataset \#3**
+| Test dataset   | Result of rendering                                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------------------------------|
+| 3D Slicer | <img src="../ami/ami-slicer-td3.jpg" alt="Drawing"  width="256" height="256"/> |
 
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+**Test dataset #4**
 
-**Test dataset \#4**
-
-| Test dataset | Result of rendering |
-| :--- | :--- |
-| 3D Slicer |   |
+| Test dataset   | Result of rendering                                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------------------------------|
+| 3D Slicer | <img src="../ami/ami-slicer-td4.jpg" alt="Drawing"  width="256" height="256"/> |
 
 4.**Write task:**
 
 not supported at this time
-

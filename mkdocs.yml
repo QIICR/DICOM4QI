@@ -29,7 +29,35 @@ pages:
       - 3D Slicer: results/seg/3dslicer.md
       - ePAD: results/seg/epad.md
       - Brainlab: results/seg/brainlab.md
+      - AIM on ClearCanvas: results/seg/aimclearcanvas.md
+      - Siemens syngo.via: results/seg/syngovia.md
+      - MeVisLab: results/seg/mevislab.md
+      - MITK: results/seg/mitk.md
+      - Mint: results/seg/mint.md
+      - AMI: results/seg/ami.md
+      - Pixelmed: results/seg/pixelmed.md
+      - dcmjs+cornerstone: results/seg/dcmjs+cornerstone.md
+      - FreeSurfer: results/seg/freesurfer.md
+  - Results - Measurements (DICOM SR TID1500):
+      - Summary: results/sr-tid1500/index.md
+      - ePAD: results/sr-tid1500/epad.md
+      - 3D Slicer: results/sr-tid1500/3dslicer.md
+  - Results - Parametric maps:
+      - Summary: results/pm/index.md
+      - MeVisLab: results/pm/mevislab.md
+      - 3D Slicer: results/pm/slicer.md
+      - OsiriX: results/pm/osirix.md
+      - ePAD: results/pm/epad.md
+      - vtk-dicom: results/pm/vtk-dicom.md
+      - Cornerstone: results/pm/cornerstone.md
+  - Results - Tractography:
+      - Summary: results/tr/index.md
+      - 3D Slicer: results/tr/slicer.md
+      - Brainlab: results/tr/brainlab.md
+      - MITK: results/tr/mitk.md
+      - Prism: results/tr/prism.md
   - History: history.md
+  - Acknowledgments: acks.md
   - Referencs: refs.md
 
 markdown_extensions:
