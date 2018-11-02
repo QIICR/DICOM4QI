@@ -8,8 +8,8 @@ repo_name: dicom4qi
 docs_dir: content
 
 theme:
-  name: readthedocs
-  #name: material
+  #name: readthedocs
+  name: material
   #custom_dir: custom_theme
 
 pages:
