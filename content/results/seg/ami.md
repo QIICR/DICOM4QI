@@ -20,25 +20,25 @@
 
 | Test dataset   | Result of rendering                                                                                                  |
 |----------------|----------------------------------------------------------------------------------------------------------------------|
-| 3D Slicer | <img src="../ami/ami-slicer-td1.jpg" alt="Drawing"  width="256" height="256"/> |
+| 3D Slicer | <img src="../AMI/ami-slicer-td1.jpg" alt="Drawing"  width="256" height="256"/> |
 
 **Test dataset #2**
 
 | Test dataset   | Result of rendering                                                                                                  |
 |----------------|----------------------------------------------------------------------------------------------------------------------|
-| 3D Slicer | <img src="../ami/ami-slicer-td2.jpg" alt="Drawing"  width="256" height="256"/> |
+| 3D Slicer | <img src="../AMI/ami-slicer-td2.jpg" alt="Drawing"  width="256" height="256"/> |
 
 **Test dataset #3**
 
 | Test dataset   | Result of rendering                                                                                                  |
 |----------------|----------------------------------------------------------------------------------------------------------------------|
-| 3D Slicer | <img src="../ami/ami-slicer-td3.jpg" alt="Drawing"  width="256" height="256"/> |
+| 3D Slicer | <img src="../AMI/ami-slicer-td3.jpg" alt="Drawing"  width="256" height="256"/> |
 
 **Test dataset #4**
 
 | Test dataset   | Result of rendering                                                                                                  |
 |----------------|----------------------------------------------------------------------------------------------------------------------|
-| 3D Slicer | <img src="../ami/ami-slicer-td4.jpg" alt="Drawing"  width="256" height="256"/> |
+| 3D Slicer | <img src="../AMI/ami-slicer-td4.jpg" alt="Drawing"  width="256" height="256"/> |
 
 4.**Write task:**
 

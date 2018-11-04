@@ -52,7 +52,7 @@ The imaging dataset is a chest CT with a single lung lesion located in the right
 
 **Image**: Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below \(visualized in 3D Slicer software\).
 
-<img src="/images/lidc-idri-0314_screenshot.png">
+<img src="../../images/lidc-idri-0314_screenshot.png">
 
 **Segmentation**: Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3774) \(data is organized in subfolders corresponding to the individual platforms\).
 
@@ -62,7 +62,7 @@ The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-
 
 **Image**: Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245508/QIN-HEADNECK-01-0024-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/245509/QIN-HEADNECK-01-0024-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below \(visualized in 3D Slicer software\).
 
-<img src="/images/qin-headneck-01-0024_screenshot.png">
+<img src="../../images/qin-headneck-01-0024_screenshot.png">
 
 **Segmentation**: Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3786) \(data is organized in subfolders corresponding to the individual platforms\).
 
@@ -72,8 +72,8 @@ The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-
 
 **Image**: Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/257233/QIN-HEADNECK-01-0139-CT.zip), and PET series [here](http://slicer.kitware.com/midas3/download/item/257234/QIN-HEADNECK-01-0139-PET.zip). Lesions are more prominent on the PET series, as shown in the screenshot below \(visualized in 3D Slicer software\).
 
-<img src="/images/qin-headneck-01-0139_screenshot1.png">
-<img src="/images/qin-headneck-01-0139_screenshot2.png">
+<img src="../../images/qin-headneck-01-0139_screenshot1.png">
+<img src="../../images/qin-headneck-01-0139_screenshot2.png">
 
 **Segmentation**: Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3858) (data is organized in sub-folders corresponding to the individual platforms).
 
@@ -83,6 +83,6 @@ The imaging dataset consists of an MR series for subject QIN-PROSTATE-001 from t
 
 **Image**: Download the zip archive of the MR series [here](http://slicer.kitware.com/midas3/download/item/257242/701-ADCb500.zip). Lesion is shown in the screenshot below \(visualized in 3D Slicer software\).
 
-<img src="/images/qin-prostate-001_seg_screenshot.png">
+<img src="../../images/qin-prostate-001_seg_screenshot.png">
 
 **Segmentation**: Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3888) (data is organized in subfolders corresponding to the individual platforms).
