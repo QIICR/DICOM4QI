@@ -63,3 +63,5 @@ pages:
 markdown_extensions:
     - toc:
         permalink: 
+
+google_analytics: ['UA-44852938-11', 'dicom4qi.readthedocs.io']
