@@ -5,7 +5,7 @@ site_author: QIICR
 repo_url: https://github.com/qiicr/dicom4qi
 repo_name: dicom4qi
 
-docs_dir: content
+docs_dir: docs
 
 theme:
   name: material
