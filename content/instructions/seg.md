@@ -52,7 +52,7 @@ The imaging dataset is a chest CT with a single lung lesion located in the right
 
 **Image**: Download the zip archive of the CT series [here](http://slicer.kitware.com/midas3/download/item/245513/LIDC-IDRI-0314-CT.zip). The location of the lesion is highlighted below \(visualized in 3D Slicer software\).
 
-<img src="../../images/lidc-idri-0314_screenshot.png">
+<img src="../../images/LIDC-IDRI-0314_screenshot.png">
 
 **Segmentation**: Download the DICOM SEG datasets produced by the platforms that already submitted results [here](http://slicer.kitware.com/midas3/folder/3774) \(data is organized in subfolders corresponding to the individual platforms\).
 
