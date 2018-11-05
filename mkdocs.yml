@@ -16,14 +16,14 @@ pages:
   - Introduction: index.md
   - Scope: scope.md
   - Participants: participants.md
-  - Instructions for participants:
-      - General instructions: instructions/instructions.md
-      - Segmentations: instructions/seg.md
-      - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
-      - Parametric maps: instructions/pm.md
-      - Longitudinal annotation: instructions/longitudinal.md
-      - Tractography (DICOM TR): instructions/tr.md
-      - Results organization: results/index.md
+  - Instructions for participants: instructions.md
+  #    - General instructions: instructions/instructions.md
+  #    - Segmentations: instructions/seg.md
+  #    - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
+  #    - Parametric maps: instructions/pm.md
+  #    - Longitudinal annotation: instructions/longitudinal.md
+  #    - Tractography (DICOM TR): instructions/tr.md
+  #    - Results organization: results/index.md
   - Results - Segmentation:
       - Summary: results/seg/index.md
       - 3D Slicer: results/seg/3dslicer.md
