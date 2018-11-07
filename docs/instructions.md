@@ -21,4 +21,6 @@ Each participant is asked to complete the following tasks:
 
 Your submission **must** include the details about the platform you used to generate the results \(name of the product/platform, version\). If your platform is available publicly, please include access instructions.
 
-To participate and submit results, please use this DICOM4QI Submission Google Form: [http://bit.ly/dicom4qi-submit](http://bit.ly/dicom4qi-submit).
+**To participate and submit new results**, please use this DICOM4QI Submission Google Form: [http://bit.ly/dicom4qi-submit](http://bit.ly/dicom4qi-submit).
+
+**If you need to update existing content**, please use "edit" icon in the upper right corner of the page, or submit a pull request with changes to this repository on GitHub: [https://github.com/QIICR/DICOM4QI](https://github.com/QIICR/DICOM4QI). Once your PR is merged, the content will be updated automatically.
