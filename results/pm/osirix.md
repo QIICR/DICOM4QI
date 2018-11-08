@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # OsiriX
 
 **DISCLAIMER: These tests were performed by Andrey Fedorov using publicly available version of the software. Representatives of OsiriX were not involved in the presented evaluation.**

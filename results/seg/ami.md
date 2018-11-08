@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # AMI
 1.**Description of the platform/product:**
   * **name and version of the software?** AMI (Medical Imaging Javascript Toolkit) - v0.0.12+

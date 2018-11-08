@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # Siemens syngo.via
 
 **DISCLAIMER: This section was completed by Andrey Fedorov using the version of software installed at Brigham and Women's Hospital. Representatives of Siemens were not involved in the presented evaluation.**

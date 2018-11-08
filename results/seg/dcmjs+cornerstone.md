@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # dcmjs + cornerstone
 
 **Note:** [dcmjs](http://github.com/pieper/dcmjs) is a new library created from scratch to handle DICOM data manipulation in pure JavaScript.  It is currently able to convert to and from binary \(part 10\) DICOM and JavaScript objects.  Use the github project for issues and questions or contact Steve Pieper \(pieper@isomics.com\).

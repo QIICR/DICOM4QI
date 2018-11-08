@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # Results
 
 Results are structured as follows. There is one section for each of the 3 types of objects: Segmentation, TID1500 Structured Report and Parametric Map.

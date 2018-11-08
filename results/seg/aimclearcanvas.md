@@ -1,3 +1,6 @@
+| NOTE: As of November 2018, the new home of DICOM4QI is here: https://dicom4qi.readthedocs.io|
+| --- |
+
 # AIM on ClearCanvas
 
 **DISCLAIMER: These tests were performed by Andrey Fedorov using publicly available version of the software, since no response was obtained from the AIM on ClearCanvas group.**
