@@ -1,21 +1,8 @@
 
 | Tool name | Description of the platform| Read task | Write task |
 | -- | -- | -- | -- |
-| [3D Slicer](/results/sr/slicer.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| Brainlab | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| [ePAD](/results/sr/epad.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
-| AIM on ClearCanvas | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| MeVisLab | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| OHIF/Cornerstone | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| RadConnect | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| AMI | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| MITK | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| Mint Medical | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| XNAT | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| Koelis | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| Pixelmed DicomImageViewer | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| Siemens syngo.via | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
-| OsiriX Lite | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
+| [3D Slicer](3dslicer.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/waiting.png" width=25> |
+| [ePAD](epad.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
 
 
 ## Legend

@@ -1,9 +1,9 @@
 | Tool name | Description of the platform| Read task | Write task |
 | -- | -- | -- | -- |
-| [3D Slicer](/results/tr/slicer.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
-| [Brainlab](/results/tr/Brainlab.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
-| Prism | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
-| [MITK](/results/tr/mitk.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
+| [3D Slicer](slicer.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
+| [Brainlab](brainlab.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
+| [Prism](prism.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
+| [MITK](mitk.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
 
 
 ## Legend
