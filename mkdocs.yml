@@ -16,13 +16,13 @@ pages:
   - Introduction: index.md
   - Scope: scope.md
   - Participants: participants.md
-  - Instructions for participants: instructions.md
-  #    - General instructions: instructions/instructions.md
-  #    - Segmentations: instructions/seg.md
-  #    - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
-  #    - Parametric maps: instructions/pm.md
+  - Instructions for participants:
+      - Overview: instructions.md
+      - Segmentations: instructions/seg.md
+      - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
+      - Parametric maps: instructions/pm.md
   #    - Longitudinal annotation: instructions/longitudinal.md
-  #    - Tractography (DICOM TR): instructions/tr.md
+      - Tractography (DICOM TR): instructions/tr.md
   #    - Results organization: results/index.md
   - Results - Segmentation:
       - Summary: results/seg/index.md
@@ -62,6 +62,20 @@ pages:
 
 markdown_extensions:
     - toc:
-        permalink: 
+        permalink: True
+    - admonition
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.inlinehilite
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
 
 google_analytics: ['UA-44852938-11', 'dicom4qi.readthedocs.io']

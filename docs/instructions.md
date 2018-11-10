@@ -15,12 +15,22 @@ All of the test data is also available as a shared folder on Dropbox [here](http
 
 Each participant is asked to complete the following tasks:
 
-1. **Relevant features of the platform**: short narrative of how the platform implements support for the specific type of object, what features are implemented, what features are missing.
+1. **Describe the relevant features of the platform**: short narrative of how the platform implements support for the specific type of object, what features are implemented, what features are missing.
 2. **Read task**: Demonstrate how the provided test dataset is consumed and presented to the platform user. In this task we aim to evaluate both the accuracy of interpreting the specific test dataset, and the end-user usability.
 3. **Write task**: Generate a dataset of the type in question. The dataset will be used to test interoperability of your platform with the other platforms participating in the connectathon.
 
 Your submission **must** include the details about the platform you used to generate the results \(name of the product/platform, version\). If your platform is available publicly, please include access instructions.
 
-**To participate and submit new results**, please use this DICOM4QI Submission Google Form: [http://bit.ly/dicom4qi-submit](http://bit.ly/dicom4qi-submit).
+The datasets specific to each of the types of DICOM objects evaluated are described in the following sections.
+
+* [Segmentations](instructions/seg.md)
+* [Parametric maps](instructions/pm.md)
+* [Image-based measurements](instructions/sr-tid1500.md)
+* [Tractography](instructions/tr.md)
+
+**To participate and submit new results**, please use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit).
+
+!!! warning
+    The screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
 
 **If you need to update existing content**, please use "edit" icon in the upper right corner of the page, or submit a pull request with changes to this repository on GitHub: [https://github.com/QIICR/DICOM4QI](https://github.com/QIICR/DICOM4QI). Once your PR is merged, the content will be updated automatically.

@@ -1,35 +1,33 @@
-The purpose of this task is to demonstrate support of the DICOM Structured Reporting template TID1500 \(DICOM TID1500\) for storing measurements derived from volumetric segmentations.
+!!! info
+    When ready to submit, use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit)
 
-The basic read task involves loading the existing DICOM TID1500 object \(ideally, in the context of the source image series and the segmentation used to derived that measurement\), and demonstrating the user interface presenting the loaded measurements.
+The purpose of this task is to demonstrate support of the [DICOM Structured Reporting template TID1500 \(DICOM TID1500\)](http://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_A.html#sect_TID_1500) for storing measurements derived from volumetric segmentations.
 
-Write task involves generation of a new DICOM TID1500 dataset for a specified combination of the input image series and the volumetric segmentation defined as DICOM SEG.
+!!! info
+    * all datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/srtqgxj70m4husr/AAD_6Hr8nBHQdWJSQaepnK6ja?dl=0)
+    * submit the resulting screenshots and datasets by uploading the zip file with the screenshots and resulting objects to [this Dropbox FileRequests location](https://www.dropbox.com/request/BtulA0HY0WEQr64Tfh8e). Make sure that the file is named to include the name of your platform!
 
-## Tasks for participants
+At this time, the only samples we have were created using [dcmqi](https://github.com/qiicr/dcmqi). As we receive more samples, this list will be updated.
 
-1. **Description of the platform/product**:
-   * **name and version of the software** used for testing
-   * **free?** if yes - include the download link
-   * **commercial?** if yes - include the home page for the product
-   * **open source?** if yes - provide a link to source code
-   * **what DICOM library do you use?** - if you use certain DICOM toolkit to support this functionality, please list it, if possible
-   * **Description of the relevant features of the platform**:
-     * please provide the screenshot of the user interface for the functionality specific to creating/displaying measurements
-     * how do you communicate measurement semantics to the user?
-2. **Read task** \(for each dataset!\)
-   * load each of the DICOM SR datasets that accompany the imaging series into your platform
-   * submit a screenshot demonstrating the presentation of the loaded measurements to the user by email to Andrey Fedorov
-3. **Write tasks**
-   * given the image series and the segmentation defining the ROI, calculate any measurements over the ROI and save as DICOM SR following TID1500 reporting template
-   * run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html) and [Pixelmed DicomSRValidator](http://www.pixelmed.com/dicomtoolkit.html); iterate on resolving the identified issues as necessary
-   * send the resulting objects and the results of **dciodvfy** and **DicomSRValidator**, explaining any discrepancies found, to Andrey Fedorov by email
+## Read task
 
-Note: the screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
+Load each of the DICOM SR TID1500 datasets into your platform. Submit a screenshot demonstrating the presentation of the loaded measurements to the user.
 
-### Test dataset #1
+## Write task
 
-This is a dataset consisting of 3 slices of a [liver CT series](http://slicer.kitware.com/midas3/download/item/257238/liver-3slices-CT.zip), and rough [segmentation of the liver defining ROI](http://slicer.kitware.com/midas3/download/item/257239/liver.dcm) for calculating the measurements.
+**Datasets 1 and 2**: Given the image series and the segmentation defining the ROI, calculate any measurements over the ROI and save as DICOM SR following TID1500 reporting template.
 
-The [SR dataset](http://slicer.kitware.com/midas3/download/item/257240/sr-tid1500-ct-liver-example.dcm) contains measurements calculated over the segmentation from the CT slices.
+**Dataset 3**: calculate radiomics features for the given image and volumetric segmentations, and save the result as a DICOM SR TID1500 instance.
+
+**Dataset 4**: define unidimensional linear annotation for the given image, and save the annotation alongside the length measurement as a DICOM SR TID1500 instance.
+
+Run `dciodvfy` DICOM validator and `Pixelmed DicomSRValidator`; iterate on resolving the identified issues as necessary.
+
+## Dataset 1
+
+This is a dataset consisting of 3 slices of a liver CT series, and rough segmentation of the liver defining ROI for calculating the measurements.
+
+The SR dataset contains measurements calculated over the segmentation from the CT slices.
 
 The measurements stored in the SR dataset are the following:
 
@@ -40,16 +38,18 @@ The measurements stored in the SR dataset are the following:
 * Volume = 70361.9 cubic millimeter
 * Volume = 70.3619 cubic centimeter
 
-### Test dataset #2
+## Dataset 2
 
-[This SR dataset](http://slicer.kitware.com/midas3/download/item/262094/Measurements_User2_SemiAuto_Trial2.dcm) contains measurements over the segmentations of tumor and "hot" lymph nodes in [SEG Test dataset #3](/instructions/seg/#test-dataset-3).
+This SR dataset contains measurements over the segmentations of tumor and "hot" lymph nodes in Segmentation Test dataset #3.
 
-The types of measurements stored in this object are described in detail in [this article](https://peerj.com/articles/2057/). There is a separate group of measurements for each of the segments in the referenced segmentation object.
+The types of measurements stored in this object are described in detail in this article: https://peerj.com/articles/2057/. There is a separate group of measurements for each of the segments in the referenced segmentation object.
 
-### Test dataset #3
+## Dataset 3
 
-Radiomics features - TODO!
+This SR dataset contains radiomics features (the total of 1561) generated using [pyradiomics](https://github.com/Radiomics/pyradiomics) and [dcmqi](https://github.com/qiicr/dcmqi), and specifically [this script](https://github.com/Radiomics/pyradiomics/tree/master/labs/pyradiomics-dcm) for the Segmentation Test dataset #1.
 
-### Test dataset #4
+Radiomics features are encoded using terminology and codes defined by the Imaging Biomarkers Standardization Initiative (IBSI), as described in [v7 of the IBSI document](https://arxiv.org/abs/1612.07003).
 
-Planar measurements - TODO!
+## Dataset 4
+
+This SR dataset was created using Pixelmed tools. It contains planimetric annotation of the largest tumor diameter, and length of that diameter. The dataset was collected as part of the Crowds Cure Cancer initiative (see details [here](https://wiki.cancerimagingarchive.net/display/DOI/Crowds+Cure+Cancer%3A+Data+collected+at+the+RSNA+2017+annual+meeting)).The specific dataset corresponds to subject TCGA-BP-4343, series 3, from the [TCIA TCGA-KIRC collection](https://wiki.cancerimagingarchive.net/display/Public/TCGA-KIRC).
