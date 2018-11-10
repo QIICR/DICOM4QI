@@ -18,7 +18,7 @@ pages:
   - Participants: participants.md
   - Instructions for participants:
       - Overview: instructions.md
-      - Segmentations: instructions/seg.md
+      - Segmentation: instructions/seg.md
       - Measurements (DICOM SR TID1500): instructions/sr-tid1500.md
       - Parametric maps: instructions/pm.md
   #    - Longitudinal annotation: instructions/longitudinal.md

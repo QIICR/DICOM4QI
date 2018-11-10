@@ -5,4 +5,4 @@ The current scope of the exhibit covered exchange of the following types of data
 * **DICOM Structured reporting of measurements** using SR template 1500 \(**SR-TID1500**\) can be used to communicate measurements over the image region defined by, for example, a SEG object.
 * **DICOM Tractography Results object \(TR\)**, encoding the Diffusion MRI fiber tractography.
 
-For the details about the individual types of object see [Instructions](/instructions/instructions/).
+For the details about the individual types of object see [Instructions](instructions.md).
