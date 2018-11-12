@@ -28,9 +28,13 @@ The datasets specific to each of the types of DICOM objects evaluated are descri
 * [Image-based measurements](instructions/sr-tid1500.md)
 * [Tractography](instructions/tr.md)
 
-**To participate and submit new results**, please use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit).
+## To participate and submit new results
+
+Please use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit).
 
 !!! warning
     The screenshots and the DICOM objects you submit will be distributed publicly and included in this document in the Results section.
 
-**If you need to update existing content**, please use "edit" icon in the upper right corner of the page, or submit a pull request with changes to this repository on GitHub: [https://github.com/QIICR/DICOM4QI](https://github.com/QIICR/DICOM4QI). Once your PR is merged, the content will be updated automatically.
+## To update existing content
+
+Please use "edit" icon in the upper right corner of the page, or submit a pull request with changes to this repository on GitHub: [https://github.com/QIICR/DICOM4QI](https://github.com/QIICR/DICOM4QI). Once your PR is merged, the content will be updated automatically.
