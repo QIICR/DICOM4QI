@@ -40,3 +40,7 @@ The imaging dataset is a chest CT with a single lung lesion located in the right
 ## Dataset 3
 
 The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-0139 from the TCIA [QIN-HEADNECK collection](https://wiki.cancerimagingarchive.net/display/Public/QIN-HEADNECK). This data set contains 11 lesions. This allows to test that the implementation can handle more than one segment.
+
+## Dataset 5
+
+This dataset is a manually created "phantom" that can be used to test correctness of the implementation of bit packing procedures of the implementation. The frame size of this 3-slice dataset is 23x38, which is not divisible by 8, causing the bit-packed representation of the frame not aligning with the byte boundary. The middle slice of the image should show a round region, and the pixels toggled in the segmentation should match those in the image. Segmentation also has pixels toggled in 4 corners of each of the 3 slices.

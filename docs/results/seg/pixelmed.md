@@ -77,6 +77,12 @@ Exception in thread "AWT-EventQueue-0" java.lang.ArrayIndexOutOfBoundsException:
 | :--- | :--- |
 | 3D Slicer | ![](../pixelmed/slicer-read-td4.png) |
 
+**Test dataset \#5**
+
+| Test dataset | Result of rendering |
+| :--- | :--- |
+| dcmqi | <img src="../pixelmed/pixelmed-seg-read-td5.png" width=250> |
+
 4.**Write task**
 
 Application evaluated is viewer only. Pixelmed has capabilities of writing DICOM SEG objects, but those were not evaluated.

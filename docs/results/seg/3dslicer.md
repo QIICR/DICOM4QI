@@ -52,6 +52,12 @@ Note: Brainlab dataset could not be loaded, since it does not have SliceThicknes
 | -- | -- |
 | 3D Slicer | <img src="../slicer/slicer-read-td4.png" width="50%"> |
 
+**Test dataset 5**
+
+| Test dataset | Result of rendering |
+| -- | -- |
+| dcmqi | <img src="../slicer/slicer-read-seg-td5.png" width="50%"> |
+
 4.**Write task**
 
 * segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!

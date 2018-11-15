@@ -44,6 +44,12 @@
   | -- | -- |
   | 3D Slicer | <img src="../brainlab/brainlab-read-prostate.jpg" width=250> |
 
+  **Test dataset \#5**
+
+  | Test dataset | Result of rendering |
+  | -- | -- |
+  | dcmqi | <img src="../brainlab/brainlab-read-seg-td5.jpg" width=250> |
+
   4.**Write task**
 
   `dciodvfy` checks produce no errors:
