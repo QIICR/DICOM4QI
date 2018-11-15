@@ -1,7 +1,7 @@
 !!! info
     When ready to submit, use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit)
 
-The purpose of this task is to demonstrate support of the [DICOM Tractography Results](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.78.html) \(DICOM TR\) object.
+The purpose of this task is to demonstrate support of the [DICOM Tractography Results](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.78.html) \(DICOM TR\) object. Following our successful connectathon at RSNA 2017, we propose expanded tasks that test another feature of the standard: reading, writing, and visualization of diffusion data (specifically, fractional anisotropy) along the tractography streamlines. 
 
 The basic read task involves loading the existing DICOM TR object, and demonstrating visualization of the tractography relative to the reference image.
 
@@ -22,6 +22,7 @@ Load each of the DICOM TR datasets that accompany the imaging series into your p
 
 * demonstrate the 2D overlay of the track sets on the B0 series (if possible)
 * demonstrate several 3D perspectives (if possible)
+* demonstrate visualization of fractional anisotropy (FA) along the streamlines
 * demonstrate any other components of the user interface (e.g., presentation of the associated measurements, communication of the algorithm metadata).
 
 ## Write task
@@ -33,7 +34,9 @@ Single trackset:
 Multiple tracksets:
 
 * select any two streamline bundles using any method available in your platform (non-intersecting). Make sure to create separate trackset for each of the segmented areas!
+
 * save the results as DICOM TR; if possible, please include in the series description the name of your tool to simplify comparison tasks!
+* save fractional anisotropy (FA) along the streamlines
 * as part of quick checks, confirm that the resulting TR object has the same FrameOfReferenceUID as the reference image
 
 
