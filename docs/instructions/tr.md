@@ -14,7 +14,7 @@ The write task involves generation of tractography streamlines from the provided
 
 !!! info
     * all DWI datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1)
-    * submit the resulting screenshots and datasets by uploading the zip file with the screenshots and resulting objects to [this Dropbox FileRequests location](https://www.dropbox.com/request/XvwJrx22BxMxx6EcIZr3). Make sure that the file is named to include the name of your platform!
+    * submit the resulting screenshots and datasets by uploading the zip file with the screenshots and resulting objects to [this Dropbox FileRequests location](https://www.dropbox.com/request/eQTBFfZqnZBgpzLI2l4C). Make sure that the file is named to include the name of your platform!
 
 ## Read task
 
