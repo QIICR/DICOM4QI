@@ -10,3 +10,5 @@ The present document was created to help with the organization of the exhibit ac
 
  1. to develop and document operating procedures, expectations and organize test datasets.
  2. to report the connectathon results.
+
+ If you have any questions, or just to browse through past discussions, please see our mailing list: [https://groups.google.com/forum/#!forum/dicom4qi](https://groups.google.com/forum/#!forum/dicom4qi).
