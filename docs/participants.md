@@ -1,4 +1,4 @@
-The following platforms/groups joined the submission of the RSNA2016 QIRR DICOM-QI connectathon proposal.
+Following is the list of platforms/groups and the years they joined DICOM4QI as co-authors on the RSNA abstract submission. Platforms/groups that joined but did not submit any results are marked as such.
 
 ## 2015
 
@@ -6,6 +6,8 @@ The following platforms/groups joined the submission of the RSNA2016 QIRR DICOM-
 * [ePAD](https://epad.stanford.edu/) \(contact: Emel Alkim\)
 * [AIM on ClearCanvas](http://www.ict.mahidol.ac.th/research/Imaging-Informatics/index) \(contact: Pattanasak Mongkolwat\)
 * [Brainlab Patient Data Manager](https://www.brainlab.com) \(contact: David Flade\)
+* Eigen Medical (contact: Rajesh Venkateraman) (no results submitted)
+* Hermes Medical (contact: Jan Bertling) (no results submitted)
 
 ## 2016
 
@@ -14,15 +16,15 @@ The following platforms/groups joined the submission of the RSNA2016 QIRR DICOM-
 * [AMI](https://github.com/FNNDSC/ami) \(contact: Nicolas Rannou and Rudolph Pienaar\)
 * [MITK](http://mitk.org) \(contact: Marco Nolden\)
 * [Mint Medical](https://mint-medical.com/products-solutions/) \(contact: Matthias Baumhauer\)
-* [XNAT](https://www.xnat.org/) \(contact: Dan Marcus\)
+* [XNAT](https://www.xnat.org/) \(contact: Dan Marcus\) (no results submitted)
 * [MeVisLab](http://www.mevislab.de/) \(contact: Hans Meine\)
-* [Koelis](http://koelis.com) \(details of the actual platform TBD\) \(contact: Michael Baumann\)
+* [Koelis SAS](http://koelis.com) \(details of the actual platform TBD\) \(contact: Michael Baumann\) (no results submitted)
 * [Pixelmed Toolkit DicomImageViewer](http://www.pixelmed.com/dicomtoolkit.html) \(David Clunie\)
 
 ## 2017
 
 * [Corticometics](http://www.corticometrics.com/) \(contact: Paul Wighton\)
-* [icometrix](https://icometrix.com/) \(contact:Dirk Smeets\)
+* [icometrix](https://icometrix.com/) \(contact:Dirk Smeets\) (no results submitted)
 * [Prism Clinical Imaging](http://www.prismclinical.com/) \(contact: James Reuss\)
 * [VTK-DICOM](https://www.gitbook.com/results/pm/vtk-dicom.md) \(contact: David Gobbi\)
 * [dcmjs + cornerstone](https://github.com/pieper/dcmjs) \(contact Steve Pieper and Erik Ziegler\)

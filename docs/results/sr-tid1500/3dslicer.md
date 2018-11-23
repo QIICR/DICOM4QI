@@ -21,6 +21,20 @@
 
 ![](../slicer/slicer-sr-read-td2.jpg)
 
-1. **Write task**
+## Test dataset \#3
 
-TBD
+Individual radiomics features can be seen in the table layout.
+
+<img src="../slicer/slicer-sr-read-td3.png" width="75%">
+
+## Test dataset \#4
+
+At the moment, 3D Slicer does not support loading of the SR-TID1500 reports that accompany linear measurements.
+
+Work in progress to improve this is in this PR: https://github.com/QIICR/QuantitativeReporting/pull/235.
+
+## Test dataset \#5
+
+Individual volume measurements can be seen in the table layout.
+
+<img src="../../seg/slicer/slicer-read-seg-td6.png" width="75%">

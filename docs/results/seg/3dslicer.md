@@ -58,9 +58,6 @@ Note: Brainlab dataset could not be loaded, since it does not have SliceThicknes
 | -- | -- |
 | dcmqi | <img src="../slicer/slicer-read-seg-td5.png" width="50%"> |
 
-4.**Write task**
+**Test dataset 6**
 
-* segment the lung lesion using any method available in your platform; save the result as DICOM SEG; please include in the series description the name of your tool to simplify comparison tasks!
-  * results are uploaded
-* run [dciodvfy DICOM validator](http://www.dclunie.com/dicom3tools/dciodvfy.html); iterate on resolving the identified issues as necessary
-  * no errors, only warnings from dciodvfy
+<img src="../slicer/slicer-read-seg-td6.png" width="75%">

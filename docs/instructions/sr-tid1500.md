@@ -53,3 +53,7 @@ Radiomics features are encoded using terminology and codes defined by the Imagin
 ## Dataset 4
 
 This SR dataset was created using Pixelmed tools. It contains planimetric annotation of the largest tumor diameter, and length of that diameter. The dataset was collected as part of the Crowds Cure Cancer initiative (see details [here](https://wiki.cancerimagingarchive.net/display/DOI/Crowds+Cure+Cancer%3A+Data+collected+at+the+RSNA+2017+annual+meeting)).The specific dataset corresponds to subject TCGA-BP-4343, series 3, from the [TCIA TCGA-KIRC collection](https://wiki.cancerimagingarchive.net/display/Public/TCGA-KIRC).
+
+## Dataset 5
+
+This dataset contains volume measurements for the [SEG Dataset 6](https://dicom4qi.readthedocs.io/en/latest/instructions/seg/#dataset-6), which is a result of segmentation of 43 brain structures using FreeSurfer. This object can be used to evaluate performance of loading a larger number of segments, and performance of rendering of the result. This dataset was generated using the Corticometrics fs2dicom converter (based on dcmqi) publicly available here: https://github.com/corticometrics/fs2dicom (also available via `pip install fs2dicom`).

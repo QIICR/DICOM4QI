@@ -44,3 +44,7 @@ The imaging dataset consists of a PET and CT series for subject QIN-HEADNECK-01-
 ## Dataset 5
 
 This dataset is a manually created "phantom" that can be used to test correctness of the implementation of bit packing procedures of the implementation. The frame size of this 3-slice dataset is 23x38, which is not divisible by 8, causing the bit-packed representation of the frame not aligning with the byte boundary. The middle slice of the image should show a round region, and the pixels toggled in the segmentation should match those in the image. Segmentation also has pixels toggled in 4 corners of each of the 3 slices.
+
+## Dataset 6
+
+This dataset contains result of segmentation of 43 brain structures using FreeSurfer. This object can be used to evaluate performance of loading a larger number of segments, and performance of rendering of the result. This dataset was generated using the Corticometrics fs2dicom converter (based on dcmqi) publicly available here: https://github.com/corticometrics/fs2dicom (also available via `pip install fs2dicom`).
