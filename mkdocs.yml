@@ -56,6 +56,9 @@ pages:
       - Brainlab: results/tr/brainlab.md
       - MITK: results/tr/mitk.md
       - Prism: results/tr/prism.md
+  - Resources:
+      - Open source tools: resources/software.md
+      - Public datasets: resources/datasets.md
   - History: history.md
   - Acknowledgments: acks.md
   - Referencs: refs.md

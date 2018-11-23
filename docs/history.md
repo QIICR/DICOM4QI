@@ -19,3 +19,7 @@ DICOM parametric maps and TID1500 structured reports added.
 ## 2017
 
 Longitudinal datasets and DICOM tractography objects added.
+
+## 2018
+
+Focus on the use of DICOM Structured Reporting for communicating radiomics features, collaboration with the Imaging Biomarker Standardization Initiative (IBSI).

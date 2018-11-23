@@ -1,0 +1,12 @@
+If you are interested in implementing support for the DICOM objects demonstrated in DICOM4QI, a number of open source tools and toolkits are available to serve as reference or helper imlementations:
+
+* DCMTK (https://dcmtk.org): C++ toolkit that provides API abstractions for reading and writing DICOM SEG, PM, SR-TID1500 and TR. DCMTK also includes a number of useful command line tools to support reuse of DICOM content:
+    - [`dcmdump`](https://support.dcmtk.org/docs/dcmdump.html) and [`dsrdump`](https://support.dcmtk.org/docs/dsrdump.html) to examine the content of DICOM files in general, and DICOM SR specifically. `dcmdump` and `dsrdump` are also available as extension packages for the Atom editor.
+    - [`dsr2xml`](https://support.dcmtk.org/docs/dsr2xml.html) and [`dsr2html`](https://support.dcmtk.org/docs/dsr2html.html) for converting the content of the DICOM SR tree into XML and HTML representations, respectively.
+* dcmqi (https://github.com/qiicr/dcmqi): C++ library and command line tools to support conversion between DICOM SEG, PM, SR-TID1500 and non-standard representations. dcmqi is also wrapped within the [QuantitativeReporting](https://github.com/QIICR/QuantitativeReporting) extension of [3D Slicer](https://slicer.org) and [MITK](http://mitk.org/wiki/MITK).
+* MeVisLab (https://www.mevislab.de/): modular framework for image processing research and development that includes support for DICOM SEG and PM.
+* dcmjs (https://github.com/dcmjs-org/dcmjs): JavaScript library providing some of the functionality for working with DICOM SR-TID1500 and other objects (under active development)
+* fs2dicom (https://github.com/corticometrics/fs2dicom): Python tool based on dcmqi to support conversion of [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) output into DICOM
+* PixelMed Java DICOM toolkit (https://www.pixelmed.com/dicomtoolkit.html): Java library that provides APIs and abstractions for the SEG, PM, SR DICOM objects
+* dicom3toolkit (https://www.dclunie.com/dicom3tools.html): C++ library and a collection of command line tools for working with DICOM objects; importantly, includes [`dciodvfy`](https://www.dclunie.com/dicom3tools/dciodvfy.html), which is the only validator known to us that can be used to evaluate standard coformance of the object types evaluated in DICOM4QI
+* pydicom (https://github.com/pydicom/pydicom): Python library for working with DICOM. Includes implementation of unpacking for DICOM SEG single bit packed PixelData buffer.
