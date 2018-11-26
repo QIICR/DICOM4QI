@@ -14,6 +14,8 @@
 | [Pixelmed DicomImageViewer](pixelmed.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25> |
 | [Siemens syngo.via](syngovia.md) ** * **| <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25> | <img src="../../images/done.png" width=25> |
 | [FreeSurfer](freesurfer.md) | <img src="../../images/done.png" width=25> | N/A | <img src="../../images/done.png" width=25> (see notes)|
+| [Terarecon](terarecon.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25>|
+
 
  **\* DISCLAIMER: Platforms marked with the asterisk were tested without involvement of the platform developers or supporting team.**
 

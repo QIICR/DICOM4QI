@@ -38,6 +38,7 @@ pages:
       - Pixelmed: results/seg/pixelmed.md
       - dcmjs+cornerstone: results/seg/dcmjs+cornerstone.md
       - FreeSurfer: results/seg/freesurfer.md
+      - Terarecon: results/seg/terarecon.md
   - Results - Measurements (DICOM SR TID1500):
       - Summary: results/sr-tid1500/index.md
       - ePAD: results/sr-tid1500/epad.md
