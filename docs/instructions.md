@@ -28,6 +28,8 @@ The datasets specific to each of the types of DICOM objects evaluated are descri
 * [Image-based measurements](instructions/sr-tid1500.md)
 * [Tractography](instructions/tr.md)
 
+The top-level location containing all of the datasets as sub-folder is [here](https://www.dropbox.com/sh/i1scpqdxf8kmqqq/AAAAl0SE-pgkpjEkuGqhASNfa?dl=0).
+
 ## To participate and submit new results
 
 Please use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit).
