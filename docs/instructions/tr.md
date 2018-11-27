@@ -57,4 +57,5 @@ The imaging dataset is a diffusion weighted image of a human brain acquired on a
 Download the DICOM TR datasets produced by the platforms that already submitted results \(data is organized in subfolders corresponding to the individual platforms\):
 
 [LINK TO CURRENT RESULTS DOWNLOAD FOLDER 2018](https://www.dropbox.com/sh/o5545b425dmuf6d/AAB2Tsm0ZXd3VurrEnvgeG0Xa?dl=0)
+
 [LINK TO RESULTS DOWNLOAD FOLDER FROM 2017](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
