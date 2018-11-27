@@ -9,25 +9,22 @@
 * **what DICOM library do you use?**: [DCMQI](https://github.com/QIICR/dcmqi) to write DICOM-SR
 
 2. **Description of the relevant features of the platform**: 
-`fs2dicom` incorporates the volumetric statistics created by FreeSurfer (saved as the `aseg.stats` file) into a DICOM SR object. These can be viewed along with the [DICOM SEG](../../seg/freesurfer) object in viewers such as 3D Slicer:
 
-![](../freesurfer/freesurfer-sr.png)
+   `fs2dicom` incorporates the volumetric statistics created by FreeSurfer (saved as the `aseg.stats` file) into a DICOM SR object. These can be viewed along with the [DICOM SEG](../../seg/freesurfer) object in viewers such as 3D Slicer:
+   ![](../freesurfer/freesurfer-sr.png)
 
 3. Read task: Not supported
 
 4. Write task:
 
 * The file [fs6-dcmqi-ex-rsna2017.tar.gz](https://gate.nmr.mgh.harvard.edu/filedrop2/index.php?p=3xrvjp4cpwo) contains the following:
-
   * `./dicom-anon`: Directory containting input DICOMs for a FreeSurfer-compatible T1 weighted MPRAGE sequence.
   * `./fs2dicom-rsna2018-example/fs-subjects/fs2dicom-rsna2018ex/`: Directory containing the output of the above DICOMs processed with FreeSurfer 6.0 subcortical segmentations
   * `fs-aseg-sr.json`: File containing the volume statistics calculated by FreeSurfer, used to create the DICOM SR
   * `./aseg-sr.dcm`: The DICOM SR image created by `fs2dicom`
   * `./aseg-seg.dcm`: The DICOM SEG image created by `fs2dicom`
   * `./readme.txt`: Description of these contents, and instructions on how to run `fs2dicom` on the results
-
 * Running the example (**NOTE:** `docker` and Python >= 3.4 are required to run this. See the `readme.txt` and the [`fs2dicom` GitHub page](https://github.com/corticometrics/fs2dicom) for more details):
-
 ```text
 pip install fs2dicom   # if not installed previously
 tar zxvf ./fs2dicom-rsna2018-example-v2.tar.gz

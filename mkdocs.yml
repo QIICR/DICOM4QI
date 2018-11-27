@@ -43,6 +43,7 @@ pages:
       - Summary: results/sr-tid1500/index.md
       - ePAD: results/sr-tid1500/epad.md
       - 3D Slicer: results/sr-tid1500/3dslicer.md
+      - FreeSurfer: results/sr-tid1500/freesurfer.md
   - Results - Parametric maps:
       - Summary: results/pm/index.md
       - MeVisLab: results/pm/mevislab.md
