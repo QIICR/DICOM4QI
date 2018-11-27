@@ -1,6 +1,6 @@
 1.**Description of the platform/product**:
 
-* **name and version of the software**: 3D Slicer, Nightly release 4.5.0-2016-11-17, with Reporting Extension installed
+* **name and version of the software**: 3D Slicer, Nightly release 4.5.0-2016-11-17, with Reporting Extension installed (UPDATE: Functionality should be working in 3D Slicer version 4.10 stable and 4.11 nightly, with the [Quantitative Reporting](https://github.com/QIICR/QuantitativeReporting) extension)
 * **free?** yes [http://download.slicer.org](http://download.slicer.org)
 * **commercial?** no
 * **open source?** yes [http://github.com/slicer/slicer](http://github.com/slicer/slicer)
@@ -9,7 +9,7 @@
   * at the moment \(Nov 2016\), there is no user interface or custom modules  to specify quantity or units
   * at the moment \(Nov 2016\), 3D Slicer does not have any modules that generate DICOM parametric map modality objects
 
-1. **Read task** 
+1. **Read task**
 
 ## Test dataset \#1
 

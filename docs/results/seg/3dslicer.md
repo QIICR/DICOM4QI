@@ -1,6 +1,6 @@
 1.**Description of the platform/product**:
 
-* **name and version of the software**: 3D Slicer, Nightly release 4.7.0-2016-11-24, with Reporting extension installed
+* **name and version of the software**: 3D Slicer, Nightly release 4.7.0-2016-11-24, with Reporting extension installed (UPDATE: Functionality should be working in 3D Slicer version 4.10 stable and 4.11 nightly, with the [Quantitative Reporting](https://github.com/QIICR/QuantitativeReporting) extension)
 * **free?** yes [http://download.slicer.org](http://download.slicer.org)
 * **commercial?** no
 * **open source?** yes [http://github.com/slicer/slicer](http://github.com/slicer/slicer)
