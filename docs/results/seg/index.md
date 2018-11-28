@@ -13,7 +13,7 @@
 | XNAT | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> | <img src="../../images/waiting.png" width=25> |
 | [Pixelmed DicomImageViewer](pixelmed.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25> |
 | [Siemens syngo.via](syngovia.md) ** * **| <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25> | <img src="../../images/done.png" width=25> |
-| [FreeSurfer](freesurfer.md) | <img src="../../images/done.png" width=25> | N/A | <img src="../../images/done.png" width=25> (see notes)|
+| [CorticoMetrics FreeSurfer conversion tools](freesurfer.md) | <img src="../../images/done.png" width=25> | N/A | <img src="../../images/done.png" width=25> (see notes)|
 | [Terarecon](terarecon.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/failed.png" width=25>|
 
 

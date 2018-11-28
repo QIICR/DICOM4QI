@@ -37,12 +37,13 @@ pages:
       - AMI: results/seg/ami.md
       - Pixelmed: results/seg/pixelmed.md
       - dcmjs+cornerstone: results/seg/dcmjs+cornerstone.md
-      - FreeSurfer: results/seg/freesurfer.md
+      - CorticoMetrics FreeSurfer conversion tools: results/seg/freesurfer.md
       - Terarecon: results/seg/terarecon.md
   - Results - Measurements (DICOM SR TID1500):
       - Summary: results/sr-tid1500/index.md
       - ePAD: results/sr-tid1500/epad.md
       - 3D Slicer: results/sr-tid1500/3dslicer.md
+      - CorticoMetrics FreeSurfer conversion tools: results/sr-tid1500/freesurfer.md
   - Results - Parametric maps:
       - Summary: results/pm/index.md
       - MeVisLab: results/pm/mevislab.md
