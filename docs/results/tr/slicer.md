@@ -17,8 +17,8 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 
 <table>
 <tr>
-	<td>
-    <img src="./slicer/Reading-SlicerDMRI.jpg" style="display:block;">
+ <td>
+    <img src="../slicer/Reading-SlicerDMRI.jpg" style="display:block;">
   </td>
 </tr>	
 </table>
