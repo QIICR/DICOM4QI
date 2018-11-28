@@ -21,7 +21,7 @@
 
 
 1. **Write task**:
-    * The file [fs2dicom-rsna2018-example-v2.tar.gz](https://gate.nmr.mgh.harvard.edu/filedrop2/index.php?p=3xrvjp4cpwo) contains the following, as well as files to create a [DICOM Structured Report](../../sr-tid1500/freesurfer):
+    * Download the file `fs2dicom-rsna2018-example-v2.tar.gz` by selecting the "Download -> Direct download" menu option from [here](https://www.dropbox.com/sh/srtqgxj70m4husr/AADv-XR-jlUxyYW2q99mVNC1a/Dataset5/SRTID1500-Dataset5-StructuredReports/fs2dicom?dl=0&lst=&preview=fs2dicom-rsna2018-example-v2.tar.gz&subfolder_nav_tracking=1). This contains contains the following, as well as files to create a [DICOM Structured Report](../../sr-tid1500/freesurfer):
         - `./dicom-anon`: Directory containting input DICOMs for a FreeSurfer-compatible T1 weighted MPRAGE sequence.
         - `./fs2dicom-rsna2018-example/fs-subjects/fs2dicom-rsna2018ex/`: Directory containing the output of the above DICOMs processed with FreeSurfer 6.0 subcortical segmentations
         - `./aseg-seg.dcm`: The DICOM seg image created by `fs2dicom`

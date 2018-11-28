@@ -3,6 +3,7 @@
 | -- | -- | -- | -- |
 | [3D Slicer](3dslicer.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/waiting.png" width=25> |
 | [ePAD](epad.md) | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> | <img src="../../images/done.png" width=25> |
+| [CorticoMetrics FreeSurfer conversion tools](freesurfer.md) | <img src="../../images/done.png" width=25> | N/A | <img src="../../images/done.png" width=25> (see notes)|
 
 
 ## Legend
