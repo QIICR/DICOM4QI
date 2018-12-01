@@ -1,4 +1,4 @@
-# Prism
+## 1. Prism
 
 * **Description of the platform/product**:
   * **name and version of the software** Prism View 4.1
@@ -11,7 +11,9 @@
     * do you support any optional measurement data associated with a track? -No
     * do you support any optional summary statistics associated with a track set? -No
     * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) -No
-* **Read task**
+## 2. **Read task**
+
+* 2018 Results:
 
 <table>
 <tr>
@@ -21,13 +23,15 @@
 </tr>	
 </table>
 
+* 2017 Results:
+
 | Data Set | BrainLab | 3DSlicer | MITK | Prism |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | ![](../prism/DataSet1_BrainLab.jpg) | ![](../prism/DataSet1_3DSlicer.jpg) | ![](../prism/DataSet1_MITK.jpg) | ![](../prism/DataSet1_PrismScreenCapture.jpg) |
 | 2 | N/A | ![](../prism/DataSet2_3DSlicer.jpg) | ![](../prism/DataSet2_MITK.jpg) | ![](../prism/DataSet2_PrismScreenCapture.jpg) |
 | 3 | ![](../prism/DataSet3_BrainLab.jpg) | ![](../prism/DataSet3_3DSlicer.jpg) | N/A | ![](../prism/DataSet3_PrismScreemCapture.jpg) |
 
-* **Write task**
+## 3. **Write task**
   * Datasets are available in the "Prism" folder of the [2018 Results Dropbox folder](https://www.dropbox.com/sh/mfnfejjk67iow9b/AACOcnoecdIhsSmjRMjkfDYXa?dl=0).
   * Datasets are available in the "Prism" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
