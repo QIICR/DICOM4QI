@@ -14,8 +14,11 @@
      * the DICOM tags relevant to associate the tractogram to the original image have to be copied manually from the imported DICOM image. Manually here means that to select the image and the new tractogram and to click a button in the application GUI \(see screenshot "TagGui.png"\).
    * Dataset 3 was not read correctly --&gt; no tractogram for dataset 3
 
-## 2. Read task: TR objects from each platform, loaded and displayed in MITK.
+## 2. Read task
 
+TR objects from each platform, loaded and displayed in MITK.
+
+* 2017 Results:
 <table>
 <tr>
   <td width="33%">MITK</td>
@@ -101,7 +104,7 @@
 
 ## 3. Write task
 
-* Datasets are available in the "MITK" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+* Datasets are available in the "MITK" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
 ### Results of validation using `dciodvfy`
 
