@@ -16,6 +16,7 @@
 Screenshots of trackset results for each platform, loaded with 3D Slicer, are shown below.   
 
 * 2018 Results:
+
 <table>
 <tr>
  <td>
@@ -23,6 +24,8 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
   </td>
 </tr>	
 </table>
+
+* 2017 Results:
 
 <table>
 <tr>
@@ -33,7 +36,6 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
   <td>Prism</td>
 </tr>
 
-* 2017 Results:
 <!-- dataset_1 -->
 <tr>
   <td>1</td>
