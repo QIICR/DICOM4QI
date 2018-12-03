@@ -10,8 +10,3 @@
 * <img src="../../images/waiting.png" width=25> waiting for response
 * <img src="../../images/done.png" width=25> task completed
 * <img src="../../images/failed.png" width=25> no response received, or for some reason task could not be completed
-
-## DICOM source DWI datasets and resulting TR objects
-
-* source DICOM DWI can be downloaded [here](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1) (zip file in Dropbox)
-* resulting DICOM TR objects generated using different platforms listed above can be downloaded [here](https://www.dropbox.com/sh/o5545b425dmuf6d/AAB2Tsm0ZXd3VurrEnvgeG0Xa?dl=0) Dropbox folder)
