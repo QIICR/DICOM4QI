@@ -105,11 +105,11 @@
 </tr>
 </table>
 
-## 3. **Write tasks**
+## 3. **Write task**
 
 * Datasets are available in the "BrainLab" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0).
 
-**Notes:**
+### Notes:
 
 * **Multiple Track Sets**:
 
@@ -158,6 +158,6 @@
         * Minimum, Maximum and Mean Fractional Anisotropy values  
         * Minimum, Maximum and Mean Track lengths \(no units, but is millimeter\)
 
-#### Results of validation using `dciodvfy`
+### Results of validation using `dciodvfy`
 
 Pending
