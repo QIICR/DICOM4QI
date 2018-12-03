@@ -1,4 +1,5 @@
-1. **Description of the platform/product**:
+## 1. **Description of the platform/product**:
+
    * **name and version of the software**: MITK Workbench \(not yet released, the TR support features are available in the `master` of the source code, and will appear in the next stable release\)
    * **free?** yes - [http://mitk.org/Downloads](http://mitk.org/Downloads)
    * **commercial?** no
@@ -14,11 +15,12 @@
      * the DICOM tags relevant to associate the tractogram to the original image have to be copied manually from the imported DICOM image. Manually here means that to select the image and the new tractogram and to click a button in the application GUI \(see screenshot "TagGui.png"\).
    * Dataset 3 was not read correctly --&gt; no tractogram for dataset 3
 
-## 2. Read task
+## 2. **Read task**
 
 TR objects from each platform, loaded and displayed in MITK.
 
-* 2017 Results:
+* Results: tracts 3D visualization
+
 <table>
 <tr>
   <td width="33%">MITK</td>
@@ -101,8 +103,7 @@ TR objects from each platform, loaded and displayed in MITK.
 </tr>
 </table>
 
-
-## 3. Write task
+## 3. **Write tasks**
 
 * Datasets are available in the "MITK" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
