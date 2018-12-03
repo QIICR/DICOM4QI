@@ -6,16 +6,16 @@
 * **open source?**: yes: [https://github.com/SlicerDMRI](https://github.com/SlicerDMRI)
 * **what DICOM library do you use?**: DCMTK
 * **Description of the relevant features of the platform**:
-  * are multiple tracksets supported in a single file? - **Not currently**
-  * do you support any optional measurement data associated with a track? - **Yes**
-  * do you support any optional summary statistics associated with a track set? - **Not currently**
-  * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
+   * are multiple tracksets supported in a single file? - **Not currently**
+   * do you support any optional measurement data associated with a track? - **Yes**
+   * do you support any optional summary statistics associated with a track set? - **Not currently**
+   * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) - **No**
 
 ## 2. **Read task**
 
 Screenshots of trackset results for each platform, loaded with 3D Slicer, are shown below.   
 
-* 2018 Results:
+* Results: tracks with FA
 
 <table>
 <tr>
@@ -25,7 +25,7 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 </tr>	
 </table>
 
-* 2017 Results:
+* Results: tracts 3D visualization
 
 <table>
 <tr>
@@ -101,6 +101,4 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 
 ## 3. **Write tasks**
 
-* Datasets are available in the "SlicerDMRI" folder of the [2018 Results Dropbox folder](https://www.dropbox.com/sh/mfnfejjk67iow9b/AACOcnoecdIhsSmjRMjkfDYXa?dl=0).
-
-* Datasets are available in the "3DSlicer" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+* Datasets are available in the "SlicerDMRI" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0).
