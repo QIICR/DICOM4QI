@@ -1,4 +1,4 @@
-### 1. Description of the platform/product
+## 1. **Description of the platform/product**:
 
 * **name and version of the software** Brainlab FiberTracking 1.1.0
 * **free?** no
@@ -12,7 +12,9 @@
   * **Statistics stored per Track Set:** The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for the whole Track Set. The _Minimum, Maximum and Mean Track length_ is stored as additional statistical information for the whole Track Set.
   * **Diffusion Model, Method of Acquisition, Algorithm identification and Anatomical information** is contained in each DICOM TR instance created by the software.
 
-## 2. Read task -- result of rendering for each dataset
+## 2. Read task
+
+* Results: tracks with FA
 
 <table>
  <tr>
@@ -21,6 +23,8 @@
    </td>
  </tr>
 </table>
+
+* Results: tracts 3D visualization
 
 <table style="width:100%;table-layout:fixed;">
  
@@ -101,12 +105,11 @@
 </tr>
 </table>
 
+## 3. **Write tasks**
 
-### 3. Write tasks
+* Datasets are available in the "BrainLab" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0).
 
-* [Link to download TR objects](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AABlqE8dHd6PUWd5upKZ-Dtua/BrainLab?dl=0)
-
-  **Notes:**
+**Notes:**
 
 * **Multiple Track Sets**:
 
