@@ -12,7 +12,7 @@
   * **Statistics stored per Track Set:** The _Minimum, Maximum and Mean Fractional Anisotropy_ Value is stored as additional statistical information for the whole Track Set. The _Minimum, Maximum and Mean Track length_ is stored as additional statistical information for the whole Track Set.
   * **Diffusion Model, Method of Acquisition, Algorithm identification and Anatomical information** is contained in each DICOM TR instance created by the software.
 
-## 2. Read task
+## 2. **Read task**
 
 * Results: tracks with FA
 
