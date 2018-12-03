@@ -99,6 +99,10 @@ Screenshots of trackset results for each platform, loaded with 3D Slicer, are sh
 </tr>
 </table>
 
-## 3. **Write tasks**
+## 3. **Write task**
 
 * Datasets are available in the "SlicerDMRI" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0).
+
+### Results of validation using `dciodvfy`
+
+Pending
