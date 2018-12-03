@@ -1,6 +1,5 @@
-## 1. Prism
+## 1. **Description of the platform/product**:
 
-* **Description of the platform/product**:
   * **name and version of the software** Prism View 4.1
   * **free?** No
   * **commercial?** Yes, [http://prismclinical.com/index.html](http://prismclinical.com/index.html)
@@ -13,7 +12,7 @@
     * do you write any other optional information to the TR file? \(e.g. acquisition, model, attribute, algorithm identification etc.\) -No
 ## 2. **Read task**
 
-* 2018 Results:
+* Results: tracks with FA
 
 <table>
 <tr>
@@ -23,7 +22,7 @@
 </tr>	
 </table>
 
-* 2017 Results:
+* Results: tracts 3D visualization
 
 | Data Set | BrainLab | 3DSlicer | MITK | Prism |
 | :--- | :--- | :--- | :--- | :--- |
@@ -32,10 +31,10 @@
 | 3 | ![](../prism/DataSet3_BrainLab.jpg) | ![](../prism/DataSet3_3DSlicer.jpg) | N/A | ![](../prism/DataSet3_PrismScreemCapture.jpg) |
 
 ## 3. **Write task**
-  * Datasets are available in the "Prism" folder of the [2018 Results Dropbox folder](https://www.dropbox.com/sh/mfnfejjk67iow9b/AACOcnoecdIhsSmjRMjkfDYXa?dl=0).
-  * Datasets are available in the "Prism" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
 
-## 2017 Results of validation using `dciodvfy`
+* Datasets are available in the "Prism" folder of the [Results Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0).
+
+### Results of validation using `dciodvfy`
 
 ```text
 Track Set 1:
