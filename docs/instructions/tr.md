@@ -13,7 +13,7 @@ The write task involves generation of tractography streamlines from the provided
     The screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
 
 !!! info
-    * all DWI datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/qv1mo5lg5bzykps/AAB721QJ1VjZUm4oUSAleHsWa?dl=1)
+    * all DWI datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0). 
     * submit the resulting screenshots and datasets by uploading the zip file with the screenshots and resulting objects to [this Dropbox FileRequests location](https://www.dropbox.com/request/eQTBFfZqnZBgpzLI2l4C). Make sure that the file is named to include the name of your platform!
 
 ## Read task
@@ -51,11 +51,3 @@ The imaging dataset is a diffusion weighted image of a human brain acquired on a
 ### DWI dataset #3
 
 The imaging dataset is a diffusion weighted image of a human brain acquired on a 3T GE Signa HDx. Data credit: University of Iowa BRAINS project, DWIConvert test dataset \([source, metadata, and license](http://slicer.kitware.com/midas3/item/92995)\).
-
-### Generated Tractography Result datasets
-
-Download the DICOM TR datasets produced by the platforms that already submitted results \(data is organized in subfolders corresponding to the individual platforms\):
-
-[LINK TO CURRENT RESULTS DOWNLOAD FOLDER 2018](https://www.dropbox.com/sh/o5545b425dmuf6d/AAB2Tsm0ZXd3VurrEnvgeG0Xa?dl=0)
-
-[LINK TO RESULTS DOWNLOAD FOLDER FROM 2017](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0)
