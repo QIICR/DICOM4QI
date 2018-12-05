@@ -105,7 +105,7 @@ TR objects from each platform, loaded and displayed in MITK.
 
 ## 3. **Write tasks**
 
-* Datasets are available in the "MITK" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/gmy2nt1mlfk1k2w/AADIdfcLUUZ8ViAh7i6x0aana?dl=0).
+* Datasets are available in the "MITK" folder of the [2017 Results Dropbox folder](https://www.dropbox.com/sh/i1scpqdxf8kmqqq/AABAZNT7tRAWrklYgtr7JNgia/TR?dl=0&subfolder_nav_tracking=1).
 
 ### Results of validation using `dciodvfy`
 
