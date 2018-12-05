@@ -1,7 +1,7 @@
 !!! info
     When ready to submit, use the [DICOM4QI Submission Google Form](http://bit.ly/dicom4qi-submit)
 
-The purpose of this task is to demonstrate support of the [DICOM Tractography Results](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.78.html) \(DICOM TR\) object. Following our successful connectathon at RSNA 2017, we propose expanded tasks that test another feature of the standard: reading, writing, and visualization of diffusion data (specifically, fractional anisotropy) along the tractography streamlines. 
+The purpose of this task is to demonstrate support of the [DICOM Tractography](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.78.html) \(DICOM TR\) object. Following our successful connectathon at RSNA 2017, we propose expanded tasks that test another feature of the standard: reading, writing, and visualization of diffusion data (specifically, fractional anisotropy) along the tractography streamlines. 
 
 The basic read task involves loading the existing DICOM TR object, and demonstrating visualization of the tractography relative to the reference image.
 
@@ -13,7 +13,7 @@ The write task involves generation of tractography streamlines from the provided
     The screenshots and the DICOM TR objects you submit will be distributed publicly and included in this document in the Results section.
 
 !!! info
-    * all DWI datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/vqp0zhagboit2hw/AAAYWmCQTHcGMh48AvhY2GNFa?dl=0). 
+    * all DWI datasets are organized in [this Dropbox folder](https://www.dropbox.com/sh/i1scpqdxf8kmqqq/AABAZNT7tRAWrklYgtr7JNgia/TR?dl=0&subfolder_nav_tracking=1). 
     * submit the resulting screenshots and datasets by uploading the zip file with the screenshots and resulting objects to [this Dropbox FileRequests location](https://www.dropbox.com/request/eQTBFfZqnZBgpzLI2l4C). Make sure that the file is named to include the name of your platform!
 
 ## Read task
