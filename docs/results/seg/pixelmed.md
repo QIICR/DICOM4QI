@@ -19,6 +19,8 @@
 
 **Steps to load DICOM SEG into Pixelmed image viewer:**
 
+NOTE: this tool expects that both the image and the segmentation are stored in the same orientation! If they are not, there will be no error, but SEG overlay will not be displayed!
+
 **1.** Convert image dataset into multiframe using script such as below \(parameters: input single-frame DICOM directory, and the directory for the output multiframe image\):
 
 ```text
