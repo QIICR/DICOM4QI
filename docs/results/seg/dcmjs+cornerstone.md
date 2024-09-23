@@ -52,6 +52,6 @@ TBD
 
 For now a [simple live demo](https://pieper.github.io/dcmjs/examples/createSegmentation/index.html) exists to create a SEG and multiframe MR object from some sample data.
 
-Example output [is available for download](https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0)
+Example output [is available for download]([https://drive.google.com/open?id=0Bygzw56l1ZC-TWRwSUo5MEF6TU0](https://drive.google.com/file/d/0Bygzw56l1ZC-TWRwSUo5MEF6TU0/view?usp=sharing&resourcekey=0-lFRjqrlwvgvppn_OJWa_HA))
 
 ![](../dcmjs/dcmjs-qiicr-save-seg.png)
